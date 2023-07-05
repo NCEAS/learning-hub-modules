@@ -1,0 +1,25 @@
+---
+title: "NCEAS Learning Hub Data Science Modules"
+---
+
+## Welcome!
+
+NCEAS' Learning Hub is exited to offer Data Science training opportunities to synthesis working groups. 
+
+NCEAS is a leading expert on interdisciplinary data science and works collaboratively to answer the world’s largest and most complex questions. The NCEAS approach leverages existing data and employs a team science philosophy to squeeze out all potential insights and solutions efficiently - this is called [synthesis science](https://www.nceas.ucsb.edu/our-approach).
+
+With over 25 years of experience working with working groups and environmental professionals, NCEAS wants to make sure to along skills, workflows, mindsets for successfully doing synthesis science. 
+
+
+## This Site
+
+Here you can find the description and requirement for all of the data science modules currently available in our curriculum. We offer variety of data science training, from technical to non-technical skills, beginners and intermediate users.
+
+
+The idea is for your team to decide which skills would be more helpful to learn to advance you science. Then we work together to schedule one or more workshops and make sure you can successfully apply these new skills to your project.
+ 
+ 
+
+## Why learn this tools?
+
+mention something about reproducibility and better science in less time

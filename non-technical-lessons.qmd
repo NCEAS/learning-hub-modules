@@ -1,0 +1,21 @@
+---
+title: "Non-Technical Modules"
+format: html
+---
+Non technical lessons aim to...
+
+
+
+
+## Introduction to reproducible science (LEGO activity)
+
+
+## Documenting and Publishing data
+
+## FAIR and CARE principles
+
+## Social aspects of collaboration
+
+## Writting Data Mangament Plan
+
+## Teach me how to Google

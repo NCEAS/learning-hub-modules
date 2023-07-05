@@ -1,0 +1,91 @@
+project:
+  type: website
+  output-dir: docs
+
+website:
+  title: "NCEAS Data Science Modular Training"
+  page-navigation: true
+  repo-url: https://github.com/NCEAS/learning-hub-modules
+  repo-actions: [edit, issue]
+  
+  
+  page-footer:
+    right: "This page is built with ❤️ and [Quarto](https://quarto.org/)."
+    #left: "&copy; Copyright 2023, Learning Hub"
+    background: "#D9E3E4"
+  
+  
+  sidebar:
+    background: "#D9E3E4"
+    logo: "images/lh-logo.png"
+    pinned: true
+    align: center
+    tools:
+      - icon: house-door-fill
+        href: https://www.nceas.ucsb.edu/learning-hub
+        text: "NCEAS Learning Hub website"
+      - icon: twitter
+        href: https://twitter.com/ucsb_nceas
+        text: "NCEAS twitter"
+      - icon: github
+        href: https://github.com/NCEAS/learning-hub-modules
+        text: "GitHub repository"
+        
+  
+  
+    style: "docked"
+    search: true
+    #collapse-level: 1
+    contents:
+      - section: "Modules"
+        contents:
+          - href: technical-lessons.qmd
+            text: Technical Modules
+          - href: non-technical-modules.qmd
+            text: Non-technical Modules
+          # - href: course-support.qmd
+          #   text: Support
+          # - href: course-team.qmd
+          #   text: Teaching team
+          # - href: index.qmd
+          #   text: Schedule
+          # - href: course-links.qmd
+          #   text: Useful links
+          # - href: course-faq.qmd
+          #   text: FAQ
+      - section: "Bundles"
+        contents:
+          - href: intro-level.qmd
+            text: Beginners
+          - href: intermediate-level.qmd
+            text: Intermediate
+          - href: additional-lessons.qmd
+            text: Additional Lessons
+      - section: "Other Services"
+        contents:
+          - href: additional-resources.qmd
+            text: Additional Resourcees
+      
+
+format:
+  html:
+    theme:
+      light: [cosmo, theme.scss]
+      # dark: [cosmo, theme-dark.scss]
+    mainfont: "Atkinson Hyperlegible"
+    code-copy: true
+    code-overflow: wrap
+    toc: true
+
+freeze: auto
+
+editor: visual
+
+
+# format:
+#   html:
+#     theme: cosmo
+#     css: styles.css
+#     toc: true
+
+
