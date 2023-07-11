@@ -14,12 +14,12 @@ None
 
 ## Learning Goals
 
-    1.  Get familiarize with RStudio interface
-    2.  Learn the basics of R syntax (functions, packages, objects, vectors, assignment operator)
-    3.  Understand the difference between a script and the console
-    4.  Create and inspect vectors, identifying their class, content and structure
-    5.  Read and inspect data in R and understand the data structure
-    6.  Apply basic mathematical operations with values in a data table
+  1.  Get familiarize with RStudio interface
+  2.  Learn the basics of R syntax (functions, packages, objects, vectors, assignment operator)
+  3.  Understand the difference between a script and the console
+  4.  Create and inspect vectors, identifying their class, content and structure
+  5.  Read and inspect data in R and understand the data structure
+  6.  Apply basic mathematical operations with values in a data table
 
 ## Duration
 

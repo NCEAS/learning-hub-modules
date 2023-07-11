@@ -16,9 +16,10 @@ More often than not computational analysis is written in a way that is borderlin
 
 ## Learning Goals
 
-    1.  Introduce Quarto as a tool for literate analysis
-    2.  Learn markdown syntax and run R code in Quarto
-    3.  Understand the "environments" and file paths when working with Quarto documents
+  1.  Introduce Quarto as a tool for literate analysis
+  2.  Learn markdown syntax and run R code in Quarto
+  3.  Understand the "environments" and file paths when working with Quarto documents
 
 ## Duration
-
+ 
+ 2 hours
