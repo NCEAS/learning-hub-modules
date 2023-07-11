@@ -1,8 +1,10 @@
 ---
 title: "Literate Analysis with Quarto"
-categories: [R, Quarto]
+categories: [Quarto]
 image: horst-quarto-collab.png
 ---
+
+> Combine prose and code in one document! Literate analysis is a fundamental tool for making your work reproducible.
 
 ## Description
 More often than not computational analysis is written in a way that is borderline incomprehensible even to the person who originally wrote the code. Quarto is a tool that allows you to combine prose with code. This way be able to do analysis and write reports all in one place. This course introduces the concept of literate analysis and explores the main functionalities of a Quarto document combining R, the programming language, and markdown, a set of text formatting directives.
@@ -10,15 +12,14 @@ More often than not computational analysis is written in a way that is borderlin
 
 
 ## Prerequisites
-
-    -   Basic knowledge about R and RStudio.
-    -   If you are new to R consider taking our Intro to programming in R using RStudio lesson.
+- Basic knowledge about R and RStudio.
+- If you are new to R consider taking our Intro to programming in R using RStudio lesson.
 
 ## Learning Goals
 
-  1.  Introduce Quarto as a tool for literate analysis
-  2.  Learn markdown syntax and run R code in Quarto
-  3.  Understand the "environments" and file paths when working with Quarto documents
+- Introduce Quarto as a tool for literate analysis
+- Learn markdown syntax and run R code in Quarto
+- Understand the "environments" and file paths when working with Quarto documents
 
 ## Duration
  

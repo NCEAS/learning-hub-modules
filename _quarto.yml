@@ -64,7 +64,7 @@ website:
       - section: "Other Services"
         contents:
           - href: additional-resources.qmd
-            text: Additional Resourcees
+            text: Additional Resources
       
 
 format:
