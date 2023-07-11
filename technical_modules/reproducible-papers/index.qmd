@@ -1,0 +1,24 @@
+---
+title: "Reproducible Papers"
+categories: [reproducibility, intermediate]
+image: reproducible-data-analysis.png
+---
+
+> Take reproducibility to the next level. Pack all the elements of your research into one container so future you and others can reproduce your work.
+
+
+## Description
+Under the reproducible umbrella, this lesson aims to provide tools and a framework for writing reproducible papers. The idea is to leverage on different R packages that can help you organize your research from start to finish. Particularly focusing on formatting publication manuscripts for specific journal.
+
+## Prerequisites
+- Basic knowledge about R and RStudio
+- Familiarity with Rmarkdown and/or Quarto
+
+
+## Learning Goals
+- Introduce the concept of reserach compendium
+- Learn how to use R to package your work by building a reproducible paper in
+RMarkdown/Quarto
+
+## Duration
+1 hour
