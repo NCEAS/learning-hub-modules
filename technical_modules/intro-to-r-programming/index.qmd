@@ -1,6 +1,6 @@
 ---
 title: "Introduction to programming in R using RStudio"
-categories: [Beginner]
+categories: [beginner]
 image: allison-horst-code-kitchen.png
 ---
 

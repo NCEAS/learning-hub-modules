@@ -1,0 +1,22 @@
+---
+title: "[Lesson Title]"
+categories: [tag1, tag1]
+image: image-displyed-in-card.png
+draft: true
+---
+
+> Short description to display on card. Max 175 charactesr.
+
+## Description
+What is the lesson about?
+
+## Prerequisites
+- List with
+- All necessary skills to take this lesson
+
+## Learnig Goal
+- list format
+- What will be achived in this lesson
+
+## Duration
+2 hours
