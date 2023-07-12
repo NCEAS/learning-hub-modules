@@ -1,6 +1,6 @@
 ---
 title: "Using `sf` for Spatial Data"
-categories: [intermedaite, data vis]
+categories: [intermediate, data vis]
 image: horst-sf.png
 ---
 
