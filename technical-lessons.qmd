@@ -17,7 +17,7 @@ page-layout: full
 title-block-banner: false
 ---
 
-Technical lessons aim to teach and practice a specific data science tool. The format generally combines lecture to introduce concepts, live coding and hand-on practice sessions. Here we provide a list with a short description of our current technical offerings. The specific goals of each of these lessons can be adapted to best fit your team and meet all participants where they are. If you are interested in a topic that is not on this list, please let us know and we are happy to discuss the feasibility of creating new materials.
+Technical lessons aim to teach and practice a specific data science tool. The format generally combines lecture to introduce concepts, live coding and optional hand-on practice sessions. Here we provide a list with a short description of our current technical offerings. The specific goals of each of these lessons can be adapted to best fit your team and meet all participants where they are. If you are interested in a topic that is not on this list, please let us know and we are happy to discuss the feasibility of creating new materials.
 
 
 For all of these lessons participants will need a computer with recent versions of R and RStudio installed. Check out instructions to install or upgrade R and RStudio [here](https://happygitwithr.com/install-r-rstudio.html).

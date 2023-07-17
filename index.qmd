@@ -22,4 +22,4 @@ The idea is for your team to decide which skills would be more helpful to learn 
 
 ## Why learn this tools?
 
-mention something about reproducibility and better science in less time
+[mention something about reproducibility and better science in less time]

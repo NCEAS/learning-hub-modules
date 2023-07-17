@@ -1,8 +1,8 @@
 ---
 title: "[Lesson Title]"
 categories: [tag1, tag1]
-image: image-displyed-in-card.png
-draft: true
+image: image-displyed-in-card.png ##update name
+draft: true ## delete this line to make card live
 ---
 
 > Short description to display on card. Max 175 charactesr.
@@ -15,8 +15,8 @@ What is the lesson about?
 - All necessary skills to take this lesson
 
 ## Learnig Goal
-- list format
-- What will be achived in this lesson
+- List format
+- What will be achieved in this lesson
 
 ## Duration
 2 hours
