@@ -1,0 +1,21 @@
+---
+title: "Publishing to the Web using GitHub Pages"
+categories: [github, intermediate]
+image: githubpages.jpg 
+---
+
+> Tools like Quarto, RMarkdown, and GitHub allows you to share your work with others in a beautiful and easy to read web page.
+
+## Description
+Sharing your work with others in engaging ways is an important part of the scientific process. This lesson shows you how to turn a GitHub repository into a webpage to easily share your analysis, code, and writing with others.
+
+## Prerequisites
+- Have a GitHub account (you can sign up at [github.com](github.com))
+- Familiarity with GitHub (consider taking Introduction to `Git` and GitHub)
+- Be comfortable using R and RStudio
+
+## Learnig Goal
+- Practice how to use `Git`, GitHub (+Pages), and R Markdown or Quarto to publish an analysis to the web
+
+## Duration
+30 min

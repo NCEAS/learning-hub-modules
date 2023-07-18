@@ -1,0 +1,21 @@
+---
+title: "Reproducible Survey Workflow"
+categories: [beginner]
+image: qualtics.png ## FIND AN IMAGE
+---
+
+> Short description to display on card. Max 175 charactesr.
+
+## Description
+In this lesson we will use the `qualtRics` package to reproducible access some survey results set up for this course.
+
+## Prerequisites
+- Familiarity with R and RStudio
+- Know basics of the R packages `dplyr`, `tidyr` & `ggplot2`
+
+## Learnig Goal
+- Overview of survey tools
+- Generating a reproducible survey report with Qualtrics
+
+## Duration
+2 hours

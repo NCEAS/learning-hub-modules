@@ -1,0 +1,25 @@
+---
+title: "Reproducible Data Access"
+categories: [intermediate]
+image: contentid-registries.png
+---
+
+> Accesing data is the first step to any analysis. Being able to do this in a portable is the ultimate goal to make your work as reproducible as possible.
+
+## Description
+Traditional ways of working with data – as files on a specific computer – limit the reproducibility of code to local compute environments. A typical R analysis file will load one or many data files from the local disk. However, it is rarely the case that those file paths work on your colleague's machine. Alternatively we can access data through the Internet with a URL. But what happens if the URL to the data changes? (Which they often do). This lesson teaches you about pins and content identifiers and how to use them to access your data in a robust reproducible way.
+
+
+
+## Prerequisites
+- Be familiar with R and RStudio
+
+## Learnig Goal
+- Best practices for reproducible data access
+- Accessing data on the web and with pins
+- How content identifiers differ from DOIs and make research more reproducible
+- Ways to register and resolve content identifiers for unpublished data
+- How content identifiers can resolve to published data source
+
+## Duration
+1 hour

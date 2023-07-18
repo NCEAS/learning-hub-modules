@@ -4,7 +4,7 @@ categories: [beginner, GitHub]
 image: vc-local-github.png
 ---
 
-> Benefit from Git and GitHub power to facilitate collaborative research and code management practices. GitHub is design to store, track changes, and enable collaboration on computer code.
+> Benefit from `Git` and GitHub's power to facilitate collaborative research and code management practices. 
 
 
 ## Description
