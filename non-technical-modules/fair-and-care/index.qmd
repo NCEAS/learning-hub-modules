@@ -1,0 +1,22 @@
+---
+title: "The FAIR and CARE Principles"
+categories: [data ethics]
+image: FAIR_CARE.png
+---
+
+> These principles aim to make data available to machines, researchers, Indigenous communities, policy makers, and more.
+
+## Description
+The idea behind these principles is to increase access and usage of complex and large datasets for innovation, discovery, and decision-making. This lessons reviews each of these principles providing examples on how to out them in practice when working with data. This module mixes briefing of content, discussion and exercises for participants to evaluate these principles with real data.
+
+## Prerequisites
+None
+
+## Learnig Goal
+- Introduce FAIR and CARE principles and the value it provides to data
+- Provide a FAIR and CARE lens that can be applied to your data-focused work
+- Evaluate the FAIRness and CAREness of your work and the work of others
+
+
+## Duration
+1 hours

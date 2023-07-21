@@ -41,7 +41,7 @@ website:
         contents:
           - href: technical-lessons.qmd
             text: Technical Modules
-          - href: non-technical-modules.qmd
+          - href: non-technical-lessons.qmd
             text: Non-technical Modules
           # - href: course-support.qmd
           #   text: Support
