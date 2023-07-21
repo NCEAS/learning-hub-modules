@@ -61,7 +61,7 @@ website:
             text: Intermediate
           - href: additional-lessons.qmd
             text: Additional Lessons
-      - section: "Other Services"
+      - section: "Data Support"
         contents:
           - href: additional-resources.qmd
             text: Additional Resources

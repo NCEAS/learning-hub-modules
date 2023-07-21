@@ -12,7 +12,7 @@ listing:
   date-format: medium
   categories: numbered
   sort-ui: false
-  filter-ui: false
+  filter-ui: true
 page-layout: full
 title-block-banner: false
 ---
