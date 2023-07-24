@@ -4,18 +4,23 @@ categories: [reproducibility]
 image: prov-history.png
 ---
 
-> Reproducible workflows increase research effcicinecy, accelerates collaboration and increase trust in science. Providing a comprehensive path of our work allows others fully interpret, reproduce or build upon our research.
+> Reproducible workflows increase research effcicinecy, accelerates collaboration and increase trust in science. 
+
+<!--Providing a comprehensive path of our work allows others fully interpret, reproduce or build upon our research.-->
 
 ## Description
-In most cases the methods sections of papers are inadequate to fully reproduce the work described in the paper. By looking at a figure on a paper we don’t get the full story how did the scientist got to make this plot. This lesson introduces de concepts of computational reproducibility and provenance and gives an overview on how they can be achieved in your work.
 
+In most cases the methods sections of papers are inadequate to fully reproduce the work described in the paper. By looking at a figure on a paper we don't get the full story how did the scientist got to make this plot. This lesson introduces de concepts of computational reproducibility and provenance and gives an overview on how they can be achieved in your work.
 
 ## Prerequisites
+
 None
 
 ## Learnig Goal
-- Discuss the concept of reproducible workflows including computational reproducibility and provenance metadata
-- Introduce tools and techniques for reproducibility supported by the NCEAS and DataONE
+
+-   Discuss the concept of reproducible workflows including computational reproducibility and provenance metadata
+-   Introduce tools and techniques for reproducibility supported by the NCEAS and DataONE
 
 ## Duration
+
 30 min

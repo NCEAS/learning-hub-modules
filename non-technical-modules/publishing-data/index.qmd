@@ -1,0 +1,26 @@
+---
+title: "Publishing data"
+categories: [data management]
+image: image-displyed-in-card.png ##update name
+draft: true ## delete this line to make card live
+---
+
+> Short description to display on card. Max 175 charactesr.
+
+## Description
+
+What is the lesson about?
+
+## Prerequisites
+
+-   List with
+-   All necessary skills to take this lesson
+
+## Learnig Goal
+
+-   List format
+-   What will be achieved in this lesson
+
+## Duration
+
+2 hours

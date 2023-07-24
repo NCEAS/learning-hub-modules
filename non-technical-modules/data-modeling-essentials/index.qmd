@@ -4,19 +4,26 @@ categories: [tidy data]
 image: horst-tidy-data-friends.jpeg
 ---
 
-> Following best practices to format data tables allows us to manage and analyze data efficiently. Tidy and normalize data prnciples are a standarize way to organize data frames to achive structued data formats.
+> Following best practices to format data tables allows us to manage and analyze data efficiently. 
+
+
+<!--Tidy and normalize data principles are a standarize way to organize data frames to archive structured data formats.-->
 
 ## Description
+
 Preparing your data for analysis can me time consuming and tedious. But, it is a necessary step before analyzing your data. This lesson dives deep into what is tidy and normalize data and how make sure your data structure follow a "tidy structure". It also introduces relational data models and provides an overview of merging data using joins. This lesson explores fundamentals concepts for working with data and includes a hands on exercise to apply these concepts to a real data set.
 
 ## Prerequisites
+
 None
 
 ## Learnig Goal
-- Applying tidy and normalized data principles
-- Following best practices to format data tables’ content
-- Relating tables following relational data models principles
-- Understanding how to perform table joins.
+
+-   Applying tidy and normalized data principles
+-   Following best practices to format data tables' content
+-   Relating tables following relational data models principles
+-   Understanding how to perform table joins.
 
 ## Duration
+
 2 hours

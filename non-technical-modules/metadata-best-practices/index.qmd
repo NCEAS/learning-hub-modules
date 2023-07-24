@@ -1,0 +1,26 @@
+---
+title: "Metadata Best Practices"
+categories: [data management]
+image: data-metadata-repro.png
+---
+
+> Metadata is the data about your data. Having an organized and detailed metadata is key for reprodcucibility and reuse of your data.
+
+
+## Description
+
+Within the data life cycle you can be collecting data (creating new data) or integrating data that has all ready been collected. Either way, metadata plays a major role to successfully spin around the cycle because it enables data reuse long after the original collection. This lesson walks through guidelines and best practices that will help you organize the documentation of your data.
+
+
+## Prerequisites
+
+None
+
+## Learnig Goal
+
+- Understand metadata guidelines and best practices for reproducibility
+- Introduce useful metadata standards within the environmental/ecology field
+
+## Duration
+
+30 min
