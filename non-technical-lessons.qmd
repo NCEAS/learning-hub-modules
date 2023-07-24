@@ -1,6 +1,6 @@
 ---
 title: "Non-Technical Modules"
-# subtitle: "List of all of the specialized modules we offer. Click in each card to learn more" 
+# subtitle: "List of all of the specialized modules we offer. Click on each card to learn more" 
 listing:
   contents: non-technical-modules
   feed: true
@@ -17,6 +17,6 @@ page-layout: full
 title-block-banner: false
 ---
 
-As part of our comprehensive approach to open data science best practices, in addition to helping you built and practice your technical skills, we also offer non-technical lessons. These modules range from interactive activities to discussion-based lesson, mixing briefing of information with practical tips and exercises.
+As part of our comprehensive approach to open data science best practices, in addition to helping you build and practice your technical skills, we also offer non-technical lessons. These modules range from interactive activities to discussion-based lessons, mixing briefing information with practical tips and exercises.
 
-Most of these lessons can be delivered in person during your visit to NCEAS or remote. Some particular lessons only can be offered in-person. The modality of the lesson is stated in each lesson's description.
+Most of these lessons can be delivered in person during your visit to NCEAS or remotely. Some particular lessons only can be offered in person. The modality of the lesson is stated in each lesson's description.
