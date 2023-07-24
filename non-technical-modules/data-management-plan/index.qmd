@@ -4,21 +4,20 @@ categories: [data management]
 image: data-life-cycle.png
 ---
 
-> Documenting your project using a thorough data management plan it's an important step to achiving a reproducible open science framework for your research.
+> Documenting your project using a thorough data management plan it's an important step to achieving a reproducible open science framework for your research.
 
 ## Description
-Successfully managing your data throughout a research project helps ensures its preservation for future use. Having an organize data management plan allows your research outcomes to be transparent, maximizing the effective use and value of your work. This lesson provides an overview of all that needs to be in place for writing an effective data management plan and introduces tools that can help you organize and keep track of this information.
+Successfully managing your data throughout a research project helps ensures its preservation for future use. An organized data management plan lets your research outcomes be transparent, maximizing your work's practical use and value. This lesson provides an overview of everything that needs to be in place for writing an effective data management plan and introduces tools to help you organize and keep track of this information.
 
 
 ## Prerequisites
 None
 
-## Learnig Goal
+## Learning Goal
 - State the importance of creating data management plans
 - Explain the major components of data management plans
 - Recommend tools that can help create a data management plan
 - Provide features and functionality of the DMPTool
 
 ## Duration
-
 1 hour
