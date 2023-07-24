@@ -1,5 +1,5 @@
 ---
-title: "Introduction to programming in R using RStudio"
+title: "Introduction to Programming in R using RStudio"
 categories: [beginner]
 image: allison-horst-code-kitchen.png
 ---
@@ -7,23 +7,19 @@ image: allison-horst-code-kitchen.png
 > New to R? This lesson walks through the basic concepts of the R programming language.
 
 ## Description
-
-This lesson is a gentle introduction to working with R using the RStudio interface. The goal is to become familiarize with how the R language works as the starting point to learn more in depth technique to advance your science.
+This lesson is a gentle introduction to working with R using the RStudio interface. The goal is to become familiar with how the R language works as the starting point to learn more in-depth techniques to advance your science.
 
 ## Prerequisites
-
 None
 
 ## Learning Goals
-
-- Get familiarize with RStudio interface
+- Become familiar with the RStudio interface
 - Learn the basics of R syntax (functions, packages, objects, vectors, assignment operator)
 - Understand the difference between a script and the console
-- Create and inspect vectors, identifying their class, content and structure
+- Create and inspect vectors, identifying their class, content, and structure
 - Read and inspect data in R and understand the data structure
 - Apply basic mathematical operations with values in a data table
 
 ## Duration
-
 2 hours
 
