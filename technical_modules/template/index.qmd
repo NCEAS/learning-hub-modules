@@ -1,7 +1,7 @@
 ---
 title: "[Lesson Title]"
 categories: [tag1, tag1]
-image: image-displyed-in-card.png ##update name
+image: image-displayed-in-card.png ##update name
 draft: true ## delete this line to make card live
 ---
 
