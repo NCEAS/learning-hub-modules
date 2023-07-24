@@ -53,18 +53,18 @@ website:
           #   text: Useful links
           # - href: course-faq.qmd
           #   text: FAQ
-      - section: "Bundles"
-        contents:
-          - href: intro-level.qmd
-            text: Beginners
-          - href: intermediate-level.qmd
-            text: Intermediate
-          - href: additional-lessons.qmd
-            text: Additional Lessons
-      - section: "Data Support"
-        contents:
-          - href: additional-resources.qmd
-            text: Additional Resources
+      # - section: "Bundles"
+      #   contents:
+      #     - href: intro-level.qmd
+      #       text: Beginners
+      #     - href: intermediate-level.qmd
+      #       text: Intermediate
+      #     - href: additional-lessons.qmd
+      #       text: Additional Lessons
+      # - section: "Data Support"
+      #   contents:
+      #     - href: additional-resources.qmd
+      #       text: Additional Resources
       
 
 format:
