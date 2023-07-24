@@ -8,7 +8,7 @@ image: shiny-logo.jpg
 
 ## Description
 
-[Shiny](https://shiny.posit.co//) is an R package for creating interactive data visualizations embedded in a web application that you and your colleagues can view with just a web browser. The goal of this lesson is to learn about the Shiny architecture and build a sample Shiny app to deploy interactive visualizations.
+[Shiny](https://shiny.posit.co//) is an R package for creating interactive data visualizations embedded in a web application that you and your colleagues can view using a web browser. The goal of this lesson is to learn about the Shiny architecture and build a sample Shiny app to deploy interactive visualizations.
 
 ## Prerequisites
 - Intermediate level R user
@@ -17,7 +17,7 @@ image: shiny-logo.jpg
 ## Learning Goals
 - Review the capabilities in Shiny applications
 - Learn about the basic layout for Shiny interfaces
-- Learn about the server component for Shiny applications
+- Understand the server component for Shiny applications
 - Build a simple shiny application for interactive plotting
 
 ## Duration
