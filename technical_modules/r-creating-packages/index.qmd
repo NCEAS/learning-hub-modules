@@ -7,12 +7,12 @@ image: r-package-popup.png
 > Package your work and share it! Creating your own package allows you to organize your code and data in a way that easily be shared and reused.
 
 ## Description
-Most R users are familiar with loading and utilizing packages in their work. However have never created a package of their own. Creating packages serves two main use cases:
+Most R users are familiar with loading and utilizing packages in their work but have never created a package of their own. Creating packages serves two main use cases:
 
 - Mechanism to redistribute reusable code (even if just for yourself)
 - Mechanism to reproducibly document analysis and models and their results
 
-This lesson will walk you a simple example for creating and documenting an R package. The goal is to demystify the complexity of this tool and encourage you and you collaborators to create a package as you see fit.
+This lesson will walk you through a simple example of creating and documenting an R package. The goal is to demystify the complexity of this tool and encourage you and your collaborators to create a package as you see fit.
 
 ## Prerequisites
 - Intermediate R and RStudio user
