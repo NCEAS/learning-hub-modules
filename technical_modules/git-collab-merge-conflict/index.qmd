@@ -4,20 +4,20 @@ categories: [intermediate, GitHub]
 image: horst-git-hug.png
 ---
 
-> `Git` and GitHub streamlines collaboration on a reseach project by allowing everyone working on a project to work simultaneously, share work, and tag specific challenges or questions for each other. 
+> `Git` and GitHub streamline collaboration on a research project by allowing everyone working on a project to work simultaneously, share work, and tag specific challenges or questions for each other. 
 
 ## Description
-`Git` is a great tool for working on your own, but even better for working with friends and colleagues. Git allows you to work with confidence on your own local copy of files with the confidence that you will be able to successfully synchronize your changes with the changes made by others. This lesson presents step-by-step how to start collaborating with colleagues avoiding conflicts. It also walks you through what can cause a merge conflict, how to solve a merge conflict and thing to consider to avoid conflicts in general.
+`Git` is a great tool for working independently, but even better for working with friends and colleagues. Git allows you to work on your local copy of files with the confidence that you can successfully synchronize your changes with the changes made by others. This lesson presents step-by-step how to start collaborating with colleagues and avoiding conflicts. It also walks you through what can cause a merge conflict, how to solve a merge conflict, and things to consider to avoid conflicts in general.
 
 ## Prerequisites
-- Introduction to `Git` and GitHub lesson (or be familiar with content of lesson)
+- Introduction to `Git` and GitHub lesson (or be familiar with the content of the lesson)
 
 
-## Learnig Goal
+## Learning Goal
 - Introduce how to use Git and GitHub to collaborate with colleagues on code
 - Revise what typically causes conflicts when collaborating
 - Demonstrate and practice how to resolve a conflict
-- Descibe workflows to avoid conflicts
+- Describe workflows to avoid conflicts
 
 ## Duration
 2 hours
