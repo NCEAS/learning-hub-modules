@@ -1,0 +1,28 @@
+---
+title: "Social Aspects of Collaboration"
+categories: [team science]
+image: phdcomics_031305s_authorlist.gif
+draft: true
+---
+
+> Short description to display on card. Max 175 charactesr.
+
+## Description
+
+What is the lesson about?
+
+## Prerequisites
+
+-   List with
+-   All necessary skills to take this lesson
+
+## Learnig Goal
+
+-   Developing a Code of Conducts
+-   Authorship and Credits Policies
+-   Data Sharing and Reuse Policies
+-   Research Data Publishing Ethics
+
+## Duration
+
+2 hours
