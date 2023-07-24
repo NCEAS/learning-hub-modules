@@ -8,17 +8,16 @@ image: reproducible-data-analysis.png
 
 
 ## Description
-Under the reproducible umbrella, this lesson aims to provide tools and a framework for writing reproducible papers. The idea is to leverage on different R packages that can help you organize your research from start to finish. Particularly focusing on formatting publication manuscripts for specific journal.
+Under the reproducible umbrella, this lesson aims to provide tools and a framework for writing reproducible papers. The idea is to leverage different R packages to help you organize your research from start to finish. Mainly focusing on formatting publication manuscripts for specific journals.
 
 ## Prerequisites
-- Basic knowledge about R and RStudio
+- Basic knowledge of R and RStudio
 - Familiarity with Rmarkdown and/or Quarto
 
 
 ## Learning Goals
-- Introduce the concept of reserach compendium
-- Learn how to use R to package your work by building a reproducible paper in
-RMarkdown/Quarto
+- Introduce the concept of a research compendium
+- Learn how to use R to package your work by building a reproducible paper in RMarkdown/Quarto
 
 ## Duration
 1 hour
