@@ -2,9 +2,11 @@
 title: "Cleaning and Wrangling Data"
 categories: [beginner, data wrangling]
 image: kross-tidydata-tutorial.png
+image-alt: "photo credit"
 ---
 
 > To be efficient analysts, we should have good tools to wrangle data to fit our needs. This way, we can do further work like making plots and fitting models.
+
 
 ## {{< fa scroll >}} Description
 
