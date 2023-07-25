@@ -4,6 +4,7 @@ project:
 
 website:
   title: "NCEAS Data Science Modular Training"
+  favicon: images/lh-logo.png
   page-navigation: true
   repo-url: https://github.com/NCEAS/learning-hub-modules
   repo-actions: [edit, issue]

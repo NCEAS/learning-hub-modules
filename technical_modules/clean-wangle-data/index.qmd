@@ -6,25 +6,22 @@ image: kross-tidydata-tutorial.png
 
 > To be efficient analysts, we should have good tools to wrangle data to fit our needs. This way, we can do further work like making plots and fitting models.
 
+## {{< fa scroll >}} Description
 
-## Description
 In general, the data we get to work with is not in the format we need to do our analyses. The `dplyr` and `tidy` R packages provide a fairly complete and extremely powerful set of functions for us to do this reformatting quickly. This lesson aims to provide tools for reformatting data to meet your analysis needs. Learning these tools well will significantly increase your efficiency as an analyst.
 
-## Prerequisites
-- Basic knowledge of R and RStudio.
-- If you are new to R, consider taking our Intro to Programming in R using RStudio lesson.
+## {{< fa check >}} Prerequisites
 
+-   Basic knowledge of R and RStudio.
+-   If you are new to R, consider taking our Intro to Programming in R using RStudio lesson.
 
+## {{< fa bullseye >}} Learning Goals
 
-## Learning Goals
-- Understand the basics of data wrangling conceptually
-- Introduce `dplyr` and `tidyr` functions to clean and wrangle data for analysis
-- Learn about the pipe operator as a tool to pass on argument(s) through a sequence of functions
-- Describe the difference between wide vs. long table formats and how to convert between them
+-   Understand the basics of data wrangling conceptually
+-   Introduce `dplyr` and `tidyr` functions to clean and wrangle data for analysis
+-   Learn about the pipe operator as a tool to pass on argument(s) through a sequence of functions
+-   Describe the difference between wide vs. long table formats and how to convert between them
 
+## <i class="fa-regular fa-clock"></i>  Duration
 
-
-## Duration
 2 hours
-
-

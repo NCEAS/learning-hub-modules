@@ -94,7 +94,7 @@
     "objectID": "technical_modules/clean-wangle-data/index.html#description",
     "href": "technical_modules/clean-wangle-data/index.html#description",
     "title": "Cleaning and Wrangling Data",
-    "section": "Description",
+    "section": " Description",
     "text": "Description\nIn general, the data we get to work with is not in the format we need to do our analyses. The dplyr and tidy R packages provide a fairly complete and extremely powerful set of functions for us to do this reformatting quickly. This lesson aims to provide tools for reformatting data to meet your analysis needs. Learning these tools well will significantly increase your efficiency as an analyst."
   },
   {
@@ -108,14 +108,14 @@
     "objectID": "technical_modules/clean-wangle-data/index.html#learning-goals",
     "href": "technical_modules/clean-wangle-data/index.html#learning-goals",
     "title": "Cleaning and Wrangling Data",
-    "section": "Learning Goals",
+    "section": " Learning Goals",
     "text": "Learning Goals\n\nUnderstand the basics of data wrangling conceptually\nIntroduce dplyr and tidyr functions to clean and wrangle data for analysis\nLearn about the pipe operator as a tool to pass on argument(s) through a sequence of functions\nDescribe the difference between wide vs. long table formats and how to convert between them"
   },
   {
     "objectID": "technical_modules/clean-wangle-data/index.html#duration",
     "href": "technical_modules/clean-wangle-data/index.html#duration",
     "title": "Cleaning and Wrangling Data",
-    "section": "Duration",
+    "section": " Duration",
     "text": "Duration\n2 hours"
   },
   {
@@ -817,5 +817,54 @@
     "title": "Intermediate Level",
     "section": "Running Code",
     "text": "Running Code\nWhen you click the Render button a document will be generated that includes both content and the output of embedded code. You can embed code like this:\n\n1 + 1\n\n[1] 2\n\n\nYou can add options to executable code like this\n\n\n[1] 4\n\n\nThe echo: false option disables the printing of code (only output is displayed)."
+  },
+  {
+    "objectID": "index.html#fa-location-dot-this-site",
+    "href": "index.html#fa-location-dot-this-site",
+    "title": "NCEAS Learning Hub Data Science Modules",
+    "section": " This Site",
+    "text": "This Site\nHere you can find the description and requirement for all of the data science modules currently available in our curriculum. We offer variety of data science training, from technical to non-technical skills, beginners and intermediate users.\nThe idea is for your team to decide which skills would be more helpful to learn to advance you science. Then we work together to schedule one or more workshops and make sure you can successfully apply these new skills to your project."
+  },
+  {
+    "objectID": "index.html#fa-lightbulb-why-learn-this-tools",
+    "href": "index.html#fa-lightbulb-why-learn-this-tools",
+    "title": "NCEAS Learning Hub Data Science Modules",
+    "section": " Why learn this tools?",
+    "text": "Why learn this tools?\n[mention something about reproducibility and better science in less time]"
+  },
+  {
+    "objectID": "technical_modules/clean-wangle-data/index.html#fa-scroll-description",
+    "href": "technical_modules/clean-wangle-data/index.html#fa-scroll-description",
+    "title": "Cleaning and Wrangling Data",
+    "section": " Description",
+    "text": "Description\nIn general, the data we get to work with is not in the format we need to do our analyses. The dplyr and tidy R packages provide a fairly complete and extremely powerful set of functions for us to do this reformatting quickly. This lesson aims to provide tools for reformatting data to meet your analysis needs. Learning these tools well will significantly increase your efficiency as an analyst."
+  },
+  {
+    "objectID": "technical_modules/clean-wangle-data/index.html#fa-check-prerequisites",
+    "href": "technical_modules/clean-wangle-data/index.html#fa-check-prerequisites",
+    "title": "Cleaning and Wrangling Data",
+    "section": " Prerequisites",
+    "text": "Prerequisites\n\nBasic knowledge of R and RStudio.\nIf you are new to R, consider taking our Intro to Programming in R using RStudio lesson."
+  },
+  {
+    "objectID": "technical_modules/clean-wangle-data/index.html#fa-bullseye-learning-goals",
+    "href": "technical_modules/clean-wangle-data/index.html#fa-bullseye-learning-goals",
+    "title": "Cleaning and Wrangling Data",
+    "section": " Learning Goals",
+    "text": "Learning Goals\n\nUnderstand the basics of data wrangling conceptually\nIntroduce dplyr and tidyr functions to clean and wrangle data for analysis\nLearn about the pipe operator as a tool to pass on argument(s) through a sequence of functions\nDescribe the difference between wide vs. long table formats and how to convert between them"
+  },
+  {
+    "objectID": "technical_modules/clean-wangle-data/index.html#fa-clock-duration",
+    "href": "technical_modules/clean-wangle-data/index.html#fa-clock-duration",
+    "title": "Cleaning and Wrangling Data",
+    "section": " Duration",
+    "text": "Duration\n2 hours"
+  },
+  {
+    "objectID": "technical_modules/clean-wangle-data/index.html#fa-bulleye-learning-goals",
+    "href": "technical_modules/clean-wangle-data/index.html#fa-bulleye-learning-goals",
+    "title": "Cleaning and Wrangling Data",
+    "section": " Learning Goals",
+    "text": "Learning Goals\n\nUnderstand the basics of data wrangling conceptually\nIntroduce dplyr and tidyr functions to clean and wrangle data for analysis\nLearn about the pipe operator as a tool to pass on argument(s) through a sequence of functions\nDescribe the difference between wide vs. long table formats and how to convert between them"
   }
 ]
