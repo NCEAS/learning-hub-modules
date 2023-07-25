@@ -4,7 +4,7 @@
     "href": "technical-lessons.html",
     "title": "Technical Modules",
     "section": "",
-    "text": "Technical lessons aim to teach and practice a specific data science tool. The format generally combines lectures to introduce concepts, live coding, and optional hands-on practice sessions. Here we provide a list with a short description of our current technical offerings. The specific goals of each of these lessons can be adapted to best fit your team and meet all participants where they are. If you are interested in a topic outside this list, please let us know, and we will be happy to discuss the feasibility of creating new materials.\nParticipants will need a computer with recent versions of R and RStudio for all these lessons. Check out instructions to install or upgrade R and RStudio here.\n\n\n\n\n\n\n    \n      \n      \n    \n\n\n\n\n\n\n\n\n\n\nCleaning and Wrangling Data\n\n\n\nbeginner\n\n\ndata wrangling\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nCollaborating using Git and GitHub & Merge Conflicts\n\n\n\nintermediate\n\n\nGitHub\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nCreating Functions in R\n\n\n\nintermediate\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nCreating R Packages\n\n\n\nintermediate\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nIntroduction to Data Visualization\n\n\n\nbeginner\n\n\ndata vis\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nIntroduction to Programming in R using RStudio\n\n\n\nbeginner\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nIntroduction to Shiny\n\n\n\nintermediate\n\n\ndata vis\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nIntroduction to Git and GitHub\n\n\n\nbeginner\n\n\nGitHub\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nLiterate Analysis with Quarto\n\n\n\nQuarto\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nPublishing to the Web using GitHub Pages\n\n\n\ngithub\n\n\nintermediate\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nReproducible Data Access\n\n\n\nintermediate\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nReproducible Papers\n\n\n\nreproducibility\n\n\nintermediate\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nUsing sf for Spatial Data\n\n\n\nintermediate\n\n\ndata vis\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nWorking with text data in R\n\n\n\nbeginner\n\n\ntext data\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nNo matching items"
+    "text": "Technical lessons aim to teach and practice a specific data science tool. The format generally combines lectures to introduce concepts, live coding, and optional hands-on practice sessions. Here we provide a list with a short description of our current technical offerings. The specific goals of each of these lessons can be adapted to best fit your team and meet all participants where they are. If you are interested in a topic outside this list, please let us know, and we will be happy to discuss the feasibility of creating new materials.\nParticipants will need a computer with recent versions of R and RStudio for all these lessons. Check out instructions to install or upgrade R and RStudio here.\n\n\n\n\n\n\n    \n      \n      \n    \n\n\n\n\n\n\n\n\n\n\nCollaborating using Git and GitHub & Merge Conflicts\n\n\n\nintermediate\n\n\nGitHub\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nCreating Functions in R\n\n\n\nintermediate\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nCreating R Packages\n\n\n\nintermediate\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nIntroduction to Data Visualization\n\n\n\nbeginner\n\n\ndata vis\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nIntroduction to Programming in R using RStudio\n\n\n\nbeginner\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nIntroduction to Shiny\n\n\n\nintermediate\n\n\ndata vis\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nLiterate Analysis with Quarto\n\n\n\nQuarto\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nPublishing to the Web using GitHub Pages\n\n\n\ngithub\n\n\nintermediate\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nReproducible Data Access\n\n\n\nintermediate\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nReproducible Papers\n\n\n\nreproducibility\n\n\nintermediate\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nUsing sf for Spatial Data\n\n\n\nintermediate\n\n\ndata vis\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nWorking with text data in R\n\n\n\nbeginner\n\n\ntext data\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nCleaning and Wrangling Data\n\n\n\nbeginner\n\n\ndata wrangling\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nIntroduction to Git and GitHub\n\n\n\nbeginner\n\n\nGitHub\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nNo matching items"
   },
   {
     "objectID": "non-technical-lessons.html",
@@ -116,7 +116,7 @@
     "href": "technical_modules/clean-wangle-data/index.html#duration",
     "title": "Cleaning and Wrangling Data",
     "section": " Duration",
-    "text": "Duration\n2 hours"
+    "text": "Duration\n2 hours\n\n\nImage credit: https://tidydatatutor.com/"
   },
   {
     "objectID": "technical_modules/literate-analysis-quarto/index.html",
@@ -255,8 +255,8 @@
     "objectID": "technical_modules/git-and-github-intro/index.html#duration",
     "href": "technical_modules/git-and-github-intro/index.html#duration",
     "title": "Introduction to Git and GitHub",
-    "section": "Duration",
-    "text": "Duration\n2 hours"
+    "section": " Duration",
+    "text": "Duration\n2 hours\n\n\nImage credit: NCEAS Learning Hub"
   },
   {
     "objectID": "technical_modules/r-creating-packages/index.html",
@@ -817,5 +817,26 @@
     "title": "Intermediate Level",
     "section": "Running Code",
     "text": "Running Code\nWhen you click the Render button a document will be generated that includes both content and the output of embedded code. You can embed code like this:\n\n1 + 1\n\n[1] 2\n\n\nYou can add options to executable code like this\n\n\n[1] 4\n\n\nThe echo: false option disables the printing of code (only output is displayed)."
+  },
+  {
+    "objectID": "technical_modules/git-and-github-intro/index.html#fa-scroll-description",
+    "href": "technical_modules/git-and-github-intro/index.html#fa-scroll-description",
+    "title": "Introduction to Git and GitHub",
+    "section": " Description",
+    "text": "Description\nEvery file in the scientific process changes. Manuscripts are edited. Figures get revised. Code gets fixed when bugs are discovered. These changes are essential to track, and yet, we often use simplistic filenames to track them. Is there a better way? YES, version control. Version control provides an organized and transparent way to track changes in code and additional files. Git is a version control software, and GitHub is a website that allows users to store their Git repositories and share them with others. This lesson is a friendly introduction to these tools. It explains the main concepts and walks you through the Git and GitHub workflow using RStudio."
+  },
+  {
+    "objectID": "technical_modules/git-and-github-intro/index.html#fa-check-prerequisites",
+    "href": "technical_modules/git-and-github-intro/index.html#fa-check-prerequisites",
+    "title": "Introduction to Git and GitHub",
+    "section": " Prerequisites",
+    "text": "Prerequisites\n\nFamiliarity with R and RStudio\nHave a GitHub account (sign up at github.com)\nHave Git installed on your computer (see instructions here)"
+  },
+  {
+    "objectID": "technical_modules/git-and-github-intro/index.html#fa-bullseye-learning-goal",
+    "href": "technical_modules/git-and-github-intro/index.html#fa-bullseye-learning-goal",
+    "title": "Introduction to Git and GitHub",
+    "section": " Learning Goal",
+    "text": "Learning Goal\n\nApply the principles of Git to track and manage changes in a project\nUtilize the Git workflow, including pulling changes, staging modified files, committing changes, pulling again to incorporate remote changes, and pushing changes to a remote repository\nCreate and configure Git repositories using different workflows"
   }
 ]

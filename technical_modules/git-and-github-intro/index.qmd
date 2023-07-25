@@ -1,26 +1,33 @@
 ---
-title: "Introduction to `Git` and GitHub"
+title: "[Introduction to `Git` and GitHub]{style=color:#26805C}"
 categories: [beginner, GitHub]
 image: vc-local-github.png
 ---
 
-> Benefit from `Git` and GitHub's power to facilitate collaborative research and code management practices. 
+> Benefit from `Git` and GitHub's power to facilitate collaborative research and code management practices.
 
+## {{< fa scroll >}} Description
 
-## Description
 Every file in the scientific process changes. Manuscripts are edited. Figures get revised. Code gets fixed when bugs are discovered. These changes are essential to track, and yet, we often use simplistic filenames to track them. Is there a better way? YES, **version control**. Version control provides an organized and transparent way to track changes in code and additional files. `Git` is a version control software, and GitHub is a website that allows users to store their Git repositories and share them with others. This lesson is a friendly introduction to these tools. It explains the main concepts and walks you through the `Git` and GitHub workflow using RStudio.
 
+## {{< fa check >}} Prerequisites
 
+-   Familiarity with R and RStudio
+-   Have a GitHub account (sign up at [github.com](github.com))
+-   Have `Git` installed on your computer (see instructions [here](https://happygitwithr.com/install-git.html))
 
-## Prerequisites
-- Familiarity with R and RStudio
-- Have a GitHub account (sign up at [github.com](github.com))
-- Have `Git` installed on your computer (see instructions [here](https://happygitwithr.com/install-git.html))
+## {{< fa bullseye >}} Learning Goal
 
-## Learning Goal
 -   Apply the principles of `Git` to track and manage changes in a project
 -   Utilize the `Git` workflow, including pulling changes, staging modified files, committing changes, pulling again to incorporate remote changes, and pushing changes to a remote repository
 -   Create and configure `Git` repositories using different workflows
 
-## Duration
+## <i class="fa-regular fa-clock"></i> Duration
+
 2 hours
+
+<br>
+
+<font size="2">  
+    _Image credit: NCEAS Learning Hub_
+</font>

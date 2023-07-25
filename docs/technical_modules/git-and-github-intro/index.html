@@ -39,6 +39,8 @@ ul.task-list li input[type="checkbox"] {
 <script src="../../site_libs/bootstrap/bootstrap.min.js"></script>
 <link href="../../site_libs/bootstrap/bootstrap-icons.css" rel="stylesheet">
 <link href="../../site_libs/bootstrap/bootstrap.min.css" rel="stylesheet" id="quarto-bootstrap" data-mode="light">
+<link href="../../site_libs/quarto-contrib/fontawesome6-0.1.0/all.css" rel="stylesheet">
+<link href="../../site_libs/quarto-contrib/fontawesome6-0.1.0/latex-fontsize.css" rel="stylesheet">
 <script id="quarto-search-options" type="application/json">{
   "location": "sidebar",
   "copy-button": false,
@@ -68,7 +70,7 @@ ul.task-list li input[type="checkbox"] {
   <header id="quarto-header" class="headroom fixed-top">
   <nav class="quarto-secondary-nav" data-bs-toggle="collapse" data-bs-target="#quarto-sidebar" aria-controls="quarto-sidebar" aria-expanded="false" aria-label="Toggle sidebar navigation" onclick="if (window.quartoToggleHeadroom) { window.quartoToggleHeadroom(); }">
     <div class="container-fluid d-flex justify-content-between">
-      <h1 class="quarto-secondary-nav-title">Introduction to <code>Git</code> and GitHub</h1>
+      <h1 class="quarto-secondary-nav-title"><span style="color:#26805C">Introduction to <code>Git</code> and GitHub</span></h1>
       <button type="button" class="quarto-btn-toggle btn" aria-label="Show secondary navigation">
         <i class="bi bi-chevron-right"></i>
       </button>
@@ -125,10 +127,10 @@ ul.task-list li input[type="checkbox"] {
     <h2 id="toc-title">On this page</h2>
    
   <ul>
-  <li><a href="#description" id="toc-description" class="nav-link active" data-scroll-target="#description">Description</a></li>
-  <li><a href="#prerequisites" id="toc-prerequisites" class="nav-link" data-scroll-target="#prerequisites">Prerequisites</a></li>
-  <li><a href="#learning-goal" id="toc-learning-goal" class="nav-link" data-scroll-target="#learning-goal">Learning Goal</a></li>
-  <li><a href="#duration" id="toc-duration" class="nav-link" data-scroll-target="#duration">Duration</a></li>
+  <li><a href="#fa-scroll-description" id="toc-fa-scroll-description" class="nav-link active" data-scroll-target="#fa-scroll-description"><i class="fa-solid fa-scroll" aria-label="scroll"></i> Description</a></li>
+  <li><a href="#fa-check-prerequisites" id="toc-fa-check-prerequisites" class="nav-link" data-scroll-target="#fa-check-prerequisites"><i class="fa-solid fa-check" aria-label="check"></i> Prerequisites</a></li>
+  <li><a href="#fa-bullseye-learning-goal" id="toc-fa-bullseye-learning-goal" class="nav-link" data-scroll-target="#fa-bullseye-learning-goal"><i class="fa-solid fa-bullseye" aria-label="bullseye"></i> Learning Goal</a></li>
+  <li><a href="#duration" id="toc-duration" class="nav-link" data-scroll-target="#duration"><i class="fa-regular fa-clock"></i> Duration</a></li>
   </ul>
 <div class="toc-actions"><div><i class="bi bi-github"></i></div><div class="action-links"><p><a href="https://github.com/NCEAS/learning-hub-modules/edit/main/technical_modules/git-and-github-intro/index.qmd" class="toc-action">Edit this page</a></p><p><a href="https://github.com/NCEAS/learning-hub-modules/issues/new" class="toc-action">Report an issue</a></p></div></div></nav>
     </div>
@@ -137,7 +139,7 @@ ul.task-list li input[type="checkbox"] {
 
 <header id="title-block-header" class="quarto-title-block default">
 <div class="quarto-title">
-<h1 class="title d-none d-lg-block">Introduction to <code>Git</code> and GitHub</h1>
+<h1 class="title d-none d-lg-block"><span style="color:#26805C">Introduction to <code>Git</code> and GitHub</span></h1>
   <div class="quarto-categories">
     <div class="quarto-category">beginner</div>
     <div class="quarto-category">GitHub</div>
@@ -159,20 +161,20 @@ ul.task-list li input[type="checkbox"] {
 <blockquote class="blockquote">
 <p>Benefit from <code>Git</code> and GitHub’s power to facilitate collaborative research and code management practices.</p>
 </blockquote>
-<section id="description" class="level2">
-<h2 class="anchored" data-anchor-id="description">Description</h2>
+<section id="fa-scroll-description" class="level2">
+<h2 class="anchored" data-anchor-id="fa-scroll-description"><i class="fa-solid fa-scroll" aria-label="scroll"></i> Description</h2>
 <p>Every file in the scientific process changes. Manuscripts are edited. Figures get revised. Code gets fixed when bugs are discovered. These changes are essential to track, and yet, we often use simplistic filenames to track them. Is there a better way? YES, <strong>version control</strong>. Version control provides an organized and transparent way to track changes in code and additional files. <code>Git</code> is a version control software, and GitHub is a website that allows users to store their Git repositories and share them with others. This lesson is a friendly introduction to these tools. It explains the main concepts and walks you through the <code>Git</code> and GitHub workflow using RStudio.</p>
 </section>
-<section id="prerequisites" class="level2">
-<h2 class="anchored" data-anchor-id="prerequisites">Prerequisites</h2>
+<section id="fa-check-prerequisites" class="level2">
+<h2 class="anchored" data-anchor-id="fa-check-prerequisites"><i class="fa-solid fa-check" aria-label="check"></i> Prerequisites</h2>
 <ul>
 <li>Familiarity with R and RStudio</li>
 <li>Have a GitHub account (sign up at <a href="github.com">github.com</a>)</li>
 <li>Have <code>Git</code> installed on your computer (see instructions <a href="https://happygitwithr.com/install-git.html">here</a>)</li>
 </ul>
 </section>
-<section id="learning-goal" class="level2">
-<h2 class="anchored" data-anchor-id="learning-goal">Learning Goal</h2>
+<section id="fa-bullseye-learning-goal" class="level2">
+<h2 class="anchored" data-anchor-id="fa-bullseye-learning-goal"><i class="fa-solid fa-bullseye" aria-label="bullseye"></i> Learning Goal</h2>
 <ul>
 <li>Apply the principles of <code>Git</code> to track and manage changes in a project</li>
 <li>Utilize the <code>Git</code> workflow, including pulling changes, staging modified files, committing changes, pulling again to incorporate remote changes, and pushing changes to a remote repository</li>
@@ -180,8 +182,11 @@ ul.task-list li input[type="checkbox"] {
 </ul>
 </section>
 <section id="duration" class="level2">
-<h2 class="anchored" data-anchor-id="duration">Duration</h2>
+<h2 class="anchored" data-anchor-id="duration"><i class="fa-regular fa-clock"></i> Duration</h2>
 <p>2 hours</p>
+<p><br></p>
+<p><font size="2"><br>
+<em>Image credit: NCEAS Learning Hub</em> </font></p>
 
 
 </section>
