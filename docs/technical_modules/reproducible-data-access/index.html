@@ -115,46 +115,6 @@ ul.task-list li input[type="checkbox"] {
 </li>
       </ul>
   </li>
-        <li class="sidebar-item sidebar-item-section">
-      <div class="sidebar-item-container"> 
-            <a class="sidebar-item-text sidebar-link text-start" data-bs-toggle="collapse" data-bs-target="#quarto-sidebar-section-2" aria-expanded="true">Bundles</a>
-          <a class="sidebar-item-toggle text-start" data-bs-toggle="collapse" data-bs-target="#quarto-sidebar-section-2" aria-expanded="true">
-            <i class="bi bi-chevron-right ms-2"></i>
-          </a> 
-      </div>
-      <ul id="quarto-sidebar-section-2" class="collapse list-unstyled sidebar-section depth1 show">  
-          <li class="sidebar-item">
-  <div class="sidebar-item-container"> 
-  <a href="../../intro-level.html" class="sidebar-item-text sidebar-link">Beginners</a>
-  </div>
-</li>
-          <li class="sidebar-item">
-  <div class="sidebar-item-container"> 
-  <a href="../../intermediate-level.html" class="sidebar-item-text sidebar-link">Intermediate</a>
-  </div>
-</li>
-          <li class="sidebar-item">
-  <div class="sidebar-item-container"> 
-  <a href="../../additional-lessons.html" class="sidebar-item-text sidebar-link">Additional Lessons</a>
-  </div>
-</li>
-      </ul>
-  </li>
-        <li class="sidebar-item sidebar-item-section">
-      <div class="sidebar-item-container"> 
-            <a class="sidebar-item-text sidebar-link text-start" data-bs-toggle="collapse" data-bs-target="#quarto-sidebar-section-3" aria-expanded="true">Data Support</a>
-          <a class="sidebar-item-toggle text-start" data-bs-toggle="collapse" data-bs-target="#quarto-sidebar-section-3" aria-expanded="true">
-            <i class="bi bi-chevron-right ms-2"></i>
-          </a> 
-      </div>
-      <ul id="quarto-sidebar-section-3" class="collapse list-unstyled sidebar-section depth1 show">  
-          <li class="sidebar-item">
-  <div class="sidebar-item-container"> 
-  <a href="../../additional-resources.html" class="sidebar-item-text sidebar-link">Additional Resources</a>
-  </div>
-</li>
-      </ul>
-  </li>
     </ul>
     </div>
 </nav>
@@ -166,7 +126,7 @@ ul.task-list li input[type="checkbox"] {
   <ul>
   <li><a href="#description" id="toc-description" class="nav-link active" data-scroll-target="#description">Description</a></li>
   <li><a href="#prerequisites" id="toc-prerequisites" class="nav-link" data-scroll-target="#prerequisites">Prerequisites</a></li>
-  <li><a href="#learnig-goal" id="toc-learnig-goal" class="nav-link" data-scroll-target="#learnig-goal">Learnig Goal</a></li>
+  <li><a href="#learning-goal" id="toc-learning-goal" class="nav-link" data-scroll-target="#learning-goal">Learning Goal</a></li>
   <li><a href="#duration" id="toc-duration" class="nav-link" data-scroll-target="#duration">Duration</a></li>
   </ul>
 <div class="toc-actions"><div><i class="bi bi-github"></i></div><div class="action-links"><p><a href="https://github.com/NCEAS/learning-hub-modules/edit/main/technical_modules/reproducible-data-access/index.qmd" class="toc-action">Edit this page</a></p><p><a href="https://github.com/NCEAS/learning-hub-modules/issues/new" class="toc-action">Report an issue</a></p></div></div></nav>
@@ -195,26 +155,27 @@ ul.task-list li input[type="checkbox"] {
 </header>
 
 <blockquote class="blockquote">
-<p>Accesing data is the first step to any analysis. Being able to do this in a portable is the ultimate goal to make your work as reproducible as possible.</p>
+<p>Accessing data is the first step in any analysis. Being able to do this in a portable manner is the ultimate goal to make your work as reproducible as possible.</p>
 </blockquote>
 <section id="description" class="level2">
 <h2 class="anchored" data-anchor-id="description">Description</h2>
-<p>Traditional ways of working with data – as files on a specific computer – limit the reproducibility of code to local compute environments. A typical R analysis file will load one or many data files from the local disk. However, it is rarely the case that those file paths work on your colleague’s machine. Alternatively we can access data through the Internet with a URL. But what happens if the URL to the data changes? (Which they often do). This lesson teaches you about pins and content identifiers and how to use them to access your data in a robust reproducible way.</p>
+<p>Traditional ways of working with data – as files on a specific computer – limit code reproducibility to local computer environments. A typical R analysis file will load one or many data files from the local disk. However, it is rarely the case that those file paths work on your colleague’s machine. Alternatively, we can access data through the Internet with a URL. But what happens if the URL to the data changes? (Which they often do). This lesson teaches you about pins and content identifiers and how to use them to access your data in a <em>truly</em> reproducible way.</p>
 </section>
 <section id="prerequisites" class="level2">
 <h2 class="anchored" data-anchor-id="prerequisites">Prerequisites</h2>
 <ul>
 <li>Be familiar with R and RStudio</li>
+<li>Basic knowledge of data packages and data repositories</li>
 </ul>
 </section>
-<section id="learnig-goal" class="level2">
-<h2 class="anchored" data-anchor-id="learnig-goal">Learnig Goal</h2>
+<section id="learning-goal" class="level2">
+<h2 class="anchored" data-anchor-id="learning-goal">Learning Goal</h2>
 <ul>
-<li>Best practices for reproducible data access</li>
-<li>Accessing data on the web and with pins</li>
-<li>How content identifiers differ from DOIs and make research more reproducible</li>
-<li>Ways to register and resolve content identifiers for unpublished data</li>
-<li>How content identifiers can resolve to published data source</li>
+<li>List best practices for reproducible data access</li>
+<li>Access data on the web and with pins</li>
+<li>Explain how content identifiers differ from DOIs and make research more reproducible</li>
+<li>Demonstrate ways to register and resolve content identifiers for unpublished data</li>
+<li>Identify how content identifiers can resolve to published data source</li>
 </ul>
 </section>
 <section id="duration" class="level2">

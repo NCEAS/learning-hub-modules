@@ -4,47 +4,47 @@
     "href": "technical-lessons.html",
     "title": "Technical Modules",
     "section": "",
-    "text": "Technical lessons aim to teach and practice a specific data science tool. The format generally combines lecture to introduce concepts, live coding and optional hand-on practice sessions. Here we provide a list with a short description of our current technical offerings. The specific goals of each of these lessons can be adapted to best fit your team and meet all participants where they are. If you are interested in a topic that is not on this list, please let us know and we are happy to discuss the feasibility of creating new materials.\nFor all of these lessons participants will need a computer with recent versions of R and RStudio installed. Check out instructions to install or upgrade R and RStudio here.\n\n\n\n\n\n\n    \n      \n      \n    \n\n\n\n\n\n\n\n\n\n\nCleaning and Wrangling Data\n\n\n\nbeginner\n\n\ndata wrangling\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nCollaborating using Git and GitHub & Merge Conflicts\n\n\n\nintermediate\n\n\nGitHub\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nCreating Functions in R\n\n\n\nintermediate\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nCreating R Packages\n\n\n\nintermediate\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nIntroduction to Data Visualization\n\n\n\nbeginner\n\n\ndata vis\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nIntroduction to Shiny\n\n\n\nintermediate\n\n\ndata vis\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nIntroduction to Git and GitHub\n\n\n\nbeginner\n\n\nGitHub\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nIntroduction to programming in R using RStudio\n\n\n\nbeginner\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nLiterate Analysis with Quarto\n\n\n\nQuarto\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nPublishing to the Web using GitHub Pages\n\n\n\ngithub\n\n\nintermediate\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nReproducible Data Access\n\n\n\nintermediate\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nReproducible Papers\n\n\n\nreproducibility\n\n\nintermediate\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nUsing sf for Spatial Data\n\n\n\nintermediate\n\n\ndata vis\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nWorking with text data in R\n\n\n\nbeginner\n\n\ntext data\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nNo matching items"
+    "text": "Technical lessons aim to teach and practice a specific data science tool. The format generally combines lectures to introduce concepts, live coding, and optional hands-on practice sessions. Here we provide a list with a short description of our current technical offerings. The specific goals of each of these lessons can be adapted to best fit your team and meet all participants where they are. If you are interested in a topic outside this list, please let us know, and we will be happy to discuss the feasibility of creating new materials.\nParticipants will need a computer with recent versions of R and RStudio for all these lessons. Check out instructions to install or upgrade R and RStudio here.\n\n\n\n\n\n\n    \n      \n      \n    \n\n\n\n\n\n\n\n\n\n\nCleaning and Wrangling Data\n\n\n\nbeginner\n\n\ndata wrangling\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nCollaborating using Git and GitHub & Merge Conflicts\n\n\n\nintermediate\n\n\nGitHub\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nCreating Functions in R\n\n\n\nintermediate\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nCreating R Packages\n\n\n\nintermediate\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nIntroduction to Data Visualization\n\n\n\nbeginner\n\n\ndata vis\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nIntroduction to Programming in R using RStudio\n\n\n\nbeginner\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nIntroduction to Shiny\n\n\n\nintermediate\n\n\ndata vis\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nIntroduction to Git and GitHub\n\n\n\nbeginner\n\n\nGitHub\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nLiterate Analysis with Quarto\n\n\n\nQuarto\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nPublishing to the Web using GitHub Pages\n\n\n\ngithub\n\n\nintermediate\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nReproducible Data Access\n\n\n\nintermediate\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nReproducible Papers\n\n\n\nreproducibility\n\n\nintermediate\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nUsing sf for Spatial Data\n\n\n\nintermediate\n\n\ndata vis\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nWorking with text data in R\n\n\n\nbeginner\n\n\ntext data\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nNo matching items"
   },
   {
     "objectID": "non-technical-lessons.html",
     "href": "non-technical-lessons.html",
     "title": "Non-Technical Modules",
     "section": "",
-    "text": "As part of our comprehensive approach to open data science best practices, in addition to helping you built and practice your technical skills, we also offer non-technical lessons. These modules range from interactive activities to discussion-based lesson, mixing briefing of information with practical tips and exercises.\nMost of these lessons can be delivered in person during your visit to NCEAS or remote. Some particular lessons only can be offered in-person. The modality of the lesson is stated in each lesson’s description.\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nData Modeling Essentials\n\n\n\ntidy data\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nLEGO® Reproducibility Activity\n\n\n\nactivity\n\n\nreproducibility\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nMetadata Best Practices\n\n\n\ndata management\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nReproducibility and Provenance\n\n\n\nreproducibility\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nThe FAIR and CARE Principles\n\n\n\ndata ethics\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nThinking Preferences\n\n\n\nactivity\n\n\nteam science\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nWriting Data Management Plans\n\n\n\ndata management\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nNo matching items"
+    "text": "As part of our comprehensive approach to open data science best practices, in addition to helping you build and practice your technical skills, we also offer non-technical lessons. These modules range from interactive activities to discussion-based lessons, mixing briefing information with practical tips and exercises.\nMost of these lessons can be delivered in person during your visit to NCEAS or remotely. Some particular lessons only can be offered in person. The modality of the lesson is stated in each lesson’s description.\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nData Modeling Essentials\n\n\n\ntidy data\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nLEGO® Reproducibility Activity\n\n\n\nactivity\n\n\nreproducibility\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nMetadata Best Practices\n\n\n\ndata management\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nReproducibility and Provenance\n\n\n\nreproducibility\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nThe FAIR and CARE Principles\n\n\n\ndata ethics\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nThinking Preferences\n\n\n\nactivity\n\n\nteam science\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nWriting Data Management Plans\n\n\n\ndata management\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nNo matching items"
   },
   {
     "objectID": "technical_modules/intro-to-r-programming/index.html",
     "href": "technical_modules/intro-to-r-programming/index.html",
-    "title": "Introduction to programming in R using RStudio",
+    "title": "Introduction to Programming in R using RStudio",
     "section": "",
     "text": "New to R? This lesson walks through the basic concepts of the R programming language."
   },
   {
     "objectID": "technical_modules/intro-to-r-programming/index.html#description",
     "href": "technical_modules/intro-to-r-programming/index.html#description",
-    "title": "Introduction to programming in R using RStudio",
+    "title": "Introduction to Programming in R using RStudio",
     "section": "Description",
-    "text": "Description\nThis lesson is a gentle introduction to working with R using the RStudio interface. The goal is to become familiarize with how the R language works as the starting point to learn more in depth technique to advance your science."
+    "text": "Description\nThis lesson is a gentle introduction to working with R using the RStudio interface. The goal is to become familiar with how the R language works as the starting point to learn more in-depth techniques to advance your science."
   },
   {
     "objectID": "technical_modules/intro-to-r-programming/index.html#prerequisites",
     "href": "technical_modules/intro-to-r-programming/index.html#prerequisites",
-    "title": "Introduction to programming in R using RStudio",
+    "title": "Introduction to Programming in R using RStudio",
     "section": "Prerequisites",
     "text": "Prerequisites\nNone"
   },
   {
     "objectID": "technical_modules/intro-to-r-programming/index.html#learning-goals",
     "href": "technical_modules/intro-to-r-programming/index.html#learning-goals",
-    "title": "Introduction to programming in R using RStudio",
+    "title": "Introduction to Programming in R using RStudio",
     "section": "Learning Goals",
-    "text": "Learning Goals\n\nGet familiarize with RStudio interface\nLearn the basics of R syntax (functions, packages, objects, vectors, assignment operator)\nUnderstand the difference between a script and the console\nCreate and inspect vectors, identifying their class, content and structure\nRead and inspect data in R and understand the data structure\nApply basic mathematical operations with values in a data table"
+    "text": "Learning Goals\n\nBecome familiar with the RStudio interface\nLearn the basics of R syntax (functions, packages, objects, vectors, assignment operator)\nUnderstand the difference between a script and the console\nCreate and inspect vectors, identifying their class, content, and structure\nRead and inspect data in R and understand the data structure\nApply basic mathematical operations with values in a data table"
   },
   {
     "objectID": "technical_modules/intro-to-r-programming/index.html#duration",
     "href": "technical_modules/intro-to-r-programming/index.html#duration",
-    "title": "Introduction to programming in R using RStudio",
+    "title": "Introduction to Programming in R using RStudio",
     "section": "Duration",
     "text": "Duration\n2 hours"
   },
@@ -53,28 +53,28 @@
     "href": "technical_modules/git-collab-merge-conflict/index.html",
     "title": "Collaborating using Git and GitHub & Merge Conflicts",
     "section": "",
-    "text": "Git and GitHub streamlines collaboration on a reseach project by allowing everyone working on a project to work simultaneously, share work, and tag specific challenges or questions for each other."
+    "text": "Git and GitHub streamline collaboration on a research project by allowing everyone working on a project to work simultaneously, share work, and tag specific challenges or questions for each other."
   },
   {
     "objectID": "technical_modules/git-collab-merge-conflict/index.html#description",
     "href": "technical_modules/git-collab-merge-conflict/index.html#description",
     "title": "Collaborating using Git and GitHub & Merge Conflicts",
     "section": "Description",
-    "text": "Description\nGit is a great tool for working on your own, but even better for working with friends and colleagues. Git allows you to work with confidence on your own local copy of files with the confidence that you will be able to successfully synchronize your changes with the changes made by others. This lesson presents step-by-step how to start collaborating with colleagues avoiding conflicts. It also walks you through what can cause a merge conflict, how to solve a merge conflict and thing to consider to avoid conflicts in general."
+    "text": "Description\nGit is a great tool for working independently, but even better for working with friends and colleagues. Git allows you to work on your local copy of files with the confidence that you can successfully synchronize your changes with the changes made by others. This lesson presents step-by-step how to start collaborating with colleagues and avoiding conflicts. It also walks you through what can cause a merge conflict, how to solve a merge conflict, and things to consider to avoid conflicts in general."
   },
   {
     "objectID": "technical_modules/git-collab-merge-conflict/index.html#prerequisites",
     "href": "technical_modules/git-collab-merge-conflict/index.html#prerequisites",
     "title": "Collaborating using Git and GitHub & Merge Conflicts",
     "section": "Prerequisites",
-    "text": "Prerequisites\n\nIntroduction to Git and GitHub lesson (or be familiar with content of lesson)"
+    "text": "Prerequisites\n\nIntroduction to Git and GitHub lesson (or be familiar with the content of the lesson)"
   },
   {
-    "objectID": "technical_modules/git-collab-merge-conflict/index.html#learnig-goal",
-    "href": "technical_modules/git-collab-merge-conflict/index.html#learnig-goal",
+    "objectID": "technical_modules/git-collab-merge-conflict/index.html#learning-goal",
+    "href": "technical_modules/git-collab-merge-conflict/index.html#learning-goal",
     "title": "Collaborating using Git and GitHub & Merge Conflicts",
-    "section": "Learnig Goal",
-    "text": "Learnig Goal\n\nIntroduce how to use Git and GitHub to collaborate with colleagues on code\nRevise what typically causes conflicts when collaborating\nDemonstrate and practice how to resolve a conflict\nDescibe workflows to avoid conflicts"
+    "section": "Learning Goal",
+    "text": "Learning Goal\n\nIntroduce how to use Git and GitHub to collaborate with colleagues on code\nRevise what typically causes conflicts when collaborating\nDemonstrate and practice how to resolve a conflict\nDescribe workflows to avoid conflicts"
   },
   {
     "objectID": "technical_modules/git-collab-merge-conflict/index.html#duration",
@@ -88,28 +88,28 @@
     "href": "technical_modules/clean-wangle-data/index.html",
     "title": "Cleaning and Wrangling Data",
     "section": "",
-    "text": "To be efficient analysts, we should have good tools to wrangle data to fit our needs. This way we can do further work like making plots and fitting models."
+    "text": "To be efficient analysts, we should have good tools to wrangle data to fit our needs. This way, we can do further work like making plots and fitting models."
   },
   {
     "objectID": "technical_modules/clean-wangle-data/index.html#description",
     "href": "technical_modules/clean-wangle-data/index.html#description",
     "title": "Cleaning and Wrangling Data",
     "section": "Description",
-    "text": "Description\nThis lesson aims to provide tools for reformatting data too meet your analysis needs. In general, the data we get to work with is not in the format we need to do our analyses. The dplyr and tidyr R packages provide a fairly complete and extremely powerful set of functions for us to do this reformatting quickly. Learning these tools well will greatly increase your efficiency as an analyst."
+    "text": "Description\nIn general, the data we get to work with is not in the format we need to do our analyses. The dplyr and tidy R packages provide a fairly complete and extremely powerful set of functions for us to do this reformatting quickly. This lesson aims to provide tools for reformatting data to meet your analysis needs. Learning these tools well will significantly increase your efficiency as an analyst."
   },
   {
     "objectID": "technical_modules/clean-wangle-data/index.html#prerequisites",
     "href": "technical_modules/clean-wangle-data/index.html#prerequisites",
     "title": "Cleaning and Wrangling Data",
     "section": "Prerequisites",
-    "text": "Prerequisites\n\nBasic knowledge about R and RStudio.\nIf you are new to R consider taking our Intro to programming in R using RStudio lesson."
+    "text": "Prerequisites\n\nBasic knowledge of R and RStudio.\nIf you are new to R, consider taking our Intro to Programming in R using RStudio lesson."
   },
   {
     "objectID": "technical_modules/clean-wangle-data/index.html#learning-goals",
     "href": "technical_modules/clean-wangle-data/index.html#learning-goals",
     "title": "Cleaning and Wrangling Data",
     "section": "Learning Goals",
-    "text": "Learning Goals\n\nUnderstand the basics of data wrangling conceptually\nIntroduce dplyr and tidyr functions to clean and wrangle data for analysis\nLearn about the pipe operator as a tool to pass on argument(s) through a sequence of - functions\nDescribe the difference between wide vs. long table formats and how to convert between them"
+    "text": "Learning Goals\n\nUnderstand the basics of data wrangling conceptually\nIntroduce dplyr and tidyr functions to clean and wrangle data for analysis\nLearn about the pipe operator as a tool to pass on argument(s) through a sequence of functions\nDescribe the difference between wide vs. long table formats and how to convert between them"
   },
   {
     "objectID": "technical_modules/clean-wangle-data/index.html#duration",
@@ -130,14 +130,14 @@
     "href": "technical_modules/literate-analysis-quarto/index.html#description",
     "title": "Literate Analysis with Quarto",
     "section": "Description",
-    "text": "Description\nMore often than not computational analysis is written in a way that is borderline incomprehensible even to the person who originally wrote the code. Quarto is a tool that allows you to combine prose with code. This way be able to do analysis and write reports all in one place. This course introduces the concept of literate analysis and explores the main functionalities of a Quarto document combining R, the programming language, and markdown, a set of text formatting directives."
+    "text": "Description\nMore often than not, computational analysis is written in a borderline incomprehensible way, even to the person who originally wrote the code. Quarto is a tool that allows you to combine prose with code—making it possible to do analysis and write reports all in one place. This course introduces the concept of literate analysis and explores the main functionalities of a Quarto document combining R, the programming language, and markdown, a set of text formatting directives."
   },
   {
     "objectID": "technical_modules/literate-analysis-quarto/index.html#prerequisites",
     "href": "technical_modules/literate-analysis-quarto/index.html#prerequisites",
     "title": "Literate Analysis with Quarto",
     "section": "Prerequisites",
-    "text": "Prerequisites\n\nBasic knowledge about R and RStudio.\nIf you are new to R consider taking our Intro to programming in R using RStudio lesson."
+    "text": "Prerequisites\n\nBasic knowledge of R and RStudio\nIf you are new to R, consider taking our Intro to Programming in R using RStudio lesson"
   },
   {
     "objectID": "technical_modules/literate-analysis-quarto/index.html#learning-goals",
@@ -165,7 +165,7 @@
     "href": "technical_modules/r-creating-functions/index.html#description",
     "title": "Creating Functions in R",
     "section": "Description",
-    "text": "Description\nFunctions allow you to break your code into small, resusbale modules. In this lesson, we will review the advantages of coding with functions, practice by creating some functions and show how to call them, and then do some exercises to build other simple functions."
+    "text": "Description\nFunctions allow you to break your code into small, reusable modules. In this lesson, we will review the advantages of coding with functions, practice creating some functions and show how to call them, and then do some exercises to build other simple functions."
   },
   {
     "objectID": "technical_modules/r-creating-functions/index.html#prerequisites",
@@ -179,7 +179,7 @@
     "href": "technical_modules/r-creating-functions/index.html#learning-goals",
     "title": "Creating Functions in R",
     "section": "Learning Goals",
-    "text": "Learning Goals\n\nLearn why we should write code in small functions\nWrite code for one or more functions\nDocument functions to improve understanding and code communication"
+    "text": "Learning Goals\n\nExplain why we should write code in small functions\nWrite code for one or more functions\nDocument functions to improve understanding and code communication"
   },
   {
     "objectID": "technical_modules/r-creating-functions/index.html#duration",
@@ -193,21 +193,21 @@
     "href": "technical_modules/visualization-ggplot-leaflet/index.html",
     "title": "Introduction to Data Visualization",
     "section": "",
-    "text": "Data visualization is a great tool to explore communicate about your data. Learn the basics of visualizing your data with ggplot2 and other data vis packages."
+    "text": "Data visualization is a great tool to explore and communicate your data. Learn the basics of visualizing your data with ggplot2 and other data vis packages."
   },
   {
     "objectID": "technical_modules/visualization-ggplot-leaflet/index.html#description",
     "href": "technical_modules/visualization-ggplot-leaflet/index.html#description",
     "title": "Introduction to Data Visualization",
     "section": "Description",
-    "text": "Description\nggplot is a popular and powerful package for visualizing data in R. The goal of this lesson is to introduce you to the basic components of working with ggplot2 and inspire you to keep exploring this package. We also briefly introduce the leaflet and dt package as a way to create interactive maps and tables respectively."
+    "text": "Description\nggplot2 is a popular and powerful package for visualizing data in R. This lesson introduces you to the basic components of working with ggplot2 and inspires you to keep exploring the endless possibilities this package provides regarding data visualization. We also briefly introduce the leaflet and dt packages to create interactive maps and tables."
   },
   {
     "objectID": "technical_modules/visualization-ggplot-leaflet/index.html#prerequisites",
     "href": "technical_modules/visualization-ggplot-leaflet/index.html#prerequisites",
     "title": "Introduction to Data Visualization",
     "section": "Prerequisites",
-    "text": "Prerequisites\n\nBasic knowledge about R and RStudio\nFamiliarity with the packages dyplr and tidyr"
+    "text": "Prerequisites\n\nBasic knowledge of R and RStudio\nFamiliarity with the packages dyplr and tidyr"
   },
   {
     "objectID": "technical_modules/visualization-ggplot-leaflet/index.html#learning-goals",
@@ -235,21 +235,21 @@
     "href": "technical_modules/git-and-github-intro/index.html#description",
     "title": "Introduction to Git and GitHub",
     "section": "Description",
-    "text": "Description\nEvery file in the scientific process changes. Manuscripts are edited. Figures get revised. Code gets fixed when bugs are discovered. These changes are important to track, and yet, we often use simplistic filenames to track them. Is there a better way? YES, version control. Version control provides an organized and transparent way to track changes in code and additional files. Git is a version control software and GitHub is website that allows users to store their Git repositories and share them with others. This lesson is a friendly introduction to these tools. It explains the main concepts and walks you through the Git and GitHub workflow using RStudio."
+    "text": "Description\nEvery file in the scientific process changes. Manuscripts are edited. Figures get revised. Code gets fixed when bugs are discovered. These changes are essential to track, and yet, we often use simplistic filenames to track them. Is there a better way? YES, version control. Version control provides an organized and transparent way to track changes in code and additional files. Git is a version control software, and GitHub is a website that allows users to store their Git repositories and share them with others. This lesson is a friendly introduction to these tools. It explains the main concepts and walks you through the Git and GitHub workflow using RStudio."
   },
   {
     "objectID": "technical_modules/git-and-github-intro/index.html#prerequisites",
     "href": "technical_modules/git-and-github-intro/index.html#prerequisites",
     "title": "Introduction to Git and GitHub",
     "section": "Prerequisites",
-    "text": "Prerequisites\n\nFamiliarity with R and RStudio\nHave a GitHub account (sign up at github.com)\nHave Git installed in your computer (see instructions here)"
+    "text": "Prerequisites\n\nFamiliarity with R and RStudio\nHave a GitHub account (sign up at github.com)\nHave Git installed on your computer (see instructions here)"
   },
   {
-    "objectID": "technical_modules/git-and-github-intro/index.html#learnig-goal",
-    "href": "technical_modules/git-and-github-intro/index.html#learnig-goal",
+    "objectID": "technical_modules/git-and-github-intro/index.html#learning-goal",
+    "href": "technical_modules/git-and-github-intro/index.html#learning-goal",
     "title": "Introduction to Git and GitHub",
-    "section": "Learnig Goal",
-    "text": "Learnig Goal\n\nApply the principles of Git to track and manage changes of a project\nUtilize the Git workflow including pulling changes, staging modified files, committing changes, pulling again to incorporate remote changes, and pushing changes to a remote repository\nCreate and configure Git repositories using different workflows"
+    "section": "Learning Goal",
+    "text": "Learning Goal\n\nApply the principles of Git to track and manage changes in a project\nUtilize the Git workflow, including pulling changes, staging modified files, committing changes, pulling again to incorporate remote changes, and pushing changes to a remote repository\nCreate and configure Git repositories using different workflows"
   },
   {
     "objectID": "technical_modules/git-and-github-intro/index.html#duration",
@@ -270,7 +270,7 @@
     "href": "technical_modules/r-creating-packages/index.html#description",
     "title": "Creating R Packages",
     "section": "Description",
-    "text": "Description\nMost R users are familiar with loading and utilizing packages in their work. However have never created a package of their own. Creating packages serves two main use cases:\n\nMechanism to redistribute reusable code (even if just for yourself)\nMechanism to reproducibly document analysis and models and their results\n\nThis lesson will walk you a simple example for creating and documenting an R package. The goal is to demystify the complexity of this tool and encourage you and you collaborators to create a package as you see fit."
+    "text": "Description\nMost R users are familiar with loading and utilizing packages in their work but have never created a package of their own. Creating packages serves two main use cases:\n\nMechanism to redistribute reusable code (even if just for yourself)\nMechanism to reproducibly document analysis and models and their results\n\nThis lesson will walk you through a simple example of creating and documenting an R package. The goal is to demystify the complexity of this tool and encourage you and your collaborators to create a package as you see fit."
   },
   {
     "objectID": "technical_modules/r-creating-packages/index.html#prerequisites",
@@ -291,7 +291,7 @@
     "href": "technical_modules/sf-spatial-data/index.html",
     "title": "Using sf for Spatial Data",
     "section": "",
-    "text": "Handling spatial data can be tricky. The sf package allow for integration of R spatial software with the tidyverse if desired."
+    "text": "Handling spatial data can be tricky. The sf package allows for integrating R spatial software with the tidyverse if desired."
   },
   {
     "objectID": "technical_modules/sf-spatial-data/index.html#description",
@@ -305,7 +305,7 @@
     "href": "technical_modules/sf-spatial-data/index.html#prerequisites",
     "title": "Using sf for Spatial Data",
     "section": "Prerequisites",
-    "text": "Prerequisites\n\nIntermediate R and RStudio user\nFamiliarity with the packages dyplr, tidyr and ggplot2"
+    "text": "Prerequisites\n\nIntermediate R and RStudio user\nFamiliarity with the packages dyplr, tidyr, and ggplot2"
   },
   {
     "objectID": "technical_modules/sf-spatial-data/index.html#learning-goals",
@@ -326,28 +326,28 @@
     "href": "technical_modules/reproducible-data-access/index.html",
     "title": "Reproducible Data Access",
     "section": "",
-    "text": "Accesing data is the first step to any analysis. Being able to do this in a portable is the ultimate goal to make your work as reproducible as possible."
+    "text": "Accessing data is the first step in any analysis. Being able to do this in a portable manner is the ultimate goal to make your work as reproducible as possible."
   },
   {
     "objectID": "technical_modules/reproducible-data-access/index.html#description",
     "href": "technical_modules/reproducible-data-access/index.html#description",
     "title": "Reproducible Data Access",
     "section": "Description",
-    "text": "Description\nTraditional ways of working with data – as files on a specific computer – limit the reproducibility of code to local compute environments. A typical R analysis file will load one or many data files from the local disk. However, it is rarely the case that those file paths work on your colleague’s machine. Alternatively we can access data through the Internet with a URL. But what happens if the URL to the data changes? (Which they often do). This lesson teaches you about pins and content identifiers and how to use them to access your data in a robust reproducible way."
+    "text": "Description\nTraditional ways of working with data – as files on a specific computer – limit code reproducibility to local computer environments. A typical R analysis file will load one or many data files from the local disk. However, it is rarely the case that those file paths work on your colleague’s machine. Alternatively, we can access data through the Internet with a URL. But what happens if the URL to the data changes? (Which they often do). This lesson teaches you about pins and content identifiers and how to use them to access your data in a truly reproducible way."
   },
   {
     "objectID": "technical_modules/reproducible-data-access/index.html#prerequisites",
     "href": "technical_modules/reproducible-data-access/index.html#prerequisites",
     "title": "Reproducible Data Access",
     "section": "Prerequisites",
-    "text": "Prerequisites\n\nBe familiar with R and RStudio"
+    "text": "Prerequisites\n\nBe familiar with R and RStudio\nBasic knowledge of data packages and data repositories"
   },
   {
-    "objectID": "technical_modules/reproducible-data-access/index.html#learnig-goal",
-    "href": "technical_modules/reproducible-data-access/index.html#learnig-goal",
+    "objectID": "technical_modules/reproducible-data-access/index.html#learning-goal",
+    "href": "technical_modules/reproducible-data-access/index.html#learning-goal",
     "title": "Reproducible Data Access",
-    "section": "Learnig Goal",
-    "text": "Learnig Goal\n\nBest practices for reproducible data access\nAccessing data on the web and with pins\nHow content identifiers differ from DOIs and make research more reproducible\nWays to register and resolve content identifiers for unpublished data\nHow content identifiers can resolve to published data source"
+    "section": "Learning Goal",
+    "text": "Learning Goal\n\nList best practices for reproducible data access\nAccess data on the web and with pins\nExplain how content identifiers differ from DOIs and make research more reproducible\nDemonstrate ways to register and resolve content identifiers for unpublished data\nIdentify how content identifiers can resolve to published data source"
   },
   {
     "objectID": "technical_modules/reproducible-data-access/index.html#duration",
@@ -361,28 +361,28 @@
     "href": "technical_modules/text-data/index.html",
     "title": "Working with text data in R",
     "section": "",
-    "text": "Apply data wrangling and data visualization methods to text and make text mining easier, more effective and consistent."
+    "text": "Apply data wrangling and data visualization methods to text, making text mining easier, more effective, and consistent."
   },
   {
     "objectID": "technical_modules/text-data/index.html#description",
     "href": "technical_modules/text-data/index.html#description",
     "title": "Working with text data in R",
     "section": "Description",
-    "text": "Description\nText mining is the process by which unstructured text is transformed into a structured format to prepare it for analysis. The goal of this lesson is to introduce tools that allow us to move from unstructured text to a structured format to perform analysis."
+    "text": "Description\nText mining is the process of transforming unstructured text into a structured format to prepare it for analysis. The goal of this lesson is to introduce tools that allow us to move from unstructured text to a structured layout to perform analysis."
   },
   {
     "objectID": "technical_modules/text-data/index.html#prerequisites",
     "href": "technical_modules/text-data/index.html#prerequisites",
     "title": "Working with text data in R",
     "section": "Prerequisites",
-    "text": "Prerequisites\n\nBasic knowledge about R and RStudio\nFamiliarity with the packages dyplr, tidyr and ggplot2"
+    "text": "Prerequisites\n\nBasic knowledge of R and RStudio\nFamiliarity with the packages dyplr, tidyr, and ggplot2"
   },
   {
     "objectID": "technical_modules/text-data/index.html#learning-goals",
     "href": "technical_modules/text-data/index.html#learning-goals",
     "title": "Working with text data in R",
     "section": "Learning Goals",
-    "text": "Learning Goals\n\nDescribe what is a token and how they are used\nDemonstrate how to use stop words\nCreate customize stop words\nProvide tools to give structure to unstructured text"
+    "text": "Learning Goals\n\nDescribe what a token is and how they are used\nDemonstrate how to use stop words\nCreate customized stop words\nProvide tools to give structure to unstructured text"
   },
   {
     "objectID": "technical_modules/text-data/index.html#duration",
@@ -403,7 +403,7 @@
     "href": "technical_modules/intro-to-shiny/index.html#description",
     "title": "Introduction to Shiny",
     "section": "Description",
-    "text": "Description\nShiny is an R package for creating interactive data visualizations embedded in a web application that you and your colleagues can view with just a web browser. The goal of this lesson is to learn about the Shiny architecture and build a sample Shiny app to deploy interactive visualizations."
+    "text": "Description\nShiny is an R package for creating interactive data visualizations embedded in a web application that you and your colleagues can view using a web browser. The goal of this lesson is to learn about the Shiny architecture and build a sample Shiny app to deploy interactive visualizations."
   },
   {
     "objectID": "technical_modules/intro-to-shiny/index.html#prerequisites",
@@ -417,7 +417,7 @@
     "href": "technical_modules/intro-to-shiny/index.html#learning-goals",
     "title": "Introduction to Shiny",
     "section": "Learning Goals",
-    "text": "Learning Goals\n\nReview the capabilities in Shiny applications\nLearn about the basic layout for Shiny interfaces\nLearn about the server component for Shiny applications\nBuild a simple shiny application for interactive plotting"
+    "text": "Learning Goals\n\nReview the capabilities in Shiny applications\nLearn about the basic layout for Shiny interfaces\nUnderstand the server component for Shiny applications\nBuild a simple shiny application for interactive plotting"
   },
   {
     "objectID": "technical_modules/intro-to-shiny/index.html#duration",
@@ -438,21 +438,21 @@
     "href": "technical_modules/reproducible-papers/index.html#description",
     "title": "Reproducible Papers",
     "section": "Description",
-    "text": "Description\nUnder the reproducible umbrella, this lesson aims to provide tools and a framework for writing reproducible papers. The idea is to leverage on different R packages that can help you organize your research from start to finish. Particularly focusing on formatting publication manuscripts for specific journal."
+    "text": "Description\nUnder the reproducible umbrella, this lesson aims to provide tools and a framework for writing reproducible papers. The idea is to leverage different R packages to help you organize your research from start to finish. Mainly focusing on formatting publication manuscripts for specific journals."
   },
   {
     "objectID": "technical_modules/reproducible-papers/index.html#prerequisites",
     "href": "technical_modules/reproducible-papers/index.html#prerequisites",
     "title": "Reproducible Papers",
     "section": "Prerequisites",
-    "text": "Prerequisites\n\nBasic knowledge about R and RStudio\nFamiliarity with Rmarkdown and/or Quarto"
+    "text": "Prerequisites\n\nBasic knowledge of R and RStudio\nFamiliarity with Rmarkdown and/or Quarto"
   },
   {
     "objectID": "technical_modules/reproducible-papers/index.html#learning-goals",
     "href": "technical_modules/reproducible-papers/index.html#learning-goals",
     "title": "Reproducible Papers",
     "section": "Learning Goals",
-    "text": "Learning Goals\n\nIntroduce the concept of reserach compendium\nLearn how to use R to package your work by building a reproducible paper in RMarkdown/Quarto"
+    "text": "Learning Goals\n\nIntroduce the concept of a research compendium\nLearn how to use R to package your work by building a reproducible paper in RMarkdown/Quarto"
   },
   {
     "objectID": "technical_modules/reproducible-papers/index.html#duration",
@@ -466,7 +466,7 @@
     "href": "technical_modules/git-github-publishing-analysis/index.html",
     "title": "Publishing to the Web using GitHub Pages",
     "section": "",
-    "text": "Tools like Quarto, RMarkdown, and GitHub allows you to share your work with others in a beautiful and easy to read web page."
+    "text": "Tools like Quarto, RMarkdown, and GitHub allow you to share your work with others on a beautiful and easy-to-read web page."
   },
   {
     "objectID": "technical_modules/git-github-publishing-analysis/index.html#description",
@@ -483,11 +483,11 @@
     "text": "Prerequisites\n\nHave a GitHub account (you can sign up at github.com)\nFamiliarity with GitHub (consider taking Introduction to Git and GitHub)\nBe comfortable using R and RStudio"
   },
   {
-    "objectID": "technical_modules/git-github-publishing-analysis/index.html#learnig-goal",
-    "href": "technical_modules/git-github-publishing-analysis/index.html#learnig-goal",
+    "objectID": "technical_modules/git-github-publishing-analysis/index.html#learning-goal",
+    "href": "technical_modules/git-github-publishing-analysis/index.html#learning-goal",
     "title": "Publishing to the Web using GitHub Pages",
-    "section": "Learnig Goal",
-    "text": "Learnig Goal\n\nPractice how to use Git, GitHub (+Pages), and R Markdown or Quarto to publish an analysis to the web"
+    "section": "Learning Goal",
+    "text": "Learning Goal\n\nPractice how to use Git, GitHub (+Pages), and R Markdown or Quarto to publish an analysis to the web"
   },
   {
     "objectID": "technical_modules/git-github-publishing-analysis/index.html#duration",
@@ -501,14 +501,14 @@
     "href": "non-technical-modules/metadata-best-practices/index.html",
     "title": "Metadata Best Practices",
     "section": "",
-    "text": "Metadata is the data about your data. Having an organized and detailed metadata is key for reprodcucibility and reuse of your data."
+    "text": "Metadata is the data about your data. Having organized and detailed metadata is critical for data reuse and the reproducibility of your work."
   },
   {
     "objectID": "non-technical-modules/metadata-best-practices/index.html#description",
     "href": "non-technical-modules/metadata-best-practices/index.html#description",
     "title": "Metadata Best Practices",
     "section": "Description",
-    "text": "Description\nWithin the data life cycle you can be collecting data (creating new data) or integrating data that has all ready been collected. Either way, metadata plays a major role to successfully spin around the cycle because it enables data reuse long after the original collection. This lesson walks through guidelines and best practices that will help you organize the documentation of your data."
+    "text": "Description\nWithin the data life cycle, you can collect data (creating new data) or integrate already collected data. Either way, metadata plays a significant role in successfully spinning around the cycle because it enables data reuse long after the original collection. This lesson walks through guidelines and best practices that will help you organize the documentation of your data."
   },
   {
     "objectID": "non-technical-modules/metadata-best-practices/index.html#prerequisites",
@@ -518,11 +518,11 @@
     "text": "Prerequisites\nNone"
   },
   {
-    "objectID": "non-technical-modules/metadata-best-practices/index.html#learnig-goal",
-    "href": "non-technical-modules/metadata-best-practices/index.html#learnig-goal",
+    "objectID": "non-technical-modules/metadata-best-practices/index.html#learning-goal",
+    "href": "non-technical-modules/metadata-best-practices/index.html#learning-goal",
     "title": "Metadata Best Practices",
-    "section": "Learnig Goal",
-    "text": "Learnig Goal\n\nUnderstand metadata guidelines and best practices for reproducibility\nIntroduce useful metadata standards within the environmental/ecology field"
+    "section": "Learning Goal",
+    "text": "Learning Goal\n\nUnderstand metadata guidelines and best practices for reproducibility\nIntroduce practical metadata standards within the environmental/ecology field"
   },
   {
     "objectID": "non-technical-modules/metadata-best-practices/index.html#duration",
@@ -536,14 +536,14 @@
     "href": "non-technical-modules/fair-and-care/index.html",
     "title": "The FAIR and CARE Principles",
     "section": "",
-    "text": "These principles aim to make data available to machines, researchers, Indigenous communities, policy makers, and more."
+    "text": "These principles aim to make data available to machines, researchers, Indigenous communities, policymakers, and more."
   },
   {
     "objectID": "non-technical-modules/fair-and-care/index.html#description",
     "href": "non-technical-modules/fair-and-care/index.html#description",
     "title": "The FAIR and CARE Principles",
     "section": "Description",
-    "text": "Description\nThe idea behind these principles is to increase access and usage of complex and large datasets for innovation, discovery, and decision-making. This lessons reviews each of these principles providing examples on how to out them in practice when working with data. This module mixes briefing of content, discussion and exercises for participants to evaluate these principles with real data."
+    "text": "Description\nThese principles aim to increase access and usage of complex and large datasets for innovation, discovery, and decision-making. This lesson reviews each of these principles providing examples of how to put them into practice when working with data. This module mixes briefing of content, discussion, and exercises for participants to evaluate these principles with real-world data."
   },
   {
     "objectID": "non-technical-modules/fair-and-care/index.html#prerequisites",
@@ -553,18 +553,18 @@
     "text": "Prerequisites\nNone"
   },
   {
-    "objectID": "non-technical-modules/fair-and-care/index.html#learnig-goal",
-    "href": "non-technical-modules/fair-and-care/index.html#learnig-goal",
+    "objectID": "non-technical-modules/fair-and-care/index.html#learning-goal",
+    "href": "non-technical-modules/fair-and-care/index.html#learning-goal",
     "title": "The FAIR and CARE Principles",
-    "section": "Learnig Goal",
-    "text": "Learnig Goal\n\nIntroduce FAIR and CARE principles and the value it provides to data\nProvide a FAIR and CARE lens that can be applied to your data-focused work\nEvaluate the FAIRness and CAREness of your work and the work of others"
+    "section": "Learning Goal",
+    "text": "Learning Goal\n\nIntroduce FAIR and CARE principles and the value it provides to data\nProvide a FAIR and CARE lens that can be applied to your data-focused work\nEvaluate the FAIRness and CAREness of your work and the work of others"
   },
   {
     "objectID": "non-technical-modules/fair-and-care/index.html#duration",
     "href": "non-technical-modules/fair-and-care/index.html#duration",
     "title": "The FAIR and CARE Principles",
     "section": "Duration",
-    "text": "Duration\n1 hours"
+    "text": "Duration\n1 hour"
   },
   {
     "objectID": "non-technical-modules/data-modeling-essentials/index.html",
@@ -578,7 +578,7 @@
     "href": "non-technical-modules/data-modeling-essentials/index.html#description",
     "title": "Data Modeling Essentials",
     "section": "Description",
-    "text": "Description\nPreparing your data for analysis can me time consuming and tedious. But, it is a necessary step before analyzing your data. This lesson dives deep into what is tidy and normalize data and how make sure your data structure follow a “tidy structure”. It also introduces relational data models and provides an overview of merging data using joins. This lesson explores fundamentals concepts for working with data and includes a hands on exercise to apply these concepts to a real data set."
+    "text": "Description\nPreparing your data for analysis can be time-consuming and tedious. But, it is a necessary step before analyzing your data. This lesson dives deep into what is tidy and normalized data and how to make sure your data structure follows a “tidy structure.” It also introduces relational data models and provides an overview of merging data using joins. This lesson explores fundamental concepts for working with data and includes a hands-on exercise to apply these concepts to an actual data set."
   },
   {
     "objectID": "non-technical-modules/data-modeling-essentials/index.html#prerequisites",
@@ -588,11 +588,11 @@
     "text": "Prerequisites\nNone"
   },
   {
-    "objectID": "non-technical-modules/data-modeling-essentials/index.html#learnig-goal",
-    "href": "non-technical-modules/data-modeling-essentials/index.html#learnig-goal",
+    "objectID": "non-technical-modules/data-modeling-essentials/index.html#learning-goal",
+    "href": "non-technical-modules/data-modeling-essentials/index.html#learning-goal",
     "title": "Data Modeling Essentials",
-    "section": "Learnig Goal",
-    "text": "Learnig Goal\n\nApplying tidy and normalized data principles\nFollowing best practices to format data tables’ content\nRelating tables following relational data models principles\nUnderstanding how to perform table joins."
+    "section": "Learning Goal",
+    "text": "Learning Goal\n\nApplying tidy and normalized data principles\nFollowing best practices to format data tables’ content\nRelating tables following relational data models principles\nUnderstanding how to perform table joins."
   },
   {
     "objectID": "non-technical-modules/data-modeling-essentials/index.html#duration",
@@ -606,14 +606,14 @@
     "href": "non-technical-modules/provenance-and-reproducibility/index.html",
     "title": "Reproducibility and Provenance",
     "section": "",
-    "text": "Reproducible workflows increase research effcicinecy, accelerates collaboration and increase trust in science."
+    "text": "Reproducible workflows increase research efficiency, accelerate collaboration and increase trust in science."
   },
   {
     "objectID": "non-technical-modules/provenance-and-reproducibility/index.html#description",
     "href": "non-technical-modules/provenance-and-reproducibility/index.html#description",
     "title": "Reproducibility and Provenance",
     "section": "Description",
-    "text": "Description\nIn most cases the methods sections of papers are inadequate to fully reproduce the work described in the paper. By looking at a figure on a paper we don’t get the full story how did the scientist got to make this plot. This lesson introduces de concepts of computational reproducibility and provenance and gives an overview on how they can be achieved in your work."
+    "text": "Description\nIn most cases, the methods sections of papers are inadequate to fully reproduce the work described in the paper. By looking at a figure on a paper, we only get part of the story of how the scientist got to make this plot. This lesson introduces de concepts of computational reproducibility and provenance and gives an overview of how they can be achieved in your work."
   },
   {
     "objectID": "non-technical-modules/provenance-and-reproducibility/index.html#prerequisites",
@@ -623,11 +623,11 @@
     "text": "Prerequisites\nNone"
   },
   {
-    "objectID": "non-technical-modules/provenance-and-reproducibility/index.html#learnig-goal",
-    "href": "non-technical-modules/provenance-and-reproducibility/index.html#learnig-goal",
+    "objectID": "non-technical-modules/provenance-and-reproducibility/index.html#learning-goal",
+    "href": "non-technical-modules/provenance-and-reproducibility/index.html#learning-goal",
     "title": "Reproducibility and Provenance",
-    "section": "Learnig Goal",
-    "text": "Learnig Goal\n\nDiscuss the concept of reproducible workflows including computational reproducibility and provenance metadata\nIntroduce tools and techniques for reproducibility supported by the NCEAS and DataONE"
+    "section": "Learning Goal",
+    "text": "Learning Goal\n\nDiscuss the concept of reproducible workflows, including computational reproducibility and provenance metadata\nIntroduce tools and techniques for reproducibility supported by the NCEAS and DataONE"
   },
   {
     "objectID": "non-technical-modules/provenance-and-reproducibility/index.html#duration",
@@ -641,14 +641,14 @@
     "href": "non-technical-modules/data-management-plan/index.html",
     "title": "Writing Data Management Plans",
     "section": "",
-    "text": "Documenting your project using a thorough data management plan it’s an important step to achiving a reproducible open science framework for your research."
+    "text": "Documenting your project using a thorough data management plan it’s an important step to achieving a reproducible open science framework for your research."
   },
   {
     "objectID": "non-technical-modules/data-management-plan/index.html#description",
     "href": "non-technical-modules/data-management-plan/index.html#description",
     "title": "Writing Data Management Plans",
     "section": "Description",
-    "text": "Description\nSuccessfully managing your data throughout a research project helps ensures its preservation for future use. Having an organize data management plan allows your research outcomes to be transparent, maximizing the effective use and value of your work. This lesson provides an overview of all that needs to be in place for writing an effective data management plan and introduces tools that can help you organize and keep track of this information."
+    "text": "Description\nSuccessfully managing your data throughout a research project helps ensures its preservation for future use. An organized data management plan lets your research outcomes be transparent, maximizing your work’s practical use and value. This lesson provides an overview of everything that needs to be in place for writing an effective data management plan and introduces tools to help you organize and keep track of this information."
   },
   {
     "objectID": "non-technical-modules/data-management-plan/index.html#prerequisites",
@@ -658,11 +658,11 @@
     "text": "Prerequisites\nNone"
   },
   {
-    "objectID": "non-technical-modules/data-management-plan/index.html#learnig-goal",
-    "href": "non-technical-modules/data-management-plan/index.html#learnig-goal",
+    "objectID": "non-technical-modules/data-management-plan/index.html#learning-goal",
+    "href": "non-technical-modules/data-management-plan/index.html#learning-goal",
     "title": "Writing Data Management Plans",
-    "section": "Learnig Goal",
-    "text": "Learnig Goal\n\nState the importance of creating data management plans\nExplain the major components of data management plans\nRecommend tools that can help create a data management plan\nProvide features and functionality of the DMPTool"
+    "section": "Learning Goal",
+    "text": "Learning Goal\n\nState the importance of creating data management plans\nExplain the major components of data management plans\nRecommend tools that can help create a data management plan\nProvide features and functionality of the DMPTool"
   },
   {
     "objectID": "non-technical-modules/data-management-plan/index.html#duration",
@@ -676,14 +676,14 @@
     "href": "non-technical-modules/reproducibility-lego/index.html",
     "title": "LEGO® Reproducibility Activity",
     "section": "",
-    "text": "Get together in teams and build a lego structure and document the process as you go. Fun and interactive icebreaker activity to introduce the concept of reproducibility."
+    "text": "Get together in teams, build a LEGO® structure, and document the process—fun and interactive icebreaker activity to introduce the concept of reproducibility."
   },
   {
     "objectID": "non-technical-modules/reproducibility-lego/index.html#description",
     "href": "non-technical-modules/reproducibility-lego/index.html#description",
     "title": "LEGO® Reproducibility Activity",
     "section": "Description",
-    "text": "Description\nThis is an interactive activity where participants have to build a structure using LEGO®. The challenge part comes when it comes documenting the process so others can replicate what you built. This activity is a great icebreaker to get everyone talking about the importance of clear documentation for reproducible workflows."
+    "text": "Description\nThis interactive activity requires participants to build a structure using LEGO®. The challenging part comes when documenting the process so others can replicate what you made. This activity is a great icebreaker to get everyone talking about the importance of clear documentation for reproducible workflows."
   },
   {
     "objectID": "non-technical-modules/reproducibility-lego/index.html#prerequisites",
@@ -693,32 +693,32 @@
     "text": "Prerequisites\n\nNone"
   },
   {
-    "objectID": "non-technical-modules/reproducibility-lego/index.html#learnig-goal",
-    "href": "non-technical-modules/reproducibility-lego/index.html#learnig-goal",
+    "objectID": "non-technical-modules/reproducibility-lego/index.html#learning-goal",
+    "href": "non-technical-modules/reproducibility-lego/index.html#learning-goal",
     "title": "LEGO® Reproducibility Activity",
-    "section": "Learnig Goal",
-    "text": "Learnig Goal\n\nIllustrate elements of good reproducibility through the medium of LEGO®\nDiscuss what is needed and what is not needed for good reproducibility"
+    "section": "Learning Goal",
+    "text": "Learning Goal\n\nIllustrate elements of good reproducibility through the medium of LEGO®\nDiscuss what is needed and what is not needed for good reproducibility"
   },
   {
     "objectID": "non-technical-modules/reproducibility-lego/index.html#duration",
     "href": "non-technical-modules/reproducibility-lego/index.html#duration",
     "title": "LEGO® Reproducibility Activity",
     "section": "Duration",
-    "text": "Duration\n1 hours"
+    "text": "Duration\n1 hour\nIn person only"
   },
   {
     "objectID": "non-technical-modules/collaboration-thinking-preferences/index.html",
     "href": "non-technical-modules/collaboration-thinking-preferences/index.html",
     "title": "Thinking Preferences",
     "section": "",
-    "text": "Undertsanding how people think and process information helps us understand not only our own approach to problem solving, but also how individuals within a team can contribute."
+    "text": "Understanding how people think and process information helps us identify our approach to problem-solving and how individuals within a team can contribute."
   },
   {
     "objectID": "non-technical-modules/collaboration-thinking-preferences/index.html#description",
     "href": "non-technical-modules/collaboration-thinking-preferences/index.html#description",
     "title": "Thinking Preferences",
     "section": "Description",
-    "text": "Description\nEveryone thinks differently. The way individuals think guides the way they work, and the way groups of individuals think guides how teams work. Understanding thinking preferences facilitates effective collaboration and team work. This module is an interactive activity that allows you to get to know about different thinking styles and how each type brings strengths to different aspects of project."
+    "text": "Description\nEveryone thinks differently. How individuals think guides how they work, and how groups of individuals think guides how teams work. Understanding thinking preferences facilitates effective collaboration and teamwork. This interactive module allows you to learn about different thinking styles and how each type brings strengths to different aspects of a project."
   },
   {
     "objectID": "non-technical-modules/collaboration-thinking-preferences/index.html#prerequisites",
@@ -728,11 +728,11 @@
     "text": "Prerequisites\nNone"
   },
   {
-    "objectID": "non-technical-modules/collaboration-thinking-preferences/index.html#learnig-goal",
-    "href": "non-technical-modules/collaboration-thinking-preferences/index.html#learnig-goal",
+    "objectID": "non-technical-modules/collaboration-thinking-preferences/index.html#learning-goal",
+    "href": "non-technical-modules/collaboration-thinking-preferences/index.html#learning-goal",
     "title": "Thinking Preferences",
-    "section": "Learnig Goal",
-    "text": "Learnig Goal\n\nGet to know fellow participants and how they think.\nDiscuss about the Whole Brain Thinking System as a helpful tool understand different approaches to problem solving."
+    "section": "Learning Goal",
+    "text": "Learning Goal\n\nGet to know fellow participants and how they think.\nDiscuss the Whole Brain Thinking System as a helpful tool to understand different approaches to problem-solving."
   },
   {
     "objectID": "non-technical-modules/collaboration-thinking-preferences/index.html#duration",
