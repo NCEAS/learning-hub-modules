@@ -1,10 +1,10 @@
 ---
-title: "[Collaborating using `Git` and GitHub & Merge Conflicts]{style=color:#26805C}"
-categories: [intermediate, GitHub]
+title: "Collaborating using `Git` and GitHub & Merge Conflicts"
+categories: [intermediate, github]
 image: horst-git-hug.png
 ---
 
-> `Git` and GitHub streamline collaboration on a research project by allowing everyone working on a project to work simultaneously, share work, and tag specific challenges or questions for each other.
+> Use the power of `Git` and GitHub streamline collaboration on a research project. <font size="2"> *Image credit: Art by: Allison Horst* </font>
 
 ## {{< fa scroll >}} Description
 
@@ -24,10 +24,3 @@ image: horst-git-hug.png
 ## <i class="fa-regular fa-clock"></i> Duration
 
 2 hours
-
-
-<br>
-
-<font size="2">  
-    _Image credit: Art by: Allison Horst_
-</font>

@@ -1,10 +1,10 @@
 ---
-title: "[Publishing to the Web using GitHub Pages]{style=color:#26805C}"
+title: "Publishing to the Web using GitHub Pages"
 categories: [github, intermediate]
 image: githubpages.jpg 
 ---
 
-> Tools like Quarto, RMarkdown, and GitHub allow you to share your work with others on a beautiful and easy-to-read web page.
+> Tools like Quarto, RMarkdown, and GitHub allow you to share your work with others on a beautiful and easy-to-read web page. <font size="2"> *Image credit: \<github.com\>* </font>
 
 ## {{< fa scroll >}} Description
 
@@ -23,10 +23,3 @@ Sharing your work with others in engaging ways is an important part of the scien
 ## <i class="fa-regular fa-clock"></i>Duration
 
 30 min
-
-
-<br>
-
-<font size="2">  
-    _Image credit: <github.com>_
-</font>

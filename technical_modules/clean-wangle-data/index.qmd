@@ -4,8 +4,8 @@ categories: [beginner, data wrangling]
 image: kross-tidydata-tutorial.png
 ---
 
-> To be efficient analysts, we should have good tools to wrangle data to fit our needs. This way, we can do further work like making plots and fitting models.
-
+> To be efficient analysts, we should have good tools to wrangle data to fit our needs. This way, we can do further work like making plots and fitting models. <font size="2">\
+*Image credit: <https://tidydatatutor.com/>* </font>
 
 ## {{< fa scroll >}} Description
 
@@ -23,12 +23,7 @@ In general, the data we get to work with is not in the format we need to do our 
 -   Learn about the pipe operator as a tool to pass on argument(s) through a sequence of functions
 -   Describe the difference between wide vs. long table formats and how to convert between them
 
-## <i class="fa-regular fa-clock"></i>  Duration
+## <i class="fa-regular fa-clock"></i> Duration
 
 2 hours
 
-<br>
-
-<font size="2">  
-    _Image credit: <https://tidydatatutor.com/>_
-</font>

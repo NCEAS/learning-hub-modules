@@ -5,7 +5,7 @@ listing:
   contents: technical_modules
   feed: true
   # sort: "date desc"
-  type: grid
+  type: default
   grid-item-border: true
   grid-item-align: left
   max-description-length: 175
@@ -18,6 +18,5 @@ title-block-banner: false
 ---
 
 Technical lessons aim to teach and practice a specific data science tool. The format generally combines lectures to introduce concepts, live coding, and optional hands-on practice sessions. Here we provide a list with a short description of our current technical offerings. The specific goals of each of these lessons can be adapted to best fit your team and meet all participants where they are. If you are interested in a topic outside this list, please let us know, and we will be happy to discuss the feasibility of creating new materials.
-
 
 Participants will need a computer with recent versions of R and RStudio for all these lessons. Check out instructions to install or upgrade R and RStudio [here](https://happygitwithr.com/install-r-rstudio.html).

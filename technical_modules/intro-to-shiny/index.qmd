@@ -1,10 +1,11 @@
 ---
-title: "[Introduction to Shiny]{style=color:#26805C}"
+title: "Introduction to Shiny"
 categories: [intermediate, data vis]
 image: shiny-logo.jpg
 ---
 
-> Shiny apps provide interactive features for letting others share and explore data and analyses.
+> Shiny apps provide interactive features for letting others share and explore data and analyses. <font size="2">\
+> *Image credit: Shiny Logo* </font>
 
 ## {{< fa scroll >}} Description
 
@@ -15,7 +16,7 @@ image: shiny-logo.jpg
 -   Intermediate level R user
 -   Familiarity with `ggplot2`
 
-## {< fa bullseye >}} Learning Goals
+## {{< fa bullseye >}} Learning Goals
 
 -   Review the capabilities in Shiny applications
 -   Learn about the basic layout for Shiny interfaces
@@ -25,9 +26,3 @@ image: shiny-logo.jpg
 ## <i class="fa-regular fa-clock"></i> Duration
 
 3 hours
-
-<br>
-
-<font size="2">  
-    _Image credit: Shiny Logo_
-</font>

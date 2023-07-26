@@ -4,7 +4,7 @@
     "href": "technical-lessons.html",
     "title": "Technical Modules",
     "section": "",
-    "text": "Technical lessons aim to teach and practice a specific data science tool. The format generally combines lectures to introduce concepts, live coding, and optional hands-on practice sessions. Here we provide a list with a short description of our current technical offerings. The specific goals of each of these lessons can be adapted to best fit your team and meet all participants where they are. If you are interested in a topic outside this list, please let us know, and we will be happy to discuss the feasibility of creating new materials.\nParticipants will need a computer with recent versions of R and RStudio for all these lessons. Check out instructions to install or upgrade R and RStudio here.\n\n\n\n\n\n\n    \n      \n      \n    \n\n\n\n\n\n\n\n\n\n\nCollaborating using Git and GitHub & Merge Conflicts\n\n\n\nintermediate\n\n\nGitHub\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nCreating Functions in R\n\n\n\nintermediate\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nCreating R Packages\n\n\n\nintermediate\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nIntroduction to Data Visualization\n\n\n\nbeginner\n\n\ndata vis\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nIntroduction to Programming in R using RStudio\n\n\n\nbeginner\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nIntroduction to Shiny\n\n\n\nintermediate\n\n\ndata vis\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nLiterate Analysis with Quarto\n\n\n\nQuarto\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nPublishing to the Web using GitHub Pages\n\n\n\ngithub\n\n\nintermediate\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nReproducible Data Access\n\n\n\nintermediate\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nReproducible Papers\n\n\n\nreproducibility\n\n\nintermediate\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nUsing sf for Spatial Data\n\n\n\nintermediate\n\n\ndata vis\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nWorking with text data in R\n\n\n\nbeginner\n\n\ntext data\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nCleaning and Wrangling Data\n\n\n\nbeginner\n\n\ndata wrangling\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nIntroduction to Git and GitHub\n\n\n\nbeginner\n\n\nGitHub\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nNo matching items"
+    "text": "Technical lessons aim to teach and practice a specific data science tool. The format generally combines lectures to introduce concepts, live coding, and optional hands-on practice sessions. Here we provide a list with a short description of our current technical offerings. The specific goals of each of these lessons can be adapted to best fit your team and meet all participants where they are. If you are interested in a topic outside this list, please let us know, and we will be happy to discuss the feasibility of creating new materials.\nParticipants will need a computer with recent versions of R and RStudio for all these lessons. Check out instructions to install or upgrade R and RStudio here.\n\n\n\n\n\n\n    \n      \n      \n    \n\n\n\n\n  \n\n\n\n\nCollaborating using Git and GitHub & Merge Conflicts\n\n\n\n\n\n\n\nintermediate\n\n\ngithub\n\n\n\n\n\n\n\n\n\n \n\n\n\n\n  \n\n\n\n\nCreating Functions in R\n\n\n\n\n\n\n\nintermediate\n\n\n\n\n\n\n\n\n\n \n\n\n\n\n  \n\n\n\n\nCreating R Packages\n\n\n\n\n\n\n\nintermediate\n\n\n\n\n\n\n\n\n\n \n\n\n\n\n  \n\n\n\n\nIntroduction to Data Visualization\n\n\n\n\n\n\n\nbeginner\n\n\ndata vis\n\n\n\n\n\n\n\n\n\n \n\n\n\n\n  \n\n\n\n\nIntroduction to Programming in R using RStudio\n\n\n\n\n\n\n\nbeginner\n\n\n\n\n\n\n\n\n\n \n\n\n\n\n  \n\n\n\n\nIntroduction to Shiny\n\n\n\n\n\n\n\nintermediate\n\n\ndata vis\n\n\n\n\n\n\n\n\n\n \n\n\n\n\n  \n\n\n\n\nIntroduction to Git and GitHub\n\n\n\n\n\n\n\nbeginner\n\n\nGitHub\n\n\n\n\n\n\n\n\n\n \n\n\n\n\n  \n\n\n\n\nLiterate Analysis with Quarto\n\n\n\n\n\n\n\nQuarto\n\n\n\n\n\n\n\n\n\n \n\n\n\n\n  \n\n\n\n\nPublishing to the Web using GitHub Pages\n\n\n\n\n\n\n\ngithub\n\n\nintermediate\n\n\n\n\n\n\n\n\n\n \n\n\n\n\n  \n\n\n\n\nReproducible Data Access\n\n\n\n\n\n\n\nintermediate\n\n\n\n\n\n\n\n\n\n \n\n\n\n\n  \n\n\n\n\nReproducible Papers\n\n\n\n\n\n\n\nreproducibility\n\n\nintermediate\n\n\n\n\n\n\n\n\n\n \n\n\n\n\n  \n\n\n\n\nUsing sf for Spatial Data\n\n\n\n\n\n\n\nintermediate\n\n\ndata vis\n\n\n\n\n\n\n\n\n\n \n\n\n\n\n  \n\n\n\n\nWorking with text data in R\n\n\n\n\n\n\n\nbeginner\n\n\ntext data\n\n\n\n\n\n\n\n\n\n \n\n\n\n\n  \n\n\n\n\nCleaning and Wrangling Data\n\n\n\n\n\n\n\nbeginner\n\n\ndata wrangling\n\n\n\n\n\n\n\n\n\n \n\n\n\n\nNo matching items"
   },
   {
     "objectID": "non-technical-lessons.html",
@@ -18,25 +18,25 @@
     "href": "technical_modules/intro-to-r-programming/index.html",
     "title": "Introduction to Programming in R using RStudio",
     "section": "",
-    "text": "New to R? This lesson walks through the basic concepts of the R programming language."
+    "text": "New to R? This lesson walks through the basic concepts of the R programming language.  Image credit: Art by: Allison Horst"
   },
   {
-    "objectID": "technical_modules/intro-to-r-programming/index.html#description",
-    "href": "technical_modules/intro-to-r-programming/index.html#description",
+    "objectID": "technical_modules/intro-to-r-programming/index.html#fa-scroll-description",
+    "href": "technical_modules/intro-to-r-programming/index.html#fa-scroll-description",
     "title": "Introduction to Programming in R using RStudio",
-    "section": "Description",
+    "section": " Description",
     "text": "Description\nThis lesson is a gentle introduction to working with R using the RStudio interface. The goal is to become familiar with how the R language works as the starting point to learn more in-depth techniques to advance your science."
   },
   {
-    "objectID": "technical_modules/intro-to-r-programming/index.html#prerequisites",
-    "href": "technical_modules/intro-to-r-programming/index.html#prerequisites",
+    "objectID": "technical_modules/intro-to-r-programming/index.html#fa-check-prerequisites",
+    "href": "technical_modules/intro-to-r-programming/index.html#fa-check-prerequisites",
     "title": "Introduction to Programming in R using RStudio",
-    "section": "Prerequisites",
+    "section": " Prerequisites",
     "text": "Prerequisites\nNone"
   },
   {
-    "objectID": "technical_modules/intro-to-r-programming/index.html#learning-goals",
-    "href": "technical_modules/intro-to-r-programming/index.html#learning-goals",
+    "objectID": "technical_modules/intro-to-r-programming/index.html#fa-bullseye-learning-goals",
+    "href": "technical_modules/intro-to-r-programming/index.html#fa-bullseye-learning-goals",
     "title": "Introduction to Programming in R using RStudio",
     "section": "Learning Goals",
     "text": "Learning Goals\n\nBecome familiar with the RStudio interface\nLearn the basics of R syntax (functions, packages, objects, vectors, assignment operator)\nUnderstand the difference between a script and the console\nCreate and inspect vectors, identifying their class, content, and structure\nRead and inspect data in R and understand the data structure\nApply basic mathematical operations with values in a data table"
@@ -45,7 +45,7 @@
     "objectID": "technical_modules/intro-to-r-programming/index.html#duration",
     "href": "technical_modules/intro-to-r-programming/index.html#duration",
     "title": "Introduction to Programming in R using RStudio",
-    "section": "Duration",
+    "section": " Duration",
     "text": "Duration\n2 hours"
   },
   {
@@ -53,34 +53,34 @@
     "href": "technical_modules/git-collab-merge-conflict/index.html",
     "title": "Collaborating using Git and GitHub & Merge Conflicts",
     "section": "",
-    "text": "Git and GitHub streamline collaboration on a research project by allowing everyone working on a project to work simultaneously, share work, and tag specific challenges or questions for each other."
+    "text": "Use the power of Git and GitHub streamline collaboration on a research project.  Image credit: Art by: Allison Horst"
   },
   {
-    "objectID": "technical_modules/git-collab-merge-conflict/index.html#description",
-    "href": "technical_modules/git-collab-merge-conflict/index.html#description",
+    "objectID": "technical_modules/git-collab-merge-conflict/index.html#fa-scroll-description",
+    "href": "technical_modules/git-collab-merge-conflict/index.html#fa-scroll-description",
     "title": "Collaborating using Git and GitHub & Merge Conflicts",
-    "section": "Description",
+    "section": " Description",
     "text": "Description\nGit is a great tool for working independently, but even better for working with friends and colleagues. Git allows you to work on your local copy of files with the confidence that you can successfully synchronize your changes with the changes made by others. This lesson presents step-by-step how to start collaborating with colleagues and avoiding conflicts. It also walks you through what can cause a merge conflict, how to solve a merge conflict, and things to consider to avoid conflicts in general."
   },
   {
-    "objectID": "technical_modules/git-collab-merge-conflict/index.html#prerequisites",
-    "href": "technical_modules/git-collab-merge-conflict/index.html#prerequisites",
+    "objectID": "technical_modules/git-collab-merge-conflict/index.html#fa-check-prerequisites",
+    "href": "technical_modules/git-collab-merge-conflict/index.html#fa-check-prerequisites",
     "title": "Collaborating using Git and GitHub & Merge Conflicts",
-    "section": "Prerequisites",
+    "section": " Prerequisites",
     "text": "Prerequisites\n\nIntroduction to Git and GitHub lesson (or be familiar with the content of the lesson)"
   },
   {
-    "objectID": "technical_modules/git-collab-merge-conflict/index.html#learning-goal",
-    "href": "technical_modules/git-collab-merge-conflict/index.html#learning-goal",
+    "objectID": "technical_modules/git-collab-merge-conflict/index.html#fa-bullseye-learning-goal",
+    "href": "technical_modules/git-collab-merge-conflict/index.html#fa-bullseye-learning-goal",
     "title": "Collaborating using Git and GitHub & Merge Conflicts",
-    "section": "Learning Goal",
+    "section": " Learning Goal",
     "text": "Learning Goal\n\nIntroduce how to use Git and GitHub to collaborate with colleagues on code\nRevise what typically causes conflicts when collaborating\nDemonstrate and practice how to resolve a conflict\nDescribe workflows to avoid conflicts"
   },
   {
     "objectID": "technical_modules/git-collab-merge-conflict/index.html#duration",
     "href": "technical_modules/git-collab-merge-conflict/index.html#duration",
     "title": "Collaborating using Git and GitHub & Merge Conflicts",
-    "section": "Duration",
+    "section": " Duration",
     "text": "Duration\n2 hours"
   },
   {
@@ -88,7 +88,7 @@
     "href": "technical_modules/clean-wangle-data/index.html",
     "title": "Cleaning and Wrangling Data",
     "section": "",
-    "text": "To be efficient analysts, we should have good tools to wrangle data to fit our needs. This way, we can do further work like making plots and fitting models."
+    "text": "To be efficient analysts, we should have good tools to wrangle data to fit our needs. This way, we can do further work like making plots and fitting models. \nImage credit: https://tidydatatutor.com/"
   },
   {
     "objectID": "technical_modules/clean-wangle-data/index.html#fa-scroll-description",
@@ -116,7 +116,7 @@
     "href": "technical_modules/clean-wangle-data/index.html#duration",
     "title": "Cleaning and Wrangling Data",
     "section": " Duration",
-    "text": "Duration\n2 hours\n\n\nImage credit: https://tidydatatutor.com/"
+    "text": "Duration\n2 hours"
   },
   {
     "objectID": "technical_modules/literate-analysis-quarto/index.html",
@@ -228,27 +228,27 @@
     "href": "technical_modules/git-and-github-intro/index.html",
     "title": "Introduction to Git and GitHub",
     "section": "",
-    "text": "Benefit from Git and GitHub’s power to facilitate collaborative research and code management practices."
+    "text": "Benefit from Git and GitHub’s power to facilitate collaborative research and code management practices.  Image credit: NCEAS Learning Hub"
   },
   {
-    "objectID": "technical_modules/git-and-github-intro/index.html#description",
-    "href": "technical_modules/git-and-github-intro/index.html#description",
+    "objectID": "technical_modules/git-and-github-intro/index.html#fa-scroll-description",
+    "href": "technical_modules/git-and-github-intro/index.html#fa-scroll-description",
     "title": "Introduction to Git and GitHub",
-    "section": "Description",
+    "section": " Description",
     "text": "Description\nEvery file in the scientific process changes. Manuscripts are edited. Figures get revised. Code gets fixed when bugs are discovered. These changes are essential to track, and yet, we often use simplistic filenames to track them. Is there a better way? YES, version control. Version control provides an organized and transparent way to track changes in code and additional files. Git is a version control software, and GitHub is a website that allows users to store their Git repositories and share them with others. This lesson is a friendly introduction to these tools. It explains the main concepts and walks you through the Git and GitHub workflow using RStudio."
   },
   {
-    "objectID": "technical_modules/git-and-github-intro/index.html#prerequisites",
-    "href": "technical_modules/git-and-github-intro/index.html#prerequisites",
+    "objectID": "technical_modules/git-and-github-intro/index.html#fa-check-prerequisites",
+    "href": "technical_modules/git-and-github-intro/index.html#fa-check-prerequisites",
     "title": "Introduction to Git and GitHub",
-    "section": "Prerequisites",
+    "section": " Prerequisites",
     "text": "Prerequisites\n\nFamiliarity with R and RStudio\nHave a GitHub account (sign up at github.com)\nHave Git installed on your computer (see instructions here)"
   },
   {
-    "objectID": "technical_modules/git-and-github-intro/index.html#learning-goal",
-    "href": "technical_modules/git-and-github-intro/index.html#learning-goal",
+    "objectID": "technical_modules/git-and-github-intro/index.html#fa-bullseye-learning-goal",
+    "href": "technical_modules/git-and-github-intro/index.html#fa-bullseye-learning-goal",
     "title": "Introduction to Git and GitHub",
-    "section": "Learning Goal",
+    "section": " Learning Goal",
     "text": "Learning Goal\n\nApply the principles of Git to track and manage changes in a project\nUtilize the Git workflow, including pulling changes, staging modified files, committing changes, pulling again to incorporate remote changes, and pushing changes to a remote repository\nCreate and configure Git repositories using different workflows"
   },
   {
@@ -256,7 +256,7 @@
     "href": "technical_modules/git-and-github-intro/index.html#duration",
     "title": "Introduction to Git and GitHub",
     "section": " Duration",
-    "text": "Duration\n2 hours\n\n\nImage credit: NCEAS Learning Hub"
+    "text": "Duration\n2 hours"
   },
   {
     "objectID": "technical_modules/r-creating-packages/index.html",
@@ -396,34 +396,34 @@
     "href": "technical_modules/intro-to-shiny/index.html",
     "title": "Introduction to Shiny",
     "section": "",
-    "text": "Shiny apps provide interactive features for letting others share and explore data and analyses."
+    "text": "Shiny apps provide interactive features for letting others share and explore data and analyses. \nImage credit: Shiny Logo"
   },
   {
-    "objectID": "technical_modules/intro-to-shiny/index.html#description",
-    "href": "technical_modules/intro-to-shiny/index.html#description",
+    "objectID": "technical_modules/intro-to-shiny/index.html#fa-scroll-description",
+    "href": "technical_modules/intro-to-shiny/index.html#fa-scroll-description",
     "title": "Introduction to Shiny",
-    "section": "Description",
+    "section": " Description",
     "text": "Description\nShiny is an R package for creating interactive data visualizations embedded in a web application that you and your colleagues can view using a web browser. The goal of this lesson is to learn about the Shiny architecture and build a sample Shiny app to deploy interactive visualizations."
   },
   {
-    "objectID": "technical_modules/intro-to-shiny/index.html#prerequisites",
-    "href": "technical_modules/intro-to-shiny/index.html#prerequisites",
+    "objectID": "technical_modules/intro-to-shiny/index.html#fa-check-prerequisites",
+    "href": "technical_modules/intro-to-shiny/index.html#fa-check-prerequisites",
     "title": "Introduction to Shiny",
-    "section": "Prerequisites",
+    "section": " Prerequisites",
     "text": "Prerequisites\n\nIntermediate level R user\nFamiliarity with ggplot2"
   },
   {
-    "objectID": "technical_modules/intro-to-shiny/index.html#learning-goals",
-    "href": "technical_modules/intro-to-shiny/index.html#learning-goals",
+    "objectID": "technical_modules/intro-to-shiny/index.html#fa-bullseye-learning-goals",
+    "href": "technical_modules/intro-to-shiny/index.html#fa-bullseye-learning-goals",
     "title": "Introduction to Shiny",
-    "section": "Learning Goals",
+    "section": " Learning Goals",
     "text": "Learning Goals\n\nReview the capabilities in Shiny applications\nLearn about the basic layout for Shiny interfaces\nUnderstand the server component for Shiny applications\nBuild a simple shiny application for interactive plotting"
   },
   {
     "objectID": "technical_modules/intro-to-shiny/index.html#duration",
     "href": "technical_modules/intro-to-shiny/index.html#duration",
     "title": "Introduction to Shiny",
-    "section": "Duration",
+    "section": " Duration",
     "text": "Duration\n3 hours"
   },
   {
@@ -466,27 +466,27 @@
     "href": "technical_modules/git-github-publishing-analysis/index.html",
     "title": "Publishing to the Web using GitHub Pages",
     "section": "",
-    "text": "Tools like Quarto, RMarkdown, and GitHub allow you to share your work with others on a beautiful and easy-to-read web page."
+    "text": "Tools like Quarto, RMarkdown, and GitHub allow you to share your work with others on a beautiful and easy-to-read web page.  Image credit: <github.com>"
   },
   {
-    "objectID": "technical_modules/git-github-publishing-analysis/index.html#description",
-    "href": "technical_modules/git-github-publishing-analysis/index.html#description",
+    "objectID": "technical_modules/git-github-publishing-analysis/index.html#fa-scroll-description",
+    "href": "technical_modules/git-github-publishing-analysis/index.html#fa-scroll-description",
     "title": "Publishing to the Web using GitHub Pages",
-    "section": "Description",
+    "section": " Description",
     "text": "Description\nSharing your work with others in engaging ways is an important part of the scientific process. This lesson shows you how to turn a GitHub repository into a webpage to easily share your analysis, code, and writing with others."
   },
   {
-    "objectID": "technical_modules/git-github-publishing-analysis/index.html#prerequisites",
-    "href": "technical_modules/git-github-publishing-analysis/index.html#prerequisites",
+    "objectID": "technical_modules/git-github-publishing-analysis/index.html#fa-check-prerequisites",
+    "href": "technical_modules/git-github-publishing-analysis/index.html#fa-check-prerequisites",
     "title": "Publishing to the Web using GitHub Pages",
-    "section": "Prerequisites",
+    "section": " Prerequisites",
     "text": "Prerequisites\n\nHave a GitHub account (you can sign up at github.com)\nFamiliarity with GitHub (consider taking Introduction to Git and GitHub)\nBe comfortable using R and RStudio"
   },
   {
-    "objectID": "technical_modules/git-github-publishing-analysis/index.html#learning-goal",
-    "href": "technical_modules/git-github-publishing-analysis/index.html#learning-goal",
+    "objectID": "technical_modules/git-github-publishing-analysis/index.html#fa-bullseye-learning-goal",
+    "href": "technical_modules/git-github-publishing-analysis/index.html#fa-bullseye-learning-goal",
     "title": "Publishing to the Web using GitHub Pages",
-    "section": "Learning Goal",
+    "section": " Learning Goal",
     "text": "Learning Goal\n\nPractice how to use Git, GitHub (+Pages), and R Markdown or Quarto to publish an analysis to the web"
   },
   {
@@ -817,26 +817,5 @@
     "title": "Intermediate Level",
     "section": "Running Code",
     "text": "Running Code\nWhen you click the Render button a document will be generated that includes both content and the output of embedded code. You can embed code like this:\n\n1 + 1\n\n[1] 2\n\n\nYou can add options to executable code like this\n\n\n[1] 4\n\n\nThe echo: false option disables the printing of code (only output is displayed)."
-  },
-  {
-    "objectID": "technical_modules/git-and-github-intro/index.html#fa-scroll-description",
-    "href": "technical_modules/git-and-github-intro/index.html#fa-scroll-description",
-    "title": "Introduction to Git and GitHub",
-    "section": " Description",
-    "text": "Description\nEvery file in the scientific process changes. Manuscripts are edited. Figures get revised. Code gets fixed when bugs are discovered. These changes are essential to track, and yet, we often use simplistic filenames to track them. Is there a better way? YES, version control. Version control provides an organized and transparent way to track changes in code and additional files. Git is a version control software, and GitHub is a website that allows users to store their Git repositories and share them with others. This lesson is a friendly introduction to these tools. It explains the main concepts and walks you through the Git and GitHub workflow using RStudio."
-  },
-  {
-    "objectID": "technical_modules/git-and-github-intro/index.html#fa-check-prerequisites",
-    "href": "technical_modules/git-and-github-intro/index.html#fa-check-prerequisites",
-    "title": "Introduction to Git and GitHub",
-    "section": " Prerequisites",
-    "text": "Prerequisites\n\nFamiliarity with R and RStudio\nHave a GitHub account (sign up at github.com)\nHave Git installed on your computer (see instructions here)"
-  },
-  {
-    "objectID": "technical_modules/git-and-github-intro/index.html#fa-bullseye-learning-goal",
-    "href": "technical_modules/git-and-github-intro/index.html#fa-bullseye-learning-goal",
-    "title": "Introduction to Git and GitHub",
-    "section": " Learning Goal",
-    "text": "Learning Goal\n\nApply the principles of Git to track and manage changes in a project\nUtilize the Git workflow, including pulling changes, staging modified files, committing changes, pulling again to incorporate remote changes, and pushing changes to a remote repository\nCreate and configure Git repositories using different workflows"
   }
 ]

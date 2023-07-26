@@ -1,10 +1,10 @@
 ---
-title: "[Introduction to `Git` and GitHub]{style=color:#26805C}"
+title: "Introduction to `Git` and GitHub"
 categories: [beginner, GitHub]
 image: vc-local-github.png
 ---
 
-> Benefit from `Git` and GitHub's power to facilitate collaborative research and code management practices.
+> Benefit from `Git` and GitHub's power to facilitate collaborative research and code management practices. <font size="2"> *Image credit: NCEAS Learning Hub* </font>
 
 ## {{< fa scroll >}} Description
 
@@ -26,8 +26,3 @@ Every file in the scientific process changes. Manuscripts are edited. Figures ge
 
 2 hours
 
-<br>
-
-<font size="2">  
-    _Image credit: NCEAS Learning Hub_
-</font>
