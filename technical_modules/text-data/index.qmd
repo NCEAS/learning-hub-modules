@@ -4,22 +4,23 @@ categories: [beginner, text data]
 image: setup-word-cloud.png ## from: https://www.displayr.com/how-to-set-up-your-text-analysis-in-displayr/
 ---
 
-> Apply data wrangling and data visualization methods to text, making text mining easier, more effective, and consistent.
+> Apply data wrangling and data visualization methods to text, making text mining easier, more effective, and consistent.\
+<font size="2"> *Image credit: displayr.com* </font>
 
 <!--Treating text as data frames of individual words allows us to easily manipulate, summarize, and visualize text characteristics and integrate natural language processing into effective workflows we were already using.-->
 
-## Description
+## {{< fa scroll >}} Description
 Text mining is the process of transforming unstructured text into a structured format to prepare it for analysis. The goal of this lesson is to introduce tools that allow us to move from unstructured text to a structured layout to perform analysis.
 
-## Prerequisites
+## {{< fa check >}} Prerequisites
 - Basic knowledge of R and RStudio
 - Familiarity with the packages `dyplr`, `tidyr`, and `ggplot2`
 
-## Learning Goals
+## {{< fa bullseye >}} Learning Goals
 - Describe what a token is and how they are used
 - Demonstrate how to use stop words
 - Create customized stop words
 - Provide tools to give structure to unstructured text
 
-## Duration
+## <i class="fa-regular fa-clock"></i> Duration
 2 hours
