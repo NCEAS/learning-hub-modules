@@ -4,19 +4,20 @@ categories: [intermediate, data vis]
 image: horst-sf.png
 ---
 
-> Handling spatial data can be tricky. The `sf` package allows for integrating R spatial software with the `tidyverse` if desired.
+> Handling spatial data can be tricky. The `sf` package allows for integrating R spatial software with the `tidyverse` if desired.\
+<font size="2"> *Image credit: Art by Allison Horst* </font>
 
-## Description
+## {{< fa scroll >}} Description
 The `sf` package in R implements simple features, a standard that describes how spatial geometry objects in the real world can be represented in computers. This lesson will walk you through using `sf` functions to work with spatial data and create extraordinary maps.
 
-## Prerequisites
+## {< fa check >}} Prerequisites
 - Intermediate R and RStudio user
 - Familiarity with the packages `dyplr`, `tidyr`, and `ggplot2`
 
-## Learning Goals
+## {{< fa bullseye >}} Learning Goals
 - Understand how to use the `sf` package to wrangle spatial data
 - Introduce static mapping with `ggplot`
 - Create customized interactive maps with `leaflet`
 
-## Duration
+## <i class="fa-regular fa-clock"></i> Duration
 2 hours
