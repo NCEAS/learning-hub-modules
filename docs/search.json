@@ -4,7 +4,7 @@
     "href": "technical-lessons.html",
     "title": "Technical Modules",
     "section": "",
-    "text": "Technical lessons aim to teach and practice a specific data science tool. The format generally combines lectures to introduce concepts, live coding, and optional hands-on practice sessions. Here we provide a list with a short description of our current technical offerings. The specific goals of each of these lessons can be adapted to best fit your team and meet all participants where they are. If you are interested in a topic outside this list, please let us know, and we will be happy to discuss the feasibility of creating new materials.\nParticipants will need a computer with recent versions of R and RStudio for all these lessons. Check out instructions to install or upgrade R and RStudio here.\n\n\n\n\n\n\n    \n      \n      \n    \n\n\n\n\n  \n\n\n\n\nCleaning and Wrangling Data\n\n\n\n\n\n\n\nbeginner\n\n\ndata wrangling\n\n\n\n\n\n\n\n\n\n \n\n\n\n\n  \n\n\n\n\nCollaborating using Git and GitHub & Merge Conflicts\n\n\n\n\n\n\n\nintermediate\n\n\ngithub\n\n\n\n\n\n\n\n\n\n \n\n\n\n\n  \n\n\n\n\nCreating Functions in R\n\n\n\n\n\n\n\nintermediate\n\n\n\n\n\n\n\n\n\n \n\n\n\n\n  \n\n\n\n\nCreating R Packages\n\n\n\n\n\n\n\nintermediate\n\n\n\n\n\n\n\n\n\n \n\n\n\n\n  \n\n\n\n\nIntroduction to Data Visualization\n\n\n\n\n\n\n\nbeginner\n\n\ndata vis\n\n\n\n\n\n\n\n\n\n \n\n\n\n\n  \n\n\n\n\nIntroduction to Programming in R using RStudio\n\n\n\n\n\n\n\nbeginner\n\n\n\n\n\n\n\n\n\n \n\n\n\n\n  \n\n\n\n\nIntroduction to Shiny\n\n\n\n\n\n\n\nintermediate\n\n\ndata vis\n\n\n\n\n\n\n\n\n\n \n\n\n\n\n  \n\n\n\n\nIntroduction to Git and GitHub\n\n\n\n\n\n\n\nbeginner\n\n\ngithub\n\n\n\n\n\n\n\n\n\n \n\n\n\n\n  \n\n\n\n\nLiterate Analysis with Quarto\n\n\n\n\n\n\n\nQuarto\n\n\n\n\n\n\n\n\n\n \n\n\n\n\n  \n\n\n\n\nPublishing to the Web using GitHub Pages\n\n\n\n\n\n\n\ngithub\n\n\nintermediate\n\n\n\n\n\n\n\n\n\n \n\n\n\n\n  \n\n\n\n\nReproducible Data Access\n\n\n\n\n\n\n\nintermediate\n\n\n\n\n\n\n\n\n\n \n\n\n\n\n  \n\n\n\n\nReproducible Papers\n\n\n\n\n\n\n\nreproducibility\n\n\nintermediate\n\n\n\n\n\n\n\n\n\n \n\n\n\n\n  \n\n\n\n\nUsing sf for Spatial Data\n\n\n\n\n\n\n\nintermediate\n\n\ndata vis\n\n\n\n\n\n\n\n\n\n \n\n\n\n\n  \n\n\n\n\nWorking with text data in R\n\n\n\n\n\n\n\nbeginner\n\n\ntext data\n\n\n\n\n\n\n\n\n\n \n\n\n\n\nNo matching items"
+    "text": "Technical lessons aim to teach and practice a specific data science tool. The format generally combines lectures to introduce concepts, live coding, and optional hands-on practice sessions. Here we provide a list with a short description of our current technical offerings. The specific goals of each of these lessons can be adapted to best fit your team and meet all participants where they are. If you are interested in a topic outside this list, please let us know, and we will be happy to discuss the feasibility of creating new materials.\nParticipants will need a computer with recent versions of R and RStudio for all these lessons. Check out instructions to install or upgrade R and RStudio here.\n\n\n\n\n\n\n    \n      \n      \n    \n\n\n\n\n  \n\n\n\n\nCleaning and Wrangling Data\n\n\n\n\n\n\n\nbeginner\n\n\ndata wrangling\n\n\n\n\n\n\n\n\n\n \n\n\n\n\n  \n\n\n\n\nCollaborating using Git and GitHub & Merge Conflicts\n\n\n\n\n\n\n\nintermediate\n\n\ngithub\n\n\n\n\n\n\n\n\n\n \n\n\n\n\n  \n\n\n\n\nCreating Functions in R\n\n\n\n\n\n\n\nintermediate\n\n\n\n\n\n\n\n\n\n \n\n\n\n\n  \n\n\n\n\nCreating R Packages\n\n\n\n\n\n\n\nintermediate\n\n\n\n\n\n\n\n\n\n \n\n\n\n\n  \n\n\n\n\nIntroduction to Data Visualization\n\n\n\n\n\n\n\nbeginner\n\n\ndata vis\n\n\n\n\n\n\n\n\n\n \n\n\n\n\n  \n\n\n\n\nIntroduction to Programming in R using RStudio\n\n\n\n\n\n\n\nbeginner\n\n\n\n\n\n\n\n\n\n \n\n\n\n\n  \n\n\n\n\nIntroduction to Shiny\n\n\n\n\n\n\n\nintermediate\n\n\ndata vis\n\n\n\n\n\n\n\n\n\n \n\n\n\n\n  \n\n\n\n\nIntroduction to Git and GitHub\n\n\n\n\n\n\n\nbeginner\n\n\ngithub\n\n\n\n\n\n\n\n\n\n \n\n\n\n\n  \n\n\n\n\nLiterate Analysis with Quarto\n\n\n\n\n\n\n\nquarto\n\n\n\n\n\n\n\n\n\n \n\n\n\n\n  \n\n\n\n\nPublishing to the Web using GitHub Pages\n\n\n\n\n\n\n\ngithub\n\n\nintermediate\n\n\n\n\n\n\n\n\n\n \n\n\n\n\n  \n\n\n\n\nReproducible Data Access\n\n\n\n\n\n\n\nintermediate\n\n\n\n\n\n\n\n\n\n \n\n\n\n\n  \n\n\n\n\nReproducible Papers\n\n\n\n\n\n\n\nreproducibility\n\n\nintermediate\n\n\n\n\n\n\n\n\n\n \n\n\n\n\n  \n\n\n\n\nUsing sf for Spatial Data\n\n\n\n\n\n\n\nintermediate\n\n\ndata vis\n\n\n\n\n\n\n\n\n\n \n\n\n\n\n  \n\n\n\n\nWorking with text data in R\n\n\n\n\n\n\n\nbeginner\n\n\ntext data\n\n\n\n\n\n\n\n\n\n \n\n\n\n\nNo matching items"
   },
   {
     "objectID": "non-technical-lessons.html",
@@ -123,34 +123,34 @@
     "href": "technical_modules/literate-analysis-quarto/index.html",
     "title": "Literate Analysis with Quarto",
     "section": "",
-    "text": "Combine prose and code in one document! Literate analysis is a fundamental tool for making your work reproducible."
+    "text": "Combine prose and code in one document! Literate analysis is a fundamental tool for making your work reproducible.\n Image credit: Art by Allison Horst"
   },
   {
-    "objectID": "technical_modules/literate-analysis-quarto/index.html#description",
-    "href": "technical_modules/literate-analysis-quarto/index.html#description",
+    "objectID": "technical_modules/literate-analysis-quarto/index.html#fa-scroll-description",
+    "href": "technical_modules/literate-analysis-quarto/index.html#fa-scroll-description",
     "title": "Literate Analysis with Quarto",
-    "section": "Description",
+    "section": " Description",
     "text": "Description\nMore often than not, computational analysis is written in a borderline incomprehensible way, even to the person who originally wrote the code. Quarto is a tool that allows you to combine prose with code—making it possible to do analysis and write reports all in one place. This course introduces the concept of literate analysis and explores the main functionalities of a Quarto document combining R, the programming language, and markdown, a set of text formatting directives."
   },
   {
-    "objectID": "technical_modules/literate-analysis-quarto/index.html#prerequisites",
-    "href": "technical_modules/literate-analysis-quarto/index.html#prerequisites",
+    "objectID": "technical_modules/literate-analysis-quarto/index.html#fa-check-prerequisites",
+    "href": "technical_modules/literate-analysis-quarto/index.html#fa-check-prerequisites",
     "title": "Literate Analysis with Quarto",
-    "section": "Prerequisites",
+    "section": " Prerequisites",
     "text": "Prerequisites\n\nBasic knowledge of R and RStudio\nIf you are new to R, consider taking our Intro to Programming in R using RStudio lesson"
   },
   {
-    "objectID": "technical_modules/literate-analysis-quarto/index.html#learning-goals",
-    "href": "technical_modules/literate-analysis-quarto/index.html#learning-goals",
+    "objectID": "technical_modules/literate-analysis-quarto/index.html#fa-bullseye-learning-goals",
+    "href": "technical_modules/literate-analysis-quarto/index.html#fa-bullseye-learning-goals",
     "title": "Literate Analysis with Quarto",
-    "section": "Learning Goals",
+    "section": " Learning Goals",
     "text": "Learning Goals\n\nIntroduce Quarto as a tool for literate analysis\nLearn markdown syntax and run R code in Quarto\nUnderstand the “environments” and file paths when working with Quarto documents"
   },
   {
     "objectID": "technical_modules/literate-analysis-quarto/index.html#duration",
     "href": "technical_modules/literate-analysis-quarto/index.html#duration",
     "title": "Literate Analysis with Quarto",
-    "section": "Duration",
+    "section": " Duration",
     "text": "Duration\n2 hours"
   },
   {
@@ -158,34 +158,34 @@
     "href": "technical_modules/r-creating-functions/index.html",
     "title": "Creating Functions in R",
     "section": "",
-    "text": "Take your coding skills to the next level by incorporating your own functions in your analysis."
+    "text": "Take your coding skills to the next level by incorporating your own functions in your analysis.\n Image credit: rforecology.com"
   },
   {
-    "objectID": "technical_modules/r-creating-functions/index.html#description",
-    "href": "technical_modules/r-creating-functions/index.html#description",
+    "objectID": "technical_modules/r-creating-functions/index.html#fa-scroll-description",
+    "href": "technical_modules/r-creating-functions/index.html#fa-scroll-description",
     "title": "Creating Functions in R",
-    "section": "Description",
+    "section": " Description",
     "text": "Description\nFunctions allow you to break your code into small, reusable modules. In this lesson, we will review the advantages of coding with functions, practice creating some functions and show how to call them, and then do some exercises to build other simple functions."
   },
   {
-    "objectID": "technical_modules/r-creating-functions/index.html#prerequisites",
-    "href": "technical_modules/r-creating-functions/index.html#prerequisites",
+    "objectID": "technical_modules/r-creating-functions/index.html#fa-check-prerequisites",
+    "href": "technical_modules/r-creating-functions/index.html#fa-check-prerequisites",
     "title": "Creating Functions in R",
-    "section": "Prerequisites",
+    "section": " Prerequisites",
     "text": "Prerequisites\n\nIntermediate R and RStudio user\nBasic understanding of ggplo2"
   },
   {
-    "objectID": "technical_modules/r-creating-functions/index.html#learning-goals",
-    "href": "technical_modules/r-creating-functions/index.html#learning-goals",
+    "objectID": "technical_modules/r-creating-functions/index.html#fa-bullseye-learning-goals",
+    "href": "technical_modules/r-creating-functions/index.html#fa-bullseye-learning-goals",
     "title": "Creating Functions in R",
-    "section": "Learning Goals",
+    "section": " Learning Goals",
     "text": "Learning Goals\n\nExplain why we should write code in small functions\nWrite code for one or more functions\nDocument functions to improve understanding and code communication"
   },
   {
     "objectID": "technical_modules/r-creating-functions/index.html#duration",
     "href": "technical_modules/r-creating-functions/index.html#duration",
     "title": "Creating Functions in R",
-    "section": "Duration",
+    "section": " Duration",
     "text": "Duration\n1 hour"
   },
   {
@@ -193,34 +193,34 @@
     "href": "technical_modules/visualization-ggplot-leaflet/index.html",
     "title": "Introduction to Data Visualization",
     "section": "",
-    "text": "Data visualization is a great tool to explore and communicate your data. Learn the basics of visualizing your data with ggplot2 and other data vis packages."
+    "text": "Data visualization is a great tool to explore and communicate your data. Learn the basics of ggplot2 and other data vis packages.\n Image credit: Art by Allison Horst"
   },
   {
-    "objectID": "technical_modules/visualization-ggplot-leaflet/index.html#description",
-    "href": "technical_modules/visualization-ggplot-leaflet/index.html#description",
+    "objectID": "technical_modules/visualization-ggplot-leaflet/index.html#fa-scroll-description",
+    "href": "technical_modules/visualization-ggplot-leaflet/index.html#fa-scroll-description",
     "title": "Introduction to Data Visualization",
-    "section": "Description",
+    "section": " Description",
     "text": "Description\nggplot2 is a popular and powerful package for visualizing data in R. This lesson introduces you to the basic components of working with ggplot2 and inspires you to keep exploring the endless possibilities this package provides regarding data visualization. We also briefly introduce the leaflet and dt packages to create interactive maps and tables."
   },
   {
-    "objectID": "technical_modules/visualization-ggplot-leaflet/index.html#prerequisites",
-    "href": "technical_modules/visualization-ggplot-leaflet/index.html#prerequisites",
+    "objectID": "technical_modules/visualization-ggplot-leaflet/index.html#fa-check-prerequisites",
+    "href": "technical_modules/visualization-ggplot-leaflet/index.html#fa-check-prerequisites",
     "title": "Introduction to Data Visualization",
-    "section": "Prerequisites",
+    "section": " Prerequisites",
     "text": "Prerequisites\n\nBasic knowledge of R and RStudio\nFamiliarity with the packages dyplr and tidyr"
   },
   {
-    "objectID": "technical_modules/visualization-ggplot-leaflet/index.html#learning-goals",
-    "href": "technical_modules/visualization-ggplot-leaflet/index.html#learning-goals",
+    "objectID": "technical_modules/visualization-ggplot-leaflet/index.html#fa-bullseye-learning-goals",
+    "href": "technical_modules/visualization-ggplot-leaflet/index.html#fa-bullseye-learning-goals",
     "title": "Introduction to Data Visualization",
-    "section": "Learning Goals",
+    "section": " Learning Goals",
     "text": "Learning Goals\n\nIntroduce the basics of the ggplot2 package to create static plots\nUnderstand how to use ggplot2’s theme abilities to create publication-grade graphics\nLearn the basics of the leaflet package to create interactive maps"
   },
   {
     "objectID": "technical_modules/visualization-ggplot-leaflet/index.html#duration",
     "href": "technical_modules/visualization-ggplot-leaflet/index.html#duration",
     "title": "Introduction to Data Visualization",
-    "section": "Duration",
+    "section": " Duration",
     "text": "Duration\n2 hours"
   },
   {
@@ -266,24 +266,31 @@
     "text": "Package your work and share it! Creating your own package allows you to organize your code and data in a way that easily be shared and reused."
   },
   {
-    "objectID": "technical_modules/r-creating-packages/index.html#description",
-    "href": "technical_modules/r-creating-packages/index.html#description",
+    "objectID": "technical_modules/r-creating-packages/index.html#fa-scroll-description",
+    "href": "technical_modules/r-creating-packages/index.html#fa-scroll-description",
     "title": "Creating R Packages",
-    "section": "Description",
+    "section": " Description",
     "text": "Description\nMost R users are familiar with loading and utilizing packages in their work but have never created a package of their own. Creating packages serves two main use cases:\n\nMechanism to redistribute reusable code (even if just for yourself)\nMechanism to reproducibly document analysis and models and their results\n\nThis lesson will walk you through a simple example of creating and documenting an R package. The goal is to demystify the complexity of this tool and encourage you and your collaborators to create a package as you see fit."
   },
   {
-    "objectID": "technical_modules/r-creating-packages/index.html#prerequisites",
-    "href": "technical_modules/r-creating-packages/index.html#prerequisites",
+    "objectID": "technical_modules/r-creating-packages/index.html#fa-check-prerequisites",
+    "href": "technical_modules/r-creating-packages/index.html#fa-check-prerequisites",
     "title": "Creating R Packages",
-    "section": "Prerequisites",
-    "text": "Prerequisites\n\nIntermediate R and RStudio user\n\n##Learning Goals - Learn about the advantages of using R packages for organizing code - Implement simple techniques for creating R packages - Introduce approaches to documenting code in packages"
+    "section": " Prerequisites",
+    "text": "Prerequisites\n\nIntermediate R and RStudio user"
+  },
+  {
+    "objectID": "technical_modules/r-creating-packages/index.html#fa-bullseye-learning-goals",
+    "href": "technical_modules/r-creating-packages/index.html#fa-bullseye-learning-goals",
+    "title": "Creating R Packages",
+    "section": " Learning Goals",
+    "text": "Learning Goals\n\nLearn about the advantages of using R packages for organizing code\nImplement simple techniques for creating R packages\nIntroduce approaches to documenting code in packages"
   },
   {
     "objectID": "technical_modules/r-creating-packages/index.html#duration",
     "href": "technical_modules/r-creating-packages/index.html#duration",
     "title": "Creating R Packages",
-    "section": "Duration",
+    "section": " Duration",
     "text": "Duration\n1 hour"
   },
   {
@@ -291,34 +298,34 @@
     "href": "technical_modules/sf-spatial-data/index.html",
     "title": "Using sf for Spatial Data",
     "section": "",
-    "text": "Handling spatial data can be tricky. The sf package allows for integrating R spatial software with the tidyverse if desired."
+    "text": "Handling spatial data can be tricky. The sf package allows for integrating R spatial software with the tidyverse if desired.\n Image credit: Art by Allison Horst"
   },
   {
-    "objectID": "technical_modules/sf-spatial-data/index.html#description",
-    "href": "technical_modules/sf-spatial-data/index.html#description",
+    "objectID": "technical_modules/sf-spatial-data/index.html#fa-scroll-description",
+    "href": "technical_modules/sf-spatial-data/index.html#fa-scroll-description",
     "title": "Using sf for Spatial Data",
-    "section": "Description",
+    "section": " Description",
     "text": "Description\nThe sf package in R implements simple features, a standard that describes how spatial geometry objects in the real world can be represented in computers. This lesson will walk you through using sf functions to work with spatial data and create extraordinary maps."
   },
   {
-    "objectID": "technical_modules/sf-spatial-data/index.html#prerequisites",
-    "href": "technical_modules/sf-spatial-data/index.html#prerequisites",
+    "objectID": "technical_modules/sf-spatial-data/index.html#fa-check-prerequisites",
+    "href": "technical_modules/sf-spatial-data/index.html#fa-check-prerequisites",
     "title": "Using sf for Spatial Data",
-    "section": "Prerequisites",
-    "text": "Prerequisites\n\nIntermediate R and RStudio user\nFamiliarity with the packages dyplr, tidyr, and ggplot2"
+    "section": "{< fa check >}} Prerequisites",
+    "text": "{< fa check >}} Prerequisites\n\nIntermediate R and RStudio user\nFamiliarity with the packages dyplr, tidyr, and ggplot2"
   },
   {
-    "objectID": "technical_modules/sf-spatial-data/index.html#learning-goals",
-    "href": "technical_modules/sf-spatial-data/index.html#learning-goals",
+    "objectID": "technical_modules/sf-spatial-data/index.html#fa-bullseye-learning-goals",
+    "href": "technical_modules/sf-spatial-data/index.html#fa-bullseye-learning-goals",
     "title": "Using sf for Spatial Data",
-    "section": "Learning Goals",
+    "section": " Learning Goals",
     "text": "Learning Goals\n\nUnderstand how to use the sf package to wrangle spatial data\nIntroduce static mapping with ggplot\nCreate customized interactive maps with leaflet"
   },
   {
     "objectID": "technical_modules/sf-spatial-data/index.html#duration",
     "href": "technical_modules/sf-spatial-data/index.html#duration",
     "title": "Using sf for Spatial Data",
-    "section": "Duration",
+    "section": " Duration",
     "text": "Duration\n2 hours"
   },
   {
@@ -326,34 +333,34 @@
     "href": "technical_modules/reproducible-data-access/index.html",
     "title": "Reproducible Data Access",
     "section": "",
-    "text": "Accessing data is the first step in any analysis. Being able to do this in a portable manner is the ultimate goal to make your work as reproducible as possible."
+    "text": "Accessing data is the first step in any analysis. Being able to do this in a portable manner is the ultimate goal to make your work as reproducible as possible.\n Image credit: NCEAS Learning Hub"
   },
   {
-    "objectID": "technical_modules/reproducible-data-access/index.html#description",
-    "href": "technical_modules/reproducible-data-access/index.html#description",
+    "objectID": "technical_modules/reproducible-data-access/index.html#fa-scroll-description",
+    "href": "technical_modules/reproducible-data-access/index.html#fa-scroll-description",
     "title": "Reproducible Data Access",
-    "section": "Description",
+    "section": " Description",
     "text": "Description\nTraditional ways of working with data – as files on a specific computer – limit code reproducibility to local computer environments. A typical R analysis file will load one or many data files from the local disk. However, it is rarely the case that those file paths work on your colleague’s machine. Alternatively, we can access data through the Internet with a URL. But what happens if the URL to the data changes? (Which they often do). This lesson teaches you about pins and content identifiers and how to use them to access your data in a truly reproducible way."
   },
   {
-    "objectID": "technical_modules/reproducible-data-access/index.html#prerequisites",
-    "href": "technical_modules/reproducible-data-access/index.html#prerequisites",
+    "objectID": "technical_modules/reproducible-data-access/index.html#fa-check-prerequisites",
+    "href": "technical_modules/reproducible-data-access/index.html#fa-check-prerequisites",
     "title": "Reproducible Data Access",
-    "section": "Prerequisites",
+    "section": " Prerequisites",
     "text": "Prerequisites\n\nBe familiar with R and RStudio\nBasic knowledge of data packages and data repositories"
   },
   {
-    "objectID": "technical_modules/reproducible-data-access/index.html#learning-goal",
-    "href": "technical_modules/reproducible-data-access/index.html#learning-goal",
+    "objectID": "technical_modules/reproducible-data-access/index.html#fa-bullseye-learning-goal",
+    "href": "technical_modules/reproducible-data-access/index.html#fa-bullseye-learning-goal",
     "title": "Reproducible Data Access",
-    "section": "Learning Goal",
-    "text": "Learning Goal\n\nList best practices for reproducible data access\nAccess data on the web and with pins\nExplain how content identifiers differ from DOIs and make research more reproducible\nDemonstrate ways to register and resolve content identifiers for unpublished data\nIdentify how content identifiers can resolve to published data source"
+    "section": " Learning Goal",
+    "text": "Learning Goal\n\nList best practices for reproducible data access\nAccess data on the web and with pins\nExplain how content identifiers differ from DOIs and make research more reproducible\nDemonstrate ways to register and resolve content identifiers for unpublished data\nIdentify how content identifiers can resolve to a published data source"
   },
   {
     "objectID": "technical_modules/reproducible-data-access/index.html#duration",
     "href": "technical_modules/reproducible-data-access/index.html#duration",
     "title": "Reproducible Data Access",
-    "section": "Duration",
+    "section": " Duration",
     "text": "Duration\n1 hour"
   },
   {
@@ -361,34 +368,34 @@
     "href": "technical_modules/text-data/index.html",
     "title": "Working with text data in R",
     "section": "",
-    "text": "Apply data wrangling and data visualization methods to text, making text mining easier, more effective, and consistent."
+    "text": "Apply data wrangling and data visualization methods to text, making text mining easier, more effective, and consistent.\n Image credit: displayr.com"
   },
   {
-    "objectID": "technical_modules/text-data/index.html#description",
-    "href": "technical_modules/text-data/index.html#description",
+    "objectID": "technical_modules/text-data/index.html#fa-scroll-description",
+    "href": "technical_modules/text-data/index.html#fa-scroll-description",
     "title": "Working with text data in R",
-    "section": "Description",
+    "section": " Description",
     "text": "Description\nText mining is the process of transforming unstructured text into a structured format to prepare it for analysis. The goal of this lesson is to introduce tools that allow us to move from unstructured text to a structured layout to perform analysis."
   },
   {
-    "objectID": "technical_modules/text-data/index.html#prerequisites",
-    "href": "technical_modules/text-data/index.html#prerequisites",
+    "objectID": "technical_modules/text-data/index.html#fa-check-prerequisites",
+    "href": "technical_modules/text-data/index.html#fa-check-prerequisites",
     "title": "Working with text data in R",
-    "section": "Prerequisites",
+    "section": " Prerequisites",
     "text": "Prerequisites\n\nBasic knowledge of R and RStudio\nFamiliarity with the packages dyplr, tidyr, and ggplot2"
   },
   {
-    "objectID": "technical_modules/text-data/index.html#learning-goals",
-    "href": "technical_modules/text-data/index.html#learning-goals",
+    "objectID": "technical_modules/text-data/index.html#fa-bullseye-learning-goals",
+    "href": "technical_modules/text-data/index.html#fa-bullseye-learning-goals",
     "title": "Working with text data in R",
-    "section": "Learning Goals",
+    "section": " Learning Goals",
     "text": "Learning Goals\n\nDescribe what a token is and how they are used\nDemonstrate how to use stop words\nCreate customized stop words\nProvide tools to give structure to unstructured text"
   },
   {
     "objectID": "technical_modules/text-data/index.html#duration",
     "href": "technical_modules/text-data/index.html#duration",
     "title": "Working with text data in R",
-    "section": "Duration",
+    "section": " Duration",
     "text": "Duration\n2 hours"
   },
   {
@@ -431,34 +438,34 @@
     "href": "technical_modules/reproducible-papers/index.html",
     "title": "Reproducible Papers",
     "section": "",
-    "text": "Take reproducibility to the next level. Pack all the elements of your research into one container so future you and others can reproduce your work."
+    "text": "Take reproducibility to the next level. Pack all the elements of your research into one container so future you and others can reproduce your work.\n Image credit: Marwick et al 2017"
   },
   {
-    "objectID": "technical_modules/reproducible-papers/index.html#description",
-    "href": "technical_modules/reproducible-papers/index.html#description",
+    "objectID": "technical_modules/reproducible-papers/index.html#fa-scroll-description",
+    "href": "technical_modules/reproducible-papers/index.html#fa-scroll-description",
     "title": "Reproducible Papers",
-    "section": "Description",
+    "section": " Description",
     "text": "Description\nUnder the reproducible umbrella, this lesson aims to provide tools and a framework for writing reproducible papers. The idea is to leverage different R packages to help you organize your research from start to finish. Mainly focusing on formatting publication manuscripts for specific journals."
   },
   {
-    "objectID": "technical_modules/reproducible-papers/index.html#prerequisites",
-    "href": "technical_modules/reproducible-papers/index.html#prerequisites",
+    "objectID": "technical_modules/reproducible-papers/index.html#fa-check-prerequisites",
+    "href": "technical_modules/reproducible-papers/index.html#fa-check-prerequisites",
     "title": "Reproducible Papers",
-    "section": "Prerequisites",
+    "section": " Prerequisites",
     "text": "Prerequisites\n\nBasic knowledge of R and RStudio\nFamiliarity with Rmarkdown and/or Quarto"
   },
   {
-    "objectID": "technical_modules/reproducible-papers/index.html#learning-goals",
-    "href": "technical_modules/reproducible-papers/index.html#learning-goals",
+    "objectID": "technical_modules/reproducible-papers/index.html#fa-bullseye-learning-goals",
+    "href": "technical_modules/reproducible-papers/index.html#fa-bullseye-learning-goals",
     "title": "Reproducible Papers",
-    "section": "Learning Goals",
+    "section": " Learning Goals",
     "text": "Learning Goals\n\nIntroduce the concept of a research compendium\nLearn how to use R to package your work by building a reproducible paper in RMarkdown/Quarto"
   },
   {
     "objectID": "technical_modules/reproducible-papers/index.html#duration",
     "href": "technical_modules/reproducible-papers/index.html#duration",
     "title": "Reproducible Papers",
-    "section": "Duration",
+    "section": " Duration",
     "text": "Duration\n1 hour"
   },
   {
@@ -466,7 +473,7 @@
     "href": "technical_modules/git-github-publishing-analysis/index.html",
     "title": "Publishing to the Web using GitHub Pages",
     "section": "",
-    "text": "Tools like Quarto, RMarkdown, and GitHub allow you to share your work with others on a beautiful and easy-to-read web page.\n Image credit: <github.com>"
+    "text": "Tools like Quarto, RMarkdown, and GitHub allow you to share your work with others on a beautiful and easy-to-read web page."
   },
   {
     "objectID": "technical_modules/git-github-publishing-analysis/index.html#fa-scroll-description",
