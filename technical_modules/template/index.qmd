@@ -5,18 +5,19 @@ image: image-displayed-in-card.png ##update name
 draft: true ## delete this line to make card live
 ---
 
-> Short description to display on card. Max 175 characters.
+> Short description to display on card. Max 175 characters.\
+<font size="2"> *Image credit: credit-here* </font>
 
-## Description
+## {{< fa scroll >}} Description
 What is the lesson about?
 
-## Prerequisites
+## {{< fa check >}} Prerequisites
 - List with
 - All necessary skills to take this lesson
 
-## Learning Goal
+## {{< fa bullseye >}} Learning Goal
 - List format
 - What will be achieved in this lesson
 
-## Duration
+## <i class="fa-regular fa-clock"></i> Duration
 2 hours
