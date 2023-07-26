@@ -4,19 +4,20 @@ categories: [intermediate]
 image: rforecology-r-function.png # from: https://www.rforecology.com/post/how-to-create-your-own-function-in-r/
 ---
 
-> Take your coding skills to the next level by incorporating your own functions in your analysis.
+> Take your coding skills to the next level by incorporating your own functions in your analysis.\
+<font size="2"> *Image credit: rforecology.com* </font>
 
-## Description
+## {{< fa scroll >}} Description
 Functions allow you to break your code into small, reusable modules. In this lesson, we will review the advantages of coding with functions, practice creating some functions and show how to call them, and then do some exercises to build other simple functions.
 
-## Prerequisites
+## {{< fa check >}} Prerequisites
 - Intermediate R and RStudio user
 - Basic understanding of `ggplo2`
 
-## Learning Goals
+## {{< fa bullseye >}} Learning Goals
 - Explain why we should write code in small functions
 - Write code for one or more functions
 - Document functions to improve understanding and code communication
 
-## Duration
+## <i class="fa-regular fa-clock"></i> Duration
 1 hour
