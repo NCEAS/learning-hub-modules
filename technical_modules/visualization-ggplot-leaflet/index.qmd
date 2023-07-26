@@ -4,19 +4,21 @@ categories: [beginner, data vis]
 image: horst-ggplot.png
 ---
 
-> Data visualization is a great tool to explore and communicate your data. Learn the basics of visualizing your data with `ggplot2` and other data vis packages.
+> Data visualization is a great tool to explore and communicate your data. Learn the basics of `ggplot2` and other data vis packages.\
+<font size="2"> *Image credit: Art by Allison Horst* </font>
 
-## Description
+
+## {{< fa scroll >}} Description
 `ggplot2` is a popular and powerful package for visualizing data in R. This lesson introduces you to the basic components of working with `ggplot2` and inspires you to keep exploring the endless possibilities this package provides regarding data visualization. We also briefly introduce the `leaflet`  and `dt` packages to create interactive maps and tables.
 
-## Prerequisites
+## {{< fa check >}} Prerequisites
 - Basic knowledge of R and RStudio
 - Familiarity with the packages `dyplr` and `tidyr`
 
-## Learning Goals
+## {{< fa bullseye >}} Learning Goals
 - Introduce the basics of the `ggplot2` package to create static plots
 - Understand how to use `ggplot2`'s theme abilities to create publication-grade graphics
 - Learn the basics of the `leaflet` package to create interactive maps
 
-## Duration
+## <i class="fa-regular fa-clock"></i> Duration
 2 hours
