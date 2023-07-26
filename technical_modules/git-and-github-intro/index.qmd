@@ -1,6 +1,6 @@
 ---
 title: "Introduction to `Git` and GitHub"
-categories: [beginner, GitHub]
+categories: [beginner, github]
 image: vc-local-github.png
 ---
 
@@ -25,4 +25,3 @@ Every file in the scientific process changes. Manuscripts are edited. Figures ge
 ## <i class="fa-regular fa-clock"></i> Duration
 
 2 hours
-
