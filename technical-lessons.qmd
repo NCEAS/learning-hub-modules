@@ -6,8 +6,8 @@ listing:
   feed: true
   # sort: "date desc"
   type: default
-  grid-item-border: true
-  grid-item-align: left
+  # grid-item-border: true
+  # grid-item-align: left
   max-description-length: 175
   date-format: medium
   categories: numbered

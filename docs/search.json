@@ -4,7 +4,7 @@
     "href": "technical-lessons.html",
     "title": "Technical Modules",
     "section": "",
-    "text": "Technical lessons aim to teach and practice a specific data science tool. The format generally combines lectures to introduce concepts, live coding, and optional hands-on practice sessions. Here we provide a list with a short description of our current technical offerings. The specific goals of each of these lessons can be adapted to best fit your team and meet all participants where they are. If you are interested in a topic outside this list, please let us know, and we will be happy to discuss the feasibility of creating new materials.\nParticipants will need a computer with recent versions of R and RStudio for all these lessons. Check out instructions to install or upgrade R and RStudio here.\n\n\n\n\n\n\n    \n      \n      \n    \n\n\n\n\n  \n\n\n\n\nCollaborating using Git and GitHub & Merge Conflicts\n\n\n\n\n\n\n\nintermediate\n\n\ngithub\n\n\n\n\n\n\n\n\n\n \n\n\n\n\n  \n\n\n\n\nCreating Functions in R\n\n\n\n\n\n\n\nintermediate\n\n\n\n\n\n\n\n\n\n \n\n\n\n\n  \n\n\n\n\nCreating R Packages\n\n\n\n\n\n\n\nintermediate\n\n\n\n\n\n\n\n\n\n \n\n\n\n\n  \n\n\n\n\nIntroduction to Data Visualization\n\n\n\n\n\n\n\nbeginner\n\n\ndata vis\n\n\n\n\n\n\n\n\n\n \n\n\n\n\n  \n\n\n\n\nIntroduction to Programming in R using RStudio\n\n\n\n\n\n\n\nbeginner\n\n\n\n\n\n\n\n\n\n \n\n\n\n\n  \n\n\n\n\nIntroduction to Shiny\n\n\n\n\n\n\n\nintermediate\n\n\ndata vis\n\n\n\n\n\n\n\n\n\n \n\n\n\n\n  \n\n\n\n\nIntroduction to Git and GitHub\n\n\n\n\n\n\n\nbeginner\n\n\ngithub\n\n\n\n\n\n\n\n\n\n \n\n\n\n\n  \n\n\n\n\nLiterate Analysis with Quarto\n\n\n\n\n\n\n\nQuarto\n\n\n\n\n\n\n\n\n\n \n\n\n\n\n  \n\n\n\n\nPublishing to the Web using GitHub Pages\n\n\n\n\n\n\n\ngithub\n\n\nintermediate\n\n\n\n\n\n\n\n\n\n \n\n\n\n\n  \n\n\n\n\nReproducible Data Access\n\n\n\n\n\n\n\nintermediate\n\n\n\n\n\n\n\n\n\n \n\n\n\n\n  \n\n\n\n\nReproducible Papers\n\n\n\n\n\n\n\nreproducibility\n\n\nintermediate\n\n\n\n\n\n\n\n\n\n \n\n\n\n\n  \n\n\n\n\nUsing sf for Spatial Data\n\n\n\n\n\n\n\nintermediate\n\n\ndata vis\n\n\n\n\n\n\n\n\n\n \n\n\n\n\n  \n\n\n\n\nWorking with text data in R\n\n\n\n\n\n\n\nbeginner\n\n\ntext data\n\n\n\n\n\n\n\n\n\n \n\n\n\n\n  \n\n\n\n\nCleaning and Wrangling Data\n\n\n\n\n\n\n\nbeginner\n\n\ndata wrangling\n\n\n\n\n\n\n\n\n\n \n\n\n\n\nNo matching items"
+    "text": "Technical lessons aim to teach and practice a specific data science tool. The format generally combines lectures to introduce concepts, live coding, and optional hands-on practice sessions. Here we provide a list with a short description of our current technical offerings. The specific goals of each of these lessons can be adapted to best fit your team and meet all participants where they are. If you are interested in a topic outside this list, please let us know, and we will be happy to discuss the feasibility of creating new materials.\nParticipants will need a computer with recent versions of R and RStudio for all these lessons. Check out instructions to install or upgrade R and RStudio here.\n\n\n\n\n\n\n    \n      \n      \n    \n\n\n\n\n  \n\n\n\n\nCleaning and Wrangling Data\n\n\n\n\n\n\n\nbeginner\n\n\ndata wrangling\n\n\n\n\n\n\n\n\n\n \n\n\n\n\n  \n\n\n\n\nCollaborating using Git and GitHub & Merge Conflicts\n\n\n\n\n\n\n\nintermediate\n\n\ngithub\n\n\n\n\n\n\n\n\n\n \n\n\n\n\n  \n\n\n\n\nCreating Functions in R\n\n\n\n\n\n\n\nintermediate\n\n\n\n\n\n\n\n\n\n \n\n\n\n\n  \n\n\n\n\nCreating R Packages\n\n\n\n\n\n\n\nintermediate\n\n\n\n\n\n\n\n\n\n \n\n\n\n\n  \n\n\n\n\nIntroduction to Data Visualization\n\n\n\n\n\n\n\nbeginner\n\n\ndata vis\n\n\n\n\n\n\n\n\n\n \n\n\n\n\n  \n\n\n\n\nIntroduction to Programming in R using RStudio\n\n\n\n\n\n\n\nbeginner\n\n\n\n\n\n\n\n\n\n \n\n\n\n\n  \n\n\n\n\nIntroduction to Shiny\n\n\n\n\n\n\n\nintermediate\n\n\ndata vis\n\n\n\n\n\n\n\n\n\n \n\n\n\n\n  \n\n\n\n\nIntroduction to Git and GitHub\n\n\n\n\n\n\n\nbeginner\n\n\ngithub\n\n\n\n\n\n\n\n\n\n \n\n\n\n\n  \n\n\n\n\nLiterate Analysis with Quarto\n\n\n\n\n\n\n\nQuarto\n\n\n\n\n\n\n\n\n\n \n\n\n\n\n  \n\n\n\n\nPublishing to the Web using GitHub Pages\n\n\n\n\n\n\n\ngithub\n\n\nintermediate\n\n\n\n\n\n\n\n\n\n \n\n\n\n\n  \n\n\n\n\nReproducible Data Access\n\n\n\n\n\n\n\nintermediate\n\n\n\n\n\n\n\n\n\n \n\n\n\n\n  \n\n\n\n\nReproducible Papers\n\n\n\n\n\n\n\nreproducibility\n\n\nintermediate\n\n\n\n\n\n\n\n\n\n \n\n\n\n\n  \n\n\n\n\nUsing sf for Spatial Data\n\n\n\n\n\n\n\nintermediate\n\n\ndata vis\n\n\n\n\n\n\n\n\n\n \n\n\n\n\n  \n\n\n\n\nWorking with text data in R\n\n\n\n\n\n\n\nbeginner\n\n\ntext data\n\n\n\n\n\n\n\n\n\n \n\n\n\n\nNo matching items"
   },
   {
     "objectID": "non-technical-lessons.html",
@@ -18,7 +18,7 @@
     "href": "technical_modules/intro-to-r-programming/index.html",
     "title": "Introduction to Programming in R using RStudio",
     "section": "",
-    "text": "New to R? This lesson walks through the basic concepts of the R programming language.  Image credit: Art by: Allison Horst"
+    "text": "New to R? This lesson walks through the basic concepts of the R programming language.\n Image credit: Art by Allison Horst"
   },
   {
     "objectID": "technical_modules/intro-to-r-programming/index.html#fa-scroll-description",
@@ -53,7 +53,7 @@
     "href": "technical_modules/git-collab-merge-conflict/index.html",
     "title": "Collaborating using Git and GitHub & Merge Conflicts",
     "section": "",
-    "text": "Use the power of Git and GitHub streamline collaboration on a research project.  Image credit: Art by: Allison Horst"
+    "text": "Use the power of Git and GitHub streamline collaboration on a research project.\n Image credit: Art by Allison Horst"
   },
   {
     "objectID": "technical_modules/git-collab-merge-conflict/index.html#fa-scroll-description",
@@ -88,7 +88,7 @@
     "href": "technical_modules/clean-wangle-data/index.html",
     "title": "Cleaning and Wrangling Data",
     "section": "",
-    "text": "To be efficient analysts, we should have good tools to wrangle data to fit our needs. This way, we can do further work like making plots and fitting models. \nImage credit: https://tidydatatutor.com/"
+    "text": "It is essential to have good tools to wrangle data to fit our needs. Cleaning data a necessary step before your analysis.\n Image credit: tidydatatutor.com"
   },
   {
     "objectID": "technical_modules/clean-wangle-data/index.html#fa-scroll-description",
@@ -228,7 +228,7 @@
     "href": "technical_modules/git-and-github-intro/index.html",
     "title": "Introduction to Git and GitHub",
     "section": "",
-    "text": "Benefit from Git and GitHub’s power to facilitate collaborative research and code management practices.  Image credit: NCEAS Learning Hub"
+    "text": "Benefit from Git and GitHub’s power to facilitate collaborative research and code management practices.\n Image credit: NCEAS Learning Hub"
   },
   {
     "objectID": "technical_modules/git-and-github-intro/index.html#fa-scroll-description",
@@ -396,7 +396,7 @@
     "href": "technical_modules/intro-to-shiny/index.html",
     "title": "Introduction to Shiny",
     "section": "",
-    "text": "Shiny apps provide interactive features for letting others share and explore data and analyses. \nImage credit: Shiny Logo"
+    "text": "Shiny apps provide interactive features for letting others share and explore data and analyses.\n Image credit: Shiny Logo"
   },
   {
     "objectID": "technical_modules/intro-to-shiny/index.html#fa-scroll-description",
@@ -466,7 +466,7 @@
     "href": "technical_modules/git-github-publishing-analysis/index.html",
     "title": "Publishing to the Web using GitHub Pages",
     "section": "",
-    "text": "Tools like Quarto, RMarkdown, and GitHub allow you to share your work with others on a beautiful and easy-to-read web page.  Image credit: <github.com>"
+    "text": "Tools like Quarto, RMarkdown, and GitHub allow you to share your work with others on a beautiful and easy-to-read web page.\n Image credit: <github.com>"
   },
   {
     "objectID": "technical_modules/git-github-publishing-analysis/index.html#fa-scroll-description",

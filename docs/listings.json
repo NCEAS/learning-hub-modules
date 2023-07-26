@@ -2,6 +2,7 @@
   {
     "listing": "/technical-lessons.html",
     "items": [
+      "/technical_modules/clean-wangle-data/index.html",
       "/technical_modules/git-collab-merge-conflict/index.html",
       "/technical_modules/r-creating-functions/index.html",
       "/technical_modules/r-creating-packages/index.html",
@@ -14,8 +15,7 @@
       "/technical_modules/reproducible-data-access/index.html",
       "/technical_modules/reproducible-papers/index.html",
       "/technical_modules/sf-spatial-data/index.html",
-      "/technical_modules/text-data/index.html",
-      "/technical_modules/clean-wangle-data/index.html"
+      "/technical_modules/text-data/index.html"
     ]
   },
   {

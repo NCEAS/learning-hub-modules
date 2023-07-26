@@ -4,7 +4,8 @@ categories: [beginner]
 image: allison-horst-code-kitchen.png
 ---
 
-> New to R? This lesson walks through the basic concepts of the R programming language. <font size="2"> *Image credit: Art by: Allison Horst* </font>
+> New to R? This lesson walks through the basic concepts of the R programming language.\
+> <font size="2"> *Image credit: Art by Allison Horst* </font>
 
 ## {{< fa scroll >}} Description
 

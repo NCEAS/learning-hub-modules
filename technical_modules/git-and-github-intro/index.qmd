@@ -4,7 +4,8 @@ categories: [beginner, github]
 image: vc-local-github.png
 ---
 
-> Benefit from `Git` and GitHub's power to facilitate collaborative research and code management practices. <font size="2"> *Image credit: NCEAS Learning Hub* </font>
+> Benefit from `Git` and GitHub's power to facilitate collaborative research and code management practices.\
+<font size="2"> *Image credit: NCEAS Learning Hub* </font>
 
 ## {{< fa scroll >}} Description
 

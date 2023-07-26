@@ -1,11 +1,11 @@
 ---
-title: "[Cleaning and Wrangling Data]{style=color:#26805C}"
+title: "Cleaning and Wrangling Data"
 categories: [beginner, data wrangling]
 image: kross-tidydata-tutorial.png
 ---
 
-> To be efficient analysts, we should have good tools to wrangle data to fit our needs. This way, we can do further work like making plots and fitting models. <font size="2">\
-*Image credit: <https://tidydatatutor.com/>* </font>
+> It is essential to have good tools to wrangle data to fit our needs. Cleaning data a necessary step before your analysis.\
+<font size="2"> *Image credit: tidydatatutor.com* </font>
 
 ## {{< fa scroll >}} Description
 
@@ -26,4 +26,3 @@ In general, the data we get to work with is not in the format we need to do our 
 ## <i class="fa-regular fa-clock"></i> Duration
 
 2 hours
-

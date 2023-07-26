@@ -4,8 +4,8 @@ categories: [intermediate, data vis]
 image: shiny-logo.jpg
 ---
 
-> Shiny apps provide interactive features for letting others share and explore data and analyses. <font size="2">\
-> *Image credit: Shiny Logo* </font>
+> Shiny apps provide interactive features for letting others share and explore data and analyses.\
+<font size="2"> *Image credit: Shiny Logo* </font>
 
 ## {{< fa scroll >}} Description
 
