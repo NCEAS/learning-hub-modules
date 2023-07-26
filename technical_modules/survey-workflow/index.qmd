@@ -5,22 +5,24 @@ image: qualtics.png ## FIND AN IMAGE
 draft: true
 ---
 
-> Short description to display on card. Max 175 charactesr.
+> Short description to display on card. Max 175 charactesr.\
+<font size="2"> *Image credit: credites-here* </font>
 
-## Description
 
-In this lesson we will use the `qualtRics` package to reproducible access some survey results set up for this course.
+## {{< fa scroll >}} Description
 
-## Prerequisites
+In this lesson, we will use the `qualtRics` package to reproducible access some survey results set up for this course.
+
+## {< fa check >}} Prerequisites
 
 -   Familiarity with R and RStudio
 -   Know basics of the R packages `dplyr`, `tidyr` & `ggplot2`
 
-## Learnig Goal
+## {< fa bullseye >}} Learning Goal
 
 -   Overview of survey tools
 -   Generating a reproducible survey report with Qualtrics
 
-## Duration
+## <i class="fa-regular fa-clock"></i> Duration
 
 2 hours
