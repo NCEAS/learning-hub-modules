@@ -4,7 +4,7 @@ categories: [intermediate, github]
 image: horst-git-hug.png
 ---
 
-> Use the power of `Git` and GitHub streamline collaboration on a research project.\
+> Use the power of `Git` and GitHub to streamline collaboration on a research project.\
 > <font size="2"> *Image credit: Art by Allison Horst* </font>
 
 ## {{< fa scroll >}} Description
