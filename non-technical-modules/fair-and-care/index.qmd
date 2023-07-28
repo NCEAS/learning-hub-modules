@@ -4,19 +4,20 @@ categories: [data ethics]
 image: FAIR_CARE.png
 ---
 
-> These principles aim to make data available to machines, researchers, Indigenous communities, policymakers, and more.
+> These principles aim to make data available to machines, researchers, Indigenous communities, policymakers, and more.\
+<font size="2"> *Image credit: Global Indigenous Data Alliance* </font>
 
-## Description
+## {{< fa scroll >}} Description
 These principles aim to increase access and usage of complex and large datasets for innovation, discovery, and decision-making. This lesson reviews each of these principles providing examples of how to put them into practice when working with data. This module mixes briefing of content, discussion, and exercises for participants to evaluate these principles with real-world data.
 
-## Prerequisites
+## {{< fa check >}} Prerequisites
 None
 
-## Learning Goal
+## {{< fa bullseye >}} Learning Goal
 - Introduce FAIR and CARE principles and the value it provides to data
 - Provide a FAIR and CARE lens that can be applied to your data-focused work
 - Evaluate the FAIRness and CAREness of your work and the work of others
 
 
-## Duration
+## <i class="fa-regular fa-clock"></i> Duration
 1 hour
