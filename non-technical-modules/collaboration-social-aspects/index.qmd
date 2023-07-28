@@ -5,24 +5,25 @@ image: phdcomics_031305s_authorlist.gif
 draft: true
 ---
 
-> Short description to display on card. Max 175 charactesr.
+> Short description to display on card. Max 175 characters.\
+<font size="2"> *Image credit: credit-here* </font>
 
-## Description
+## {{< fa scroll >}} Description
 
 What is the lesson about?
 
-## Prerequisites
+## {{< fa check >}} Prerequisites
 
 -   List with
 -   All necessary skills to take this lesson
 
-## Learnig Goal
+## {{< fa bullseye >}} Learning Goal
 
 -   Developing a Code of Conducts
 -   Authorship and Credits Policies
 -   Data Sharing and Reuse Policies
 -   Research Data Publishing Ethics
 
-## Duration
+## <i class="fa-regular fa-clock"></i> Duration
 
 2 hours
