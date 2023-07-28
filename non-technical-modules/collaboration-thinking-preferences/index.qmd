@@ -4,19 +4,20 @@ categories: [activity, team science]
 image: whole-brain.jpg 
 ---
 
-> Understanding how people think and process information helps us identify our approach to problem-solving and how individuals within a team can contribute. 
+> Understanding how people think and process information helps us identify our approach to problem-solving and how individuals within a team can contribute.\
+<font size="2"> *Image credit: Herrmann Brain Dominance Instrument * </font>
 
-## Description
+## {{< fa scroll >}} Description
 Everyone thinks differently. How individuals think guides how they work, and how groups of individuals think guides how teams work. Understanding thinking preferences facilitates effective collaboration and teamwork. This interactive module allows you to learn about different thinking styles and how each type brings strengths to different aspects of a project.
 
-## Prerequisites
+## {{< fa check >}} Prerequisites
 None
 
-## Learning Goal
+## {{< fa bullseye >}} Learning Goal
 -   Get to know fellow participants and how they think.
 -   Discuss the Whole Brain Thinking System as a helpful tool to understand different approaches to problem-solving.
 
-## Duration
+## <i class="fa-regular fa-clock"></i> Duration
 30 to 45 min
 
 **In person only**
