@@ -4,15 +4,16 @@ categories: [activity, reproducibility]
 image: delta-2023-lego.JPG
 ---
 
-> Get together in teams, build a LEGO® structure, and document the process—fun and interactive icebreaker activity to introduce the concept of reproducibility.
+> Get together in teams, build a LEGO® structure, and document the process—fun and interactive icebreaker activity to introduce the concept of reproducibility.\
+<font size="2"> *Image credit: NCEAS Learning Hub* </font>
 
-## Description
+## {{< fa scroll >}} Description
 This interactive activity requires participants to build a structure using LEGO®. The challenging part comes when documenting the process so others can replicate what you made. This activity is a great icebreaker to get everyone talking about the importance of clear documentation for reproducible workflows.
 
-## Prerequisites
+## {{< fa check >}} Prerequisites
 - None
 
-## Learning Goal
+## {{< fa bullseye >}} Learning Goal
 - Illustrate elements of good reproducibility through the medium of LEGO®
 - Discuss what is needed and what is not needed for good reproducibility
 
