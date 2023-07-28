@@ -4,7 +4,7 @@ categories: [reproducibility, intermediate]
 image: reproducible-data-analysis.png
 ---
 
-> Take reproducibility to the next level. Pack all the elements of your research into one container so future you and others can reproduce your work.\
+> Pack all the elements of your research into one container so future you and others can (truly) reproduce your work.\
 <font size="2"> *Image credit: Marwick et al 2017* </font>
 
 
