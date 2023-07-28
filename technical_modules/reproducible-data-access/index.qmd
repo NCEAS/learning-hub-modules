@@ -4,7 +4,7 @@ categories: [intermediate]
 image: contentid-registries.png
 ---
 
-> Accessing data is the first step in any analysis. Being able to do this in a portable manner is the ultimate goal to make your work as reproducible as possible.\
+> Accessing data is the first step in any analysis. Doing this in a portable manner is the ultimate goal to make your work as reproducible as possible.\
 <font size="2"> *Image credit: NCEAS Learning Hub* </font>
 
 ## {{< fa scroll >}} Description
