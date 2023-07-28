@@ -21,13 +21,13 @@
   {
     "listing": "/non-technical-lessons.html",
     "items": [
+      "/non-technical-modules/data-management-plan/index.html",
       "/non-technical-modules/data-modeling-essentials/index.html",
       "/non-technical-modules/reproducibility-lego/index.html",
       "/non-technical-modules/metadata-best-practices/index.html",
       "/non-technical-modules/provenance-and-reproducibility/index.html",
       "/non-technical-modules/fair-and-care/index.html",
-      "/non-technical-modules/collaboration-thinking-preferences/index.html",
-      "/non-technical-modules/data-management-plan/index.html"
+      "/non-technical-modules/collaboration-thinking-preferences/index.html"
     ]
   }
 ]

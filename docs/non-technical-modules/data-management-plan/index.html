@@ -7,7 +7,7 @@
 <meta name="viewport" content="width=device-width, initial-scale=1.0, user-scalable=yes">
 
 
-<title>NCEAS Data Science Modular Training - Writing Data Management Plans</title>
+<title>NCEAS Data Science Modular Training - Data Management Essentials</title>
 <style>
 code{white-space: pre-wrap;}
 span.smallcaps{font-variant: small-caps;}
@@ -39,6 +39,8 @@ ul.task-list li input[type="checkbox"] {
 <script src="../../site_libs/bootstrap/bootstrap.min.js"></script>
 <link href="../../site_libs/bootstrap/bootstrap-icons.css" rel="stylesheet">
 <link href="../../site_libs/bootstrap/bootstrap.min.css" rel="stylesheet" id="quarto-bootstrap" data-mode="light">
+<link href="../../site_libs/quarto-contrib/fontawesome6-0.1.0/all.css" rel="stylesheet">
+<link href="../../site_libs/quarto-contrib/fontawesome6-0.1.0/latex-fontsize.css" rel="stylesheet">
 <script id="quarto-search-options" type="application/json">{
   "location": "sidebar",
   "copy-button": false,
@@ -68,7 +70,7 @@ ul.task-list li input[type="checkbox"] {
   <header id="quarto-header" class="headroom fixed-top">
   <nav class="quarto-secondary-nav" data-bs-toggle="collapse" data-bs-target="#quarto-sidebar" aria-controls="quarto-sidebar" aria-expanded="false" aria-label="Toggle sidebar navigation" onclick="if (window.quartoToggleHeadroom) { window.quartoToggleHeadroom(); }">
     <div class="container-fluid d-flex justify-content-between">
-      <h1 class="quarto-secondary-nav-title">Writing Data Management Plans</h1>
+      <h1 class="quarto-secondary-nav-title">Data Management Essentials</h1>
       <button type="button" class="quarto-btn-toggle btn" aria-label="Show secondary navigation">
         <i class="bi bi-chevron-right"></i>
       </button>
@@ -125,10 +127,10 @@ ul.task-list li input[type="checkbox"] {
     <h2 id="toc-title">On this page</h2>
    
   <ul>
-  <li><a href="#description" id="toc-description" class="nav-link active" data-scroll-target="#description">Description</a></li>
-  <li><a href="#prerequisites" id="toc-prerequisites" class="nav-link" data-scroll-target="#prerequisites">Prerequisites</a></li>
-  <li><a href="#learning-goal" id="toc-learning-goal" class="nav-link" data-scroll-target="#learning-goal">Learning Goal</a></li>
-  <li><a href="#duration" id="toc-duration" class="nav-link" data-scroll-target="#duration">Duration</a></li>
+  <li><a href="#fa-scroll-description" id="toc-fa-scroll-description" class="nav-link active" data-scroll-target="#fa-scroll-description"><i class="fa-solid fa-scroll" aria-label="scroll"></i> Description</a></li>
+  <li><a href="#fa-check-prerequisites" id="toc-fa-check-prerequisites" class="nav-link" data-scroll-target="#fa-check-prerequisites">{&lt; fa check &gt;}} Prerequisites</a></li>
+  <li><a href="#fa-bullseye-learning-goal" id="toc-fa-bullseye-learning-goal" class="nav-link" data-scroll-target="#fa-bullseye-learning-goal"><i class="fa-solid fa-bullseye" aria-label="bullseye"></i> Learning Goal</a></li>
+  <li><a href="#duration" id="toc-duration" class="nav-link" data-scroll-target="#duration"><i class="fa-regular fa-clock"></i> Duration</a></li>
   </ul>
 <div class="toc-actions"><div><i class="bi bi-github"></i></div><div class="action-links"><p><a href="https://github.com/NCEAS/learning-hub-modules/edit/main/non-technical-modules/data-management-plan/index.qmd" class="toc-action">Edit this page</a></p><p><a href="https://github.com/NCEAS/learning-hub-modules/issues/new" class="toc-action">Report an issue</a></p></div></div></nav>
     </div>
@@ -137,7 +139,7 @@ ul.task-list li input[type="checkbox"] {
 
 <header id="title-block-header" class="quarto-title-block default">
 <div class="quarto-title">
-<h1 class="title d-none d-lg-block">Writing Data Management Plans</h1>
+<h1 class="title d-none d-lg-block">Data Management Essentials</h1>
   <div class="quarto-categories">
     <div class="quarto-category">data management</div>
   </div>
@@ -156,27 +158,29 @@ ul.task-list li input[type="checkbox"] {
 </header>
 
 <blockquote class="blockquote">
-<p>Documenting your project using a thorough data management plan it’s an important step to achieving a reproducible open science framework for your research.</p>
+<p>Successfully managing your data throughout a research project facilitates collaboration and helps ensures its preservation for future use.<br>
+<font size="2"> <em>Image credit: dataONE</em> </font></p>
 </blockquote>
-<section id="description" class="level2">
-<h2 class="anchored" data-anchor-id="description">Description</h2>
-<p>Successfully managing your data throughout a research project helps ensures its preservation for future use. An organized data management plan lets your research outcomes be transparent, maximizing your work’s practical use and value. This lesson provides an overview of everything that needs to be in place for writing an effective data management plan and introduces tools to help you organize and keep track of this information.</p>
+<section id="fa-scroll-description" class="level2">
+<h2 class="anchored" data-anchor-id="fa-scroll-description"><i class="fa-solid fa-scroll" aria-label="scroll"></i> Description</h2>
+<p>Data management is the process of handling, organizing, documenting, and preserving data used in a project/research. It helps your research outcomes be transparent, maximizing your work’s practical use and value. This lesson provides an overview of all the meaningful steps in a research project and dives into{&lt; fa check &gt;}} how to plan for successful data management.</p>
 </section>
-<section id="prerequisites" class="level2">
-<h2 class="anchored" data-anchor-id="prerequisites">Prerequisites</h2>
+<section id="fa-check-prerequisites" class="level2">
+<h2 class="anchored" data-anchor-id="fa-check-prerequisites">{&lt; fa check &gt;}} Prerequisites</h2>
 <p>None</p>
 </section>
-<section id="learning-goal" class="level2">
-<h2 class="anchored" data-anchor-id="learning-goal">Learning Goal</h2>
+<section id="fa-bullseye-learning-goal" class="level2">
+<h2 class="anchored" data-anchor-id="fa-bullseye-learning-goal"><i class="fa-solid fa-bullseye" aria-label="bullseye"></i> Learning Goal</h2>
 <ul>
-<li>State the importance of creating data management plans</li>
-<li>Explain the major components of data management plans</li>
-<li>Recommend tools that can help create a data management plan</li>
-<li>Provide features and functionality of the DMPTool</li>
+<li>Understand the importance and benefits of data management</li>
+<li>Apply the Data Life Cycle steps to organize and plan a research project</li>
+<li>Describe the major components of data management plans</li>
+<li>Know about metadata main guidelines</li>
+<li>Become familiar with data repositories, what they are and how they work</li>
 </ul>
 </section>
 <section id="duration" class="level2">
-<h2 class="anchored" data-anchor-id="duration">Duration</h2>
+<h2 class="anchored" data-anchor-id="duration"><i class="fa-regular fa-clock"></i> Duration</h2>
 <p>1 hour</p>
 
 

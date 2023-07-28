@@ -11,7 +11,7 @@
     "href": "non-technical-lessons.html",
     "title": "Non-Technical Modules",
     "section": "",
-    "text": "As part of our comprehensive approach to open data science best practices, in addition to helping you build and practice your technical skills, we also offer non-technical lessons. These modules range from interactive activities to discussion-based lessons, mixing briefing information with practical tips and exercises.\nMost of these lessons can be delivered in person during your visit to NCEAS or remotely. Some particular lessons only can be offered in person. The modality of the lesson is stated in each lesson’s description.\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nData Modeling Essentials\n\n\n\ntidy data\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nLEGO® Reproducibility Activity\n\n\n\nactivity\n\n\nreproducibility\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nMetadata Best Practices\n\n\n\ndata management\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nReproducibility and Provenance\n\n\n\nreproducibility\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nThe FAIR and CARE Principles\n\n\n\ndata ethics\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nThinking Preferences\n\n\n\nactivity\n\n\nteam science\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nWriting Data Management Plans\n\n\n\ndata management\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nNo matching items"
+    "text": "As part of our comprehensive approach to open data science best practices, in addition to helping you build and practice your technical skills, we also offer non-technical lessons. These modules range from interactive activities to discussion-based lessons, mixing briefing information with practical tips and exercises.\nMost of these lessons can be delivered in person during your visit to NCEAS or remotely. Some particular lessons only can be offered in person. The modality of the lesson is stated in each lesson’s description.\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nData Management Essentials\n\n\n\ndata management\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nData Modeling Essentials\n\n\n\ntidy data\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nLEGO® Reproducibility Activity\n\n\n\nactivity\n\n\nreproducibility\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nMetadata Best Practices\n\n\n\ndata management\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nReproducibility and Provenance\n\n\n\nreproducibility\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nThe FAIR and CARE Principles\n\n\n\ndata ethics\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nThinking Preferences\n\n\n\nactivity\n\n\nteam science\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nNo matching items"
   },
   {
     "objectID": "technical_modules/intro-to-r-programming/index.html",
@@ -333,7 +333,7 @@
     "href": "technical_modules/reproducible-data-access/index.html",
     "title": "Reproducible Data Access",
     "section": "",
-    "text": "Accessing data is the first step in any analysis. Being able to do this in a portable manner is the ultimate goal to make your work as reproducible as possible.\n Image credit: NCEAS Learning Hub"
+    "text": "Accessing data is the first step in any analysis. Doing this in a portable manner is the ultimate goal to make your work as reproducible as possible.\n Image credit: NCEAS Learning Hub"
   },
   {
     "objectID": "technical_modules/reproducible-data-access/index.html#fa-scroll-description",
@@ -438,7 +438,7 @@
     "href": "technical_modules/reproducible-papers/index.html",
     "title": "Reproducible Papers",
     "section": "",
-    "text": "Take reproducibility to the next level. Pack all the elements of your research into one container so future you and others can reproduce your work.\n Image credit: Marwick et al 2017"
+    "text": "Pack all the elements of your research into one container so future you and others can (truly) reproduce your work.\n Image credit: Marwick et al 2017"
   },
   {
     "objectID": "technical_modules/reproducible-papers/index.html#fa-scroll-description",
@@ -508,34 +508,34 @@
     "href": "non-technical-modules/metadata-best-practices/index.html",
     "title": "Metadata Best Practices",
     "section": "",
-    "text": "Metadata is the data about your data. Having organized and detailed metadata is critical for data reuse and the reproducibility of your work."
+    "text": "Metadata is the data about your data. Having organized and detailed metadata is critical for data reuse and the reproducibility of your work.\n Image credit: NCEAS Learning Hub"
   },
   {
-    "objectID": "non-technical-modules/metadata-best-practices/index.html#description",
-    "href": "non-technical-modules/metadata-best-practices/index.html#description",
+    "objectID": "non-technical-modules/metadata-best-practices/index.html#fa-scroll-description",
+    "href": "non-technical-modules/metadata-best-practices/index.html#fa-scroll-description",
     "title": "Metadata Best Practices",
-    "section": "Description",
+    "section": " Description",
     "text": "Description\nWithin the data life cycle, you can collect data (creating new data) or integrate already collected data. Either way, metadata plays a significant role in successfully spinning around the cycle because it enables data reuse long after the original collection. This lesson walks through guidelines and best practices that will help you organize the documentation of your data."
   },
   {
-    "objectID": "non-technical-modules/metadata-best-practices/index.html#prerequisites",
-    "href": "non-technical-modules/metadata-best-practices/index.html#prerequisites",
+    "objectID": "non-technical-modules/metadata-best-practices/index.html#fa-check-prerequisites",
+    "href": "non-technical-modules/metadata-best-practices/index.html#fa-check-prerequisites",
     "title": "Metadata Best Practices",
-    "section": "Prerequisites",
+    "section": " Prerequisites",
     "text": "Prerequisites\nNone"
   },
   {
-    "objectID": "non-technical-modules/metadata-best-practices/index.html#learning-goal",
-    "href": "non-technical-modules/metadata-best-practices/index.html#learning-goal",
+    "objectID": "non-technical-modules/metadata-best-practices/index.html#fa-bullseye-learning-goal",
+    "href": "non-technical-modules/metadata-best-practices/index.html#fa-bullseye-learning-goal",
     "title": "Metadata Best Practices",
-    "section": "Learning Goal",
+    "section": " Learning Goal",
     "text": "Learning Goal\n\nUnderstand metadata guidelines and best practices for reproducibility\nIntroduce practical metadata standards within the environmental/ecology field"
   },
   {
     "objectID": "non-technical-modules/metadata-best-practices/index.html#duration",
     "href": "non-technical-modules/metadata-best-practices/index.html#duration",
     "title": "Metadata Best Practices",
-    "section": "Duration",
+    "section": " Duration",
     "text": "Duration\n30 min"
   },
   {
@@ -543,34 +543,34 @@
     "href": "non-technical-modules/fair-and-care/index.html",
     "title": "The FAIR and CARE Principles",
     "section": "",
-    "text": "These principles aim to make data available to machines, researchers, Indigenous communities, policymakers, and more."
+    "text": "These principles aim to make data available to machines, researchers, Indigenous communities, policymakers, and more.\n Image credit: Global Indigenous Data Alliance"
   },
   {
-    "objectID": "non-technical-modules/fair-and-care/index.html#description",
-    "href": "non-technical-modules/fair-and-care/index.html#description",
+    "objectID": "non-technical-modules/fair-and-care/index.html#fa-scroll-description",
+    "href": "non-technical-modules/fair-and-care/index.html#fa-scroll-description",
     "title": "The FAIR and CARE Principles",
-    "section": "Description",
+    "section": " Description",
     "text": "Description\nThese principles aim to increase access and usage of complex and large datasets for innovation, discovery, and decision-making. This lesson reviews each of these principles providing examples of how to put them into practice when working with data. This module mixes briefing of content, discussion, and exercises for participants to evaluate these principles with real-world data."
   },
   {
-    "objectID": "non-technical-modules/fair-and-care/index.html#prerequisites",
-    "href": "non-technical-modules/fair-and-care/index.html#prerequisites",
+    "objectID": "non-technical-modules/fair-and-care/index.html#fa-check-prerequisites",
+    "href": "non-technical-modules/fair-and-care/index.html#fa-check-prerequisites",
     "title": "The FAIR and CARE Principles",
-    "section": "Prerequisites",
+    "section": " Prerequisites",
     "text": "Prerequisites\nNone"
   },
   {
-    "objectID": "non-technical-modules/fair-and-care/index.html#learning-goal",
-    "href": "non-technical-modules/fair-and-care/index.html#learning-goal",
+    "objectID": "non-technical-modules/fair-and-care/index.html#fa-bullseye-learning-goal",
+    "href": "non-technical-modules/fair-and-care/index.html#fa-bullseye-learning-goal",
     "title": "The FAIR and CARE Principles",
-    "section": "Learning Goal",
+    "section": " Learning Goal",
     "text": "Learning Goal\n\nIntroduce FAIR and CARE principles and the value it provides to data\nProvide a FAIR and CARE lens that can be applied to your data-focused work\nEvaluate the FAIRness and CAREness of your work and the work of others"
   },
   {
     "objectID": "non-technical-modules/fair-and-care/index.html#duration",
     "href": "non-technical-modules/fair-and-care/index.html#duration",
     "title": "The FAIR and CARE Principles",
-    "section": "Duration",
+    "section": " Duration",
     "text": "Duration\n1 hour"
   },
   {
@@ -578,34 +578,34 @@
     "href": "non-technical-modules/data-modeling-essentials/index.html",
     "title": "Data Modeling Essentials",
     "section": "",
-    "text": "Following best practices to format data tables allows us to manage and analyze data efficiently."
+    "text": "Following best practices to format data tables allows us to manage and analyze data efficiently.\n Image credit: Art by Allison Horst"
   },
   {
-    "objectID": "non-technical-modules/data-modeling-essentials/index.html#description",
-    "href": "non-technical-modules/data-modeling-essentials/index.html#description",
+    "objectID": "non-technical-modules/data-modeling-essentials/index.html#fa-scroll-description",
+    "href": "non-technical-modules/data-modeling-essentials/index.html#fa-scroll-description",
     "title": "Data Modeling Essentials",
-    "section": "Description",
+    "section": " Description",
     "text": "Description\nPreparing your data for analysis can be time-consuming and tedious. But, it is a necessary step before analyzing your data. This lesson dives deep into what is tidy and normalized data and how to make sure your data structure follows a “tidy structure.” It also introduces relational data models and provides an overview of merging data using joins. This lesson explores fundamental concepts for working with data and includes a hands-on exercise to apply these concepts to an actual data set."
   },
   {
-    "objectID": "non-technical-modules/data-modeling-essentials/index.html#prerequisites",
-    "href": "non-technical-modules/data-modeling-essentials/index.html#prerequisites",
+    "objectID": "non-technical-modules/data-modeling-essentials/index.html#fa-check-prerequisites",
+    "href": "non-technical-modules/data-modeling-essentials/index.html#fa-check-prerequisites",
     "title": "Data Modeling Essentials",
-    "section": "Prerequisites",
+    "section": " Prerequisites",
     "text": "Prerequisites\nNone"
   },
   {
-    "objectID": "non-technical-modules/data-modeling-essentials/index.html#learning-goal",
-    "href": "non-technical-modules/data-modeling-essentials/index.html#learning-goal",
+    "objectID": "non-technical-modules/data-modeling-essentials/index.html#fa-bullseye-learning-goal",
+    "href": "non-technical-modules/data-modeling-essentials/index.html#fa-bullseye-learning-goal",
     "title": "Data Modeling Essentials",
-    "section": "Learning Goal",
+    "section": " Learning Goal",
     "text": "Learning Goal\n\nApplying tidy and normalized data principles\nFollowing best practices to format data tables’ content\nRelating tables following relational data models principles\nUnderstanding how to perform table joins."
   },
   {
     "objectID": "non-technical-modules/data-modeling-essentials/index.html#duration",
     "href": "non-technical-modules/data-modeling-essentials/index.html#duration",
     "title": "Data Modeling Essentials",
-    "section": "Duration",
+    "section": " Duration",
     "text": "Duration\n2 hours"
   },
   {
@@ -613,69 +613,69 @@
     "href": "non-technical-modules/provenance-and-reproducibility/index.html",
     "title": "Reproducibility and Provenance",
     "section": "",
-    "text": "Reproducible workflows increase research efficiency, accelerate collaboration and increase trust in science."
+    "text": "Reproducible workflows increase research efficiency, accelerate collaboration and increase trust in science.\n Image credit: NCEAS Learning Hub"
   },
   {
-    "objectID": "non-technical-modules/provenance-and-reproducibility/index.html#description",
-    "href": "non-technical-modules/provenance-and-reproducibility/index.html#description",
+    "objectID": "non-technical-modules/provenance-and-reproducibility/index.html#fa-scroll-description",
+    "href": "non-technical-modules/provenance-and-reproducibility/index.html#fa-scroll-description",
     "title": "Reproducibility and Provenance",
-    "section": "Description",
+    "section": " Description",
     "text": "Description\nIn most cases, the methods sections of papers are inadequate to fully reproduce the work described in the paper. By looking at a figure on a paper, we only get part of the story of how the scientist got to make this plot. This lesson introduces de concepts of computational reproducibility and provenance and gives an overview of how they can be achieved in your work."
   },
   {
-    "objectID": "non-technical-modules/provenance-and-reproducibility/index.html#prerequisites",
-    "href": "non-technical-modules/provenance-and-reproducibility/index.html#prerequisites",
+    "objectID": "non-technical-modules/provenance-and-reproducibility/index.html#fa-check-prerequisites",
+    "href": "non-technical-modules/provenance-and-reproducibility/index.html#fa-check-prerequisites",
     "title": "Reproducibility and Provenance",
-    "section": "Prerequisites",
-    "text": "Prerequisites\nNone"
+    "section": "{< fa check >}} Prerequisites",
+    "text": "{< fa check >}} Prerequisites\nNone"
   },
   {
-    "objectID": "non-technical-modules/provenance-and-reproducibility/index.html#learning-goal",
-    "href": "non-technical-modules/provenance-and-reproducibility/index.html#learning-goal",
+    "objectID": "non-technical-modules/provenance-and-reproducibility/index.html#fa-bullseye-learning-goal",
+    "href": "non-technical-modules/provenance-and-reproducibility/index.html#fa-bullseye-learning-goal",
     "title": "Reproducibility and Provenance",
-    "section": "Learning Goal",
+    "section": " Learning Goal",
     "text": "Learning Goal\n\nDiscuss the concept of reproducible workflows, including computational reproducibility and provenance metadata\nIntroduce tools and techniques for reproducibility supported by the NCEAS and DataONE"
   },
   {
     "objectID": "non-technical-modules/provenance-and-reproducibility/index.html#duration",
     "href": "non-technical-modules/provenance-and-reproducibility/index.html#duration",
     "title": "Reproducibility and Provenance",
-    "section": "Duration",
+    "section": " Duration",
     "text": "Duration\n30 min"
   },
   {
     "objectID": "non-technical-modules/data-management-plan/index.html",
     "href": "non-technical-modules/data-management-plan/index.html",
-    "title": "Writing Data Management Plans",
+    "title": "Data Management Essentials",
     "section": "",
-    "text": "Documenting your project using a thorough data management plan it’s an important step to achieving a reproducible open science framework for your research."
+    "text": "Successfully managing your data throughout a research project facilitates collaboration and helps ensures its preservation for future use.\n Image credit: dataONE"
   },
   {
-    "objectID": "non-technical-modules/data-management-plan/index.html#description",
-    "href": "non-technical-modules/data-management-plan/index.html#description",
-    "title": "Writing Data Management Plans",
-    "section": "Description",
-    "text": "Description\nSuccessfully managing your data throughout a research project helps ensures its preservation for future use. An organized data management plan lets your research outcomes be transparent, maximizing your work’s practical use and value. This lesson provides an overview of everything that needs to be in place for writing an effective data management plan and introduces tools to help you organize and keep track of this information."
+    "objectID": "non-technical-modules/data-management-plan/index.html#fa-scroll-description",
+    "href": "non-technical-modules/data-management-plan/index.html#fa-scroll-description",
+    "title": "Data Management Essentials",
+    "section": " Description",
+    "text": "Description\nData management is the process of handling, organizing, documenting, and preserving data used in a project/research. It helps your research outcomes be transparent, maximizing your work’s practical use and value. This lesson provides an overview of all the meaningful steps in a research project and dives into{< fa check >}} how to plan for successful data management."
   },
   {
-    "objectID": "non-technical-modules/data-management-plan/index.html#prerequisites",
-    "href": "non-technical-modules/data-management-plan/index.html#prerequisites",
-    "title": "Writing Data Management Plans",
-    "section": "Prerequisites",
-    "text": "Prerequisites\nNone"
+    "objectID": "non-technical-modules/data-management-plan/index.html#fa-check-prerequisites",
+    "href": "non-technical-modules/data-management-plan/index.html#fa-check-prerequisites",
+    "title": "Data Management Essentials",
+    "section": "{< fa check >}} Prerequisites",
+    "text": "{< fa check >}} Prerequisites\nNone"
   },
   {
-    "objectID": "non-technical-modules/data-management-plan/index.html#learning-goal",
-    "href": "non-technical-modules/data-management-plan/index.html#learning-goal",
-    "title": "Writing Data Management Plans",
-    "section": "Learning Goal",
-    "text": "Learning Goal\n\nState the importance of creating data management plans\nExplain the major components of data management plans\nRecommend tools that can help create a data management plan\nProvide features and functionality of the DMPTool"
+    "objectID": "non-technical-modules/data-management-plan/index.html#fa-bullseye-learning-goal",
+    "href": "non-technical-modules/data-management-plan/index.html#fa-bullseye-learning-goal",
+    "title": "Data Management Essentials",
+    "section": " Learning Goal",
+    "text": "Learning Goal\n\nUnderstand the importance and benefits of data management\nApply the Data Life Cycle steps to organize and plan a research project\nDescribe the major components of data management plans\nKnow about metadata main guidelines\nBecome familiar with data repositories, what they are and how they work"
   },
   {
     "objectID": "non-technical-modules/data-management-plan/index.html#duration",
     "href": "non-technical-modules/data-management-plan/index.html#duration",
-    "title": "Writing Data Management Plans",
-    "section": "Duration",
+    "title": "Data Management Essentials",
+    "section": " Duration",
     "text": "Duration\n1 hour"
   },
   {
@@ -683,34 +683,34 @@
     "href": "non-technical-modules/reproducibility-lego/index.html",
     "title": "LEGO® Reproducibility Activity",
     "section": "",
-    "text": "Get together in teams, build a LEGO® structure, and document the process—fun and interactive icebreaker activity to introduce the concept of reproducibility."
+    "text": "Get together in teams, build a LEGO® structure, and document the process—fun and interactive icebreaker activity to introduce the concept of reproducibility.\n Image credit: NCEAS Learning Hub"
   },
   {
-    "objectID": "non-technical-modules/reproducibility-lego/index.html#description",
-    "href": "non-technical-modules/reproducibility-lego/index.html#description",
+    "objectID": "non-technical-modules/reproducibility-lego/index.html#fa-scroll-description",
+    "href": "non-technical-modules/reproducibility-lego/index.html#fa-scroll-description",
     "title": "LEGO® Reproducibility Activity",
-    "section": "Description",
+    "section": " Description",
     "text": "Description\nThis interactive activity requires participants to build a structure using LEGO®. The challenging part comes when documenting the process so others can replicate what you made. This activity is a great icebreaker to get everyone talking about the importance of clear documentation for reproducible workflows."
   },
   {
-    "objectID": "non-technical-modules/reproducibility-lego/index.html#prerequisites",
-    "href": "non-technical-modules/reproducibility-lego/index.html#prerequisites",
+    "objectID": "non-technical-modules/reproducibility-lego/index.html#fa-check-prerequisites",
+    "href": "non-technical-modules/reproducibility-lego/index.html#fa-check-prerequisites",
     "title": "LEGO® Reproducibility Activity",
-    "section": "Prerequisites",
+    "section": " Prerequisites",
     "text": "Prerequisites\n\nNone"
   },
   {
-    "objectID": "non-technical-modules/reproducibility-lego/index.html#learning-goal",
-    "href": "non-technical-modules/reproducibility-lego/index.html#learning-goal",
+    "objectID": "non-technical-modules/reproducibility-lego/index.html#fa-bullseye-learning-goal",
+    "href": "non-technical-modules/reproducibility-lego/index.html#fa-bullseye-learning-goal",
     "title": "LEGO® Reproducibility Activity",
-    "section": "Learning Goal",
+    "section": " Learning Goal",
     "text": "Learning Goal\n\nIllustrate elements of good reproducibility through the medium of LEGO®\nDiscuss what is needed and what is not needed for good reproducibility"
   },
   {
     "objectID": "non-technical-modules/reproducibility-lego/index.html#duration",
     "href": "non-technical-modules/reproducibility-lego/index.html#duration",
     "title": "LEGO® Reproducibility Activity",
-    "section": "Duration",
+    "section": " Duration",
     "text": "Duration\n1 hour\nIn person only"
   },
   {
@@ -718,34 +718,34 @@
     "href": "non-technical-modules/collaboration-thinking-preferences/index.html",
     "title": "Thinking Preferences",
     "section": "",
-    "text": "Understanding how people think and process information helps us identify our approach to problem-solving and how individuals within a team can contribute."
+    "text": "Understanding how people think and process information helps us identify our approach to problem-solving and how individuals within a team can contribute.\n Image credit: Herrmann Brain Dominance Instrument"
   },
   {
-    "objectID": "non-technical-modules/collaboration-thinking-preferences/index.html#description",
-    "href": "non-technical-modules/collaboration-thinking-preferences/index.html#description",
+    "objectID": "non-technical-modules/collaboration-thinking-preferences/index.html#fa-scroll-description",
+    "href": "non-technical-modules/collaboration-thinking-preferences/index.html#fa-scroll-description",
     "title": "Thinking Preferences",
-    "section": "Description",
+    "section": " Description",
     "text": "Description\nEveryone thinks differently. How individuals think guides how they work, and how groups of individuals think guides how teams work. Understanding thinking preferences facilitates effective collaboration and teamwork. This interactive module allows you to learn about different thinking styles and how each type brings strengths to different aspects of a project."
   },
   {
-    "objectID": "non-technical-modules/collaboration-thinking-preferences/index.html#prerequisites",
-    "href": "non-technical-modules/collaboration-thinking-preferences/index.html#prerequisites",
+    "objectID": "non-technical-modules/collaboration-thinking-preferences/index.html#fa-check-prerequisites",
+    "href": "non-technical-modules/collaboration-thinking-preferences/index.html#fa-check-prerequisites",
     "title": "Thinking Preferences",
-    "section": "Prerequisites",
+    "section": " Prerequisites",
     "text": "Prerequisites\nNone"
   },
   {
-    "objectID": "non-technical-modules/collaboration-thinking-preferences/index.html#learning-goal",
-    "href": "non-technical-modules/collaboration-thinking-preferences/index.html#learning-goal",
+    "objectID": "non-technical-modules/collaboration-thinking-preferences/index.html#fa-bullseye-learning-goal",
+    "href": "non-technical-modules/collaboration-thinking-preferences/index.html#fa-bullseye-learning-goal",
     "title": "Thinking Preferences",
-    "section": "Learning Goal",
+    "section": " Learning Goal",
     "text": "Learning Goal\n\nGet to know fellow participants and how they think.\nDiscuss the Whole Brain Thinking System as a helpful tool to understand different approaches to problem-solving."
   },
   {
     "objectID": "non-technical-modules/collaboration-thinking-preferences/index.html#duration",
     "href": "non-technical-modules/collaboration-thinking-preferences/index.html#duration",
     "title": "Thinking Preferences",
-    "section": "Duration",
+    "section": " Duration",
     "text": "Duration\n30 to 45 min\nIn person only"
   },
   {
