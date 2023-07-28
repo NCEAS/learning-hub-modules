@@ -17,7 +17,7 @@ This interactive activity requires participants to build a structure using LEGOÂ
 - Illustrate elements of good reproducibility through the medium of LEGOÂ®
 - Discuss what is needed and what is not needed for good reproducibility
 
-## Duration
+## <i class="fa-regular fa-clock"></i> Duration
 1 hour
 
 **In person only**
