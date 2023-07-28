@@ -4,19 +4,20 @@ categories: [data management]
 image: data-metadata-repro.png
 ---
 
-> Metadata is the data about your data. Having organized and detailed metadata is critical for data reuse and the reproducibility of your work.
+> Metadata is the data about your data. Having organized and detailed metadata is critical for data reuse and the reproducibility of your work.\
+> <font size="2"> *Image credit: NCEAS Learning Hub* </font>
 
 
-## Description
+## {{< fa scroll >}} Description
 Within the data life cycle, you can collect data (creating new data) or integrate already collected data. Either way, metadata plays a significant role in successfully spinning around the cycle because it enables data reuse long after the original collection. This lesson walks through guidelines and best practices that will help you organize the documentation of your data.
 
 
-## Prerequisites
+## {{< fa check >}} Prerequisites
 None
 
-## Learning Goal
+## {{< fa bullseye >}} Learning Goal
 - Understand metadata guidelines and best practices for reproducibility
 - Introduce practical metadata standards within the environmental/ecology field
 
-## Duration
+## <i class="fa-regular fa-clock"></i> Duration
 30 min
