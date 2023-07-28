@@ -2,7 +2,7 @@
 title: "NCEAS Learning Hub Data Science Modules"
 ---
 
-## {{< fa door-open >}}   Welcome!
+## {{< fa door-open >}} Welcome!
 
 NCEAS' Learning Hub is exited to offer Data Science training opportunities to synthesis working groups.
 
@@ -18,4 +18,4 @@ The idea is for your team to decide which skills would be more helpful to learn 
 
 ## {{< fa lightbulb >}} Why learn this tools?
 
-\[mention something about reproducibility and better science in less time\]
+Data science tools can accelerate collaboration and reproducible research. They also help your research be more transparent and streamlined. Our mission is to support your data science journey and empower you to use these tools to answer environmental questions more effectively. 
