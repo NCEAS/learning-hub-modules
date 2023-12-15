@@ -1,0 +1,24 @@
+---
+title: "Using GitHub for Project Management"
+categories: [non-technical, GitHub]
+image: issues_projects_openscapes.png
+---
+
+> Take advantage of GitHub's potential. Learn how to use issues and project.\
+<font size="2"> *Image credit: Openscapes GitHub Project* </font>
+
+
+## {{< fa scroll >}} Description
+GitHub is mainly known as a version control platform that facilitates collaborative coding. Effective collaboration (with yourself or colleagues) requires good communication. GitHub offers several features that can support communication and project management. During this workshop, we will talk and practice how to structure a GitHub repository, taking advantage of GitHub Issues & Projects, as a way of documenting and communicating your work process.
+
+## {{< fa check >}} Prerequisites
+- Have a GitHub account
+- Be familiarized with GitHub
+
+## {{< fa bullseye >}} Learning Goal
+- Describe why GitHub use GitHub to manage your project.
+- Introduce GitHub management tools like issues and projects.
+- Demostrate how to set up an effective project for you and your team.
+
+## <i class="fa-regular fa-clock"></i> Duration
+1.5 hours

@@ -1,0 +1,18 @@
+---
+title: "Reproducible Workflows Lessons"
+# subtitle: "List of all of the specialized modules we offer. Click on each card to learn more" 
+listing:
+  contents: reproducible-workflows
+  feed: true
+  # sort: "date desc"
+  type: grid
+  grid-item-border: true
+  grid-item-align: left
+  max-description-length: 175
+  date-format: medium
+  categories: numbered
+  sort-ui: false
+  filter-ui: true
+page-layout: full
+title-block-banner: false
+---

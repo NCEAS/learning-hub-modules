@@ -38,18 +38,18 @@ website:
     search: true
     #collapse-level: 1
     contents:
-      - section: "Modules"
+      - section: "Lessons about:"
         contents:
-          - href: technical-lessons.qmd
-            text: Technical Modules
-          - href: non-technical-lessons.qmd
-            text: Non-technical Modules
-          # - href: course-support.qmd
-          #   text: Support
-          # - href: course-team.qmd
-          #   text: Teaching team
-          # - href: index.qmd
-          #   text: Schedule
+          - href: data-management.qmd
+            text: Data Management
+          - href: git-and-github.qmd
+            text: Git & GitHub
+          - href: r-programming.qmd
+            text: R & RStudio
+          - href: reproducible-workflows.qmd
+            text: Reproducible Workflows
+          - href: team-synthesis-science.qmd
+            text: Team & Synthesis Science
           # - href: course-links.qmd
           #   text: Useful links
           # - href: course-faq.qmd

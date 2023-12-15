@@ -1,0 +1,24 @@
+---
+title: "[Lesson Title]"
+categories: [tag1, tag1]
+image: image-displayed-in-card.png ##update name
+draft: true ## delete this line to make card live
+---
+
+> Short description to display on the card. Max 175 characters.\
+font size="2"> *Image credit: credits-here* </font>
+
+
+## {< fa scroll >}} Description
+What is the lesson about?
+
+## {{< fa check >}} Prerequisites
+- List with
+- All necessary skills to take this lesson
+
+## {{< fa bullseye >}} Learning Goal
+- List format
+- What will be achieved in this lesson
+
+## <i class="fa-regular fa-clock"></i> Duration
+2 hours

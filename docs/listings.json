@@ -1,33 +1,53 @@
 [
   {
-    "listing": "/technical-lessons.html",
+    "listing": "/data-management.html",
     "items": [
-      "/technical_modules/clean-wangle-data/index.html",
-      "/technical_modules/git-collab-merge-conflict/index.html",
-      "/technical_modules/r-creating-functions/index.html",
-      "/technical_modules/r-creating-packages/index.html",
-      "/technical_modules/visualization-ggplot-leaflet/index.html",
-      "/technical_modules/intro-to-r-programming/index.html",
-      "/technical_modules/intro-to-shiny/index.html",
-      "/technical_modules/git-and-github-intro/index.html",
-      "/technical_modules/literate-analysis-quarto/index.html",
-      "/technical_modules/git-github-publishing-analysis/index.html",
-      "/technical_modules/reproducible-data-access/index.html",
-      "/technical_modules/reproducible-papers/index.html",
-      "/technical_modules/sf-spatial-data/index.html",
-      "/technical_modules/text-data/index.html"
+      "/data-management/data-management-plan/index.html",
+      "/data-management/data-modeling-essentials/index.html",
+      "/data-management/metadata-best-practices/index.html",
+      "/data-management/fair-and-care/index.html"
+    ]
+  },
+  {
+    "listing": "/reproducible-workflows.html",
+    "items": [
+      "/reproducible-workflows/reproducibility-lego/index.html",
+      "/reproducible-workflows/provenance-and-reproducibility/index.html",
+      "/reproducible-workflows/reproducible-papers/index.html"
     ]
   },
   {
     "listing": "/non-technical-lessons.html",
+    "items": []
+  },
+  {
+    "listing": "/team-synthesis-science.html",
     "items": [
-      "/non-technical-modules/data-management-plan/index.html",
-      "/non-technical-modules/data-modeling-essentials/index.html",
-      "/non-technical-modules/reproducibility-lego/index.html",
-      "/non-technical-modules/metadata-best-practices/index.html",
-      "/non-technical-modules/provenance-and-reproducibility/index.html",
-      "/non-technical-modules/fair-and-care/index.html",
-      "/non-technical-modules/collaboration-thinking-preferences/index.html"
+      "/team-science/collaboration-thinking-preferences/index.html"
+    ]
+  },
+  {
+    "listing": "/git-and-github.html",
+    "items": [
+      "/git-and-github/git-collab-merge-conflict/index.html",
+      "/git-and-github/git-and-github-intro/index.html",
+      "/git-and-github/github-for-project-mgmt/index.html"
+    ]
+  },
+  {
+    "listing": "/r-programming.html",
+    "items": [
+      "/technical-modules/clean-wangle-data/index.html",
+      "/technical-modules/r-creating-functions/index.html",
+      "/technical-modules/r-creating-packages/index.html",
+      "/technical-modules/visualization-ggplot-leaflet/index.html",
+      "/technical-modules/intro-to-r-programming/index.html",
+      "/technical-modules/intro-to-shiny/index.html",
+      "/technical-modules/literate-analysis-quarto/index.html",
+      "/technical-modules/git-github-publishing-analysis/index.html",
+      "/technical-modules/reproducible-data-access/index.html",
+      "/technical-modules/sf-spatial-data/index.html",
+      "/technical-modules/text-data/index.html"
     ]
   }
 ]
