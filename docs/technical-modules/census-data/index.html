@@ -7,7 +7,7 @@
 <meta name="viewport" content="width=device-width, initial-scale=1.0, user-scalable=yes">
 
 
-<title>NCEAS Data Science Modular Training - Introduction to Programming in R using RStudio</title>
+<title>NCEAS Data Science Modular Training - Working with U.S Census Data in R</title>
 <style>
 code{white-space: pre-wrap;}
 span.smallcaps{font-variant: small-caps;}
@@ -74,7 +74,7 @@ ul.task-list li input[type="checkbox"] {
       <button type="button" class="quarto-btn-toggle btn" data-bs-toggle="collapse" data-bs-target="#quarto-sidebar,#quarto-sidebar-glass" aria-controls="quarto-sidebar" aria-expanded="false" aria-label="Toggle sidebar navigation" onclick="if (window.quartoToggleHeadroom) { window.quartoToggleHeadroom(); }">
         <i class="bi bi-layout-text-sidebar-reverse"></i>
       </button>
-      <nav class="quarto-page-breadcrumbs" aria-label="breadcrumb"><ol class="breadcrumb"><li class="breadcrumb-item">Introduction to Programming in R using RStudio</li></ol></nav>
+      <nav class="quarto-page-breadcrumbs" aria-label="breadcrumb"><ol class="breadcrumb"><li class="breadcrumb-item">Working with U.S Census Data in R</li></ol></nav>
       <a class="flex-grow-1" role="button" data-bs-toggle="collapse" data-bs-target="#quarto-sidebar,#quarto-sidebar-glass" aria-controls="quarto-sidebar" aria-expanded="false" aria-label="Toggle sidebar navigation" onclick="if (window.quartoToggleHeadroom) { window.quartoToggleHeadroom(); }">      
       </a>
       <button type="button" class="btn quarto-search-button" aria-label="" onclick="window.quartoOpenSearch();">
@@ -157,19 +157,19 @@ ul.task-list li input[type="checkbox"] {
   <ul>
   <li><a href="#fa-scroll-description" id="toc-fa-scroll-description" class="nav-link active" data-scroll-target="#fa-scroll-description"><i class="fa-solid fa-scroll" aria-label="scroll"></i> Description</a></li>
   <li><a href="#fa-check-prerequisites" id="toc-fa-check-prerequisites" class="nav-link" data-scroll-target="#fa-check-prerequisites"><i class="fa-solid fa-check" aria-label="check"></i> Prerequisites</a></li>
-  <li><a href="#fa-bullseye-learning-goals" id="toc-fa-bullseye-learning-goals" class="nav-link" data-scroll-target="#fa-bullseye-learning-goals"><i class="fa-solid fa-bullseye" aria-label="bullseye"></i>Learning Goals</a></li>
+  <li><a href="#fa-bullseye-learning-goal" id="toc-fa-bullseye-learning-goal" class="nav-link" data-scroll-target="#fa-bullseye-learning-goal"><i class="fa-solid fa-bullseye" aria-label="bullseye"></i> Learning Goal</a></li>
   <li><a href="#duration" id="toc-duration" class="nav-link" data-scroll-target="#duration"><i class="fa-regular fa-clock"></i> Duration</a></li>
   </ul>
-<div class="toc-actions"><div><i class="bi bi-github"></i></div><div class="action-links"><p><a href="https://github.com/NCEAS/learning-hub-modules/edit/main/technical-modules/intro-to-r-programming/index.qmd" class="toc-action">Edit this page</a></p><p><a href="https://github.com/NCEAS/learning-hub-modules/issues/new" class="toc-action">Report an issue</a></p></div></div></nav>
+<div class="toc-actions"><div><i class="bi bi-github"></i></div><div class="action-links"><p><a href="https://github.com/NCEAS/learning-hub-modules/edit/main/technical-modules/census-data/index.qmd" class="toc-action">Edit this page</a></p><p><a href="https://github.com/NCEAS/learning-hub-modules/issues/new" class="toc-action">Report an issue</a></p></div></div></nav>
     </div>
 <!-- main -->
 <main class="content" id="quarto-document-content">
 
 <header id="title-block-header" class="quarto-title-block default">
 <div class="quarto-title">
-<h1 class="title">Introduction to Programming in R using RStudio</h1>
+<h1 class="title">Working with U.S Census Data in R</h1>
   <div class="quarto-categories">
-    <div class="quarto-category">beginner</div>
+    <div class="quarto-category">intermediate</div>
   </div>
   </div>
 
@@ -186,31 +186,34 @@ ul.task-list li input[type="checkbox"] {
 </header>
 
 <blockquote class="blockquote">
-<p>New to R? This lesson walks through the basic concepts of the R programming language.<br>
-<font size="2"> <em>Image credit: Art by Allison Horst</em> </font></p>
+<p>Introducing the <code>tidycensus</code> package. This packages helps you streamline your workflow when working with census data.<br>
+<font size="2"> <em>Image credit: <code>tidycensus</code> logo</em> </font></p>
 </blockquote>
 <section id="fa-scroll-description" class="level2">
 <h2 class="anchored" data-anchor-id="fa-scroll-description"><i class="fa-solid fa-scroll" aria-label="scroll"></i> Description</h2>
-<p>This lesson is a gentle introduction to working with R using the RStudio interface. The goal is to become familiar with how the R language works as the starting point to learn more in-depth techniques to advance your science.</p>
+<p>Working with census data can be tedious; you generally have to go to data.census.gov, filter data and queries based on variables and geographies, download data into a spreadsheet, upload it to R, etc. The tidycensus package (Walker and Herman 2021) was developed to systematize this process using R. During this session, we will review the general structure of the U.S Census, introduce the main functions of the tidycensus to access census data efficiently and use ggplot2 to plot and map this data at different census geographies (state, county, tract. etc.).</p>
 </section>
 <section id="fa-check-prerequisites" class="level2">
 <h2 class="anchored" data-anchor-id="fa-check-prerequisites"><i class="fa-solid fa-check" aria-label="check"></i> Prerequisites</h2>
-<p>None</p>
-</section>
-<section id="fa-bullseye-learning-goals" class="level2">
-<h2 class="anchored" data-anchor-id="fa-bullseye-learning-goals"><i class="fa-solid fa-bullseye" aria-label="bullseye"></i>Learning Goals</h2>
 <ul>
-<li>Become familiar with the RStudio interface</li>
-<li>Learn the basics of R syntax (functions, packages, objects, vectors, assignment operator)</li>
-<li>Understand the difference between a script and the console</li>
-<li>Create and inspect vectors, identifying their class, content, and structure</li>
-<li>Read and inspect data in R and understand the data structure</li>
-<li>Apply basic mathematical operations with values in a data table</li>
+<li>R and RStudio</li>
+<li>Cleaning and Wrangling data</li>
+<li><code>ggplot2</code></li>
+</ul>
+</section>
+<section id="fa-bullseye-learning-goal" class="level2">
+<h2 class="anchored" data-anchor-id="fa-bullseye-learning-goal"><i class="fa-solid fa-bullseye" aria-label="bullseye"></i> Learning Goal</h2>
+<ul>
+<li>Provide an overview of US Census data</li>
+<li>Introduce the main functions of the <code>tidycensus</code> package to be able to work with census data</li>
+<li>Review data wrangling function to get census data ready for analysis</li>
+<li>Plot census data using <code>ggplot2</code></li>
+<li>Create maps with census data</li>
 </ul>
 </section>
 <section id="duration" class="level2">
 <h2 class="anchored" data-anchor-id="duration"><i class="fa-regular fa-clock"></i> Duration</h2>
-<p>2 hours</p>
+<p>1.5 hours</p>
 
 
 </section>

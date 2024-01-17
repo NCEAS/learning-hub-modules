@@ -40,6 +40,7 @@
       "/technical-modules/clean-wangle-data/index.html",
       "/technical-modules/r-creating-functions/index.html",
       "/technical-modules/r-creating-packages/index.html",
+      "/technical-modules/flexdashboards/index.html",
       "/technical-modules/visualization-ggplot-leaflet/index.html",
       "/technical-modules/intro-to-r-programming/index.html",
       "/technical-modules/intro-to-shiny/index.html",
@@ -47,6 +48,7 @@
       "/technical-modules/git-github-publishing-analysis/index.html",
       "/technical-modules/reproducible-data-access/index.html",
       "/technical-modules/sf-spatial-data/index.html",
+      "/technical-modules/census-data/index.html",
       "/technical-modules/text-data/index.html"
     ]
   }

@@ -1,0 +1,27 @@
+---
+title: "Working with U.S Census Data in R"
+categories: [intermediate]
+image: tidycensus-logo.png 
+---
+
+> Introducing the `tidycensus` package. This packages helps you streamline your workflow when working with census data.\
+<font size="2"> *Image credit: `tidycensus` logo* </font>
+
+## {{< fa scroll >}} Description
+Working with census data can be tedious; you generally have to go to data.census.gov, filter data and queries based on variables and geographies, download data into a spreadsheet, upload it to R, etc. The tidycensus package (Walker and Herman 2021) was developed to systematize this process using R. During this session, we will review the general structure of the U.S Census, introduce the main functions of the tidycensus to access census data efficiently and use ggplot2 to plot and map this data at different census geographies (state, county, tract. etc.).
+
+## {{< fa check >}} Prerequisites
+- R and RStudio
+- Cleaning and Wrangling data
+- `ggplot2`
+
+## {{< fa bullseye >}} Learning Goal
+- Provide an overview of US Census data
+- Introduce the main functions of the `tidycensus` package to be able to work with census data
+- Review data wrangling function to get census data ready for analysis
+- Plot census data using `ggplot2`
+- Create maps with census data
+
+
+## <i class="fa-regular fa-clock"></i> Duration
+1.5 hours

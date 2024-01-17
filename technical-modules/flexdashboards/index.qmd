@@ -1,0 +1,24 @@
+---
+title: "Introducing Flexdashboards"
+categories: [advanced]
+image: neighborhood-diversity-flexdashboard.png 
+---
+
+> As an alternative to Shiny, Flexdashboards are great for creating lightweight interactive dashboards that require less code-heavy expertise.\
+<font size="2"> *Image credit: Posit* </font>
+
+## {{< fa scroll >}} Description
+`flexdashboard` is an R package from RStudio that is built on top of R Markdown and Shiny. It allows us to create flexible, interactive dashboards using simple Markdown documents and syntax. Flexdashboards are designed to be easy to create, and support a wide variety of visualizations and interactive components. We can incorporate Shiny widgets and functionality into flexdashboards, making it a powerful tool for creating interactive reports and dashboards that can be shared with others.
+
+## {{< fa check >}} Prerequisites
+- R & RStudio
+- Be familiar with RMarkdown
+- Data Visualization
+
+## {{< fa bullseye >}} Learning Goal
+- Create and design customized dashboards using the R package `flexdashboard`
+- Become familiar with different flexdashboard components and flexdashboard syntax
+- Apply Markdown syntax, Shiny elements, and additional R packages like `plotly` to create visually appealing and interactive flexdashboards
+
+## <i class="fa-regular fa-clock"></i> Duration
+1.5 hours

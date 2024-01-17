@@ -322,6 +322,41 @@
     "text": "Duration\n30 min"
   },
   {
+    "objectID": "technical-modules/census-data/index.html",
+    "href": "technical-modules/census-data/index.html",
+    "title": "Working with U.S Census Data in R",
+    "section": "",
+    "text": "Introducing the tidycensus package. This packages helps you streamline your workflow when working with census data.\n Image credit: tidycensus logo"
+  },
+  {
+    "objectID": "technical-modules/census-data/index.html#fa-scroll-description",
+    "href": "technical-modules/census-data/index.html#fa-scroll-description",
+    "title": "Working with U.S Census Data in R",
+    "section": " Description",
+    "text": "Description\nWorking with census data can be tedious; you generally have to go to data.census.gov, filter data and queries based on variables and geographies, download data into a spreadsheet, upload it to R, etc. The tidycensus package (Walker and Herman 2021) was developed to systematize this process using R. During this session, we will review the general structure of the U.S Census, introduce the main functions of the tidycensus to access census data efficiently and use ggplot2 to plot and map this data at different census geographies (state, county, tract. etc.)."
+  },
+  {
+    "objectID": "technical-modules/census-data/index.html#fa-check-prerequisites",
+    "href": "technical-modules/census-data/index.html#fa-check-prerequisites",
+    "title": "Working with U.S Census Data in R",
+    "section": " Prerequisites",
+    "text": "Prerequisites\n\nR and RStudio\nCleaning and Wrangling data\nggplot2"
+  },
+  {
+    "objectID": "technical-modules/census-data/index.html#fa-bullseye-learning-goal",
+    "href": "technical-modules/census-data/index.html#fa-bullseye-learning-goal",
+    "title": "Working with U.S Census Data in R",
+    "section": " Learning Goal",
+    "text": "Learning Goal\n\nProvide an overview of US Census data\nIntroduce the main functions of the tidycensus package to be able to work with census data\nReview data wrangling function to get census data ready for analysis\nPlot census data using ggplot2\nCreate maps with census data"
+  },
+  {
+    "objectID": "technical-modules/census-data/index.html#duration",
+    "href": "technical-modules/census-data/index.html#duration",
+    "title": "Working with U.S Census Data in R",
+    "section": " Duration",
+    "text": "Duration\n1.5 hours"
+  },
+  {
     "objectID": "technical-modules/text-data/index.html",
     "href": "technical-modules/text-data/index.html",
     "title": "Working with text data in R",
@@ -672,6 +707,41 @@
     "text": "Duration\n3 hours"
   },
   {
+    "objectID": "technical-modules/flexdashboards/index.html",
+    "href": "technical-modules/flexdashboards/index.html",
+    "title": "Introducing Flexdashboards",
+    "section": "",
+    "text": "As an alternative to Shiny, Flexdashboards are great for creating lightweight interactive dashboards that require less code-heavy expertise.\n Image credit: Posit"
+  },
+  {
+    "objectID": "technical-modules/flexdashboards/index.html#fa-scroll-description",
+    "href": "technical-modules/flexdashboards/index.html#fa-scroll-description",
+    "title": "Introducing Flexdashboards",
+    "section": " Description",
+    "text": "Description\nflexdashboard is an R package from RStudio that is built on top of R Markdown and Shiny. It allows us to create flexible, interactive dashboards using simple Markdown documents and syntax. Flexdashboards are designed to be easy to create, and support a wide variety of visualizations and interactive components. We can incorporate Shiny widgets and functionality into flexdashboards, making it a powerful tool for creating interactive reports and dashboards that can be shared with others."
+  },
+  {
+    "objectID": "technical-modules/flexdashboards/index.html#fa-check-prerequisites",
+    "href": "technical-modules/flexdashboards/index.html#fa-check-prerequisites",
+    "title": "Introducing Flexdashboards",
+    "section": " Prerequisites",
+    "text": "Prerequisites\n\nR & RStudio\nBe familiar with RMarkdown\nData Visualization"
+  },
+  {
+    "objectID": "technical-modules/flexdashboards/index.html#fa-bullseye-learning-goal",
+    "href": "technical-modules/flexdashboards/index.html#fa-bullseye-learning-goal",
+    "title": "Introducing Flexdashboards",
+    "section": " Learning Goal",
+    "text": "Learning Goal\n\nCreate and design customized dashboards using the R package flexdashboard\nBecome familiar with different flexdashboard components and flexdashboard syntax\nApply Markdown syntax, Shiny elements, and additional R packages like plotly to create visually appealing and interactive flexdashboards"
+  },
+  {
+    "objectID": "technical-modules/flexdashboards/index.html#duration",
+    "href": "technical-modules/flexdashboards/index.html#duration",
+    "title": "Introducing Flexdashboards",
+    "section": " Duration",
+    "text": "Duration\n1.5 hours"
+  },
+  {
     "objectID": "non-technical-lessons.html",
     "href": "non-technical-lessons.html",
     "title": "Non-Technical Modules",
@@ -921,6 +991,6 @@
     "href": "r-programming.html",
     "title": "Programming in R and RStudio",
     "section": "",
-    "text": "Cleaning and Wrangling Data\n\n\n\nbeginner\n\n\ndata wrangling\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nCreating Functions in R\n\n\n\nintermediate\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nCreating R Packages\n\n\n\nintermediate\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nIntroduction to Data Visualization\n\n\n\nbeginner\n\n\ndata vis\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nIntroduction to Programming in R using RStudio\n\n\n\nbeginner\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nIntroduction to Shiny\n\n\n\nintermediate\n\n\ndata vis\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nLiterate Analysis with Quarto\n\n\n\nquarto\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nPublishing to the Web using GitHub Pages\n\n\n\ngithub\n\n\nintermediate\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nReproducible Data Access\n\n\n\nintermediate\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nUsing sf for Spatial Data\n\n\n\nintermediate\n\n\ndata vis\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nWorking with text data in R\n\n\n\nbeginner\n\n\ntext data\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nNo matching items"
+    "text": "Cleaning and Wrangling Data\n\n\n\nbeginner\n\n\ndata wrangling\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nCreating Functions in R\n\n\n\nintermediate\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nCreating R Packages\n\n\n\nintermediate\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nIntroducing Flexdashboards\n\n\n\nadvanced\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nIntroduction to Data Visualization\n\n\n\nbeginner\n\n\ndata vis\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nIntroduction to Programming in R using RStudio\n\n\n\nbeginner\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nIntroduction to Shiny\n\n\n\nintermediate\n\n\ndata vis\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nLiterate Analysis with Quarto\n\n\n\nquarto\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nPublishing to the Web using GitHub Pages\n\n\n\ngithub\n\n\nintermediate\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nReproducible Data Access\n\n\n\nintermediate\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nUsing sf for Spatial Data\n\n\n\nintermediate\n\n\ndata vis\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nWorking with U.S Census Data in R\n\n\n\nintermediate\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nWorking with text data in R\n\n\n\nbeginner\n\n\ntext data\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nNo matching items"
   }
 ]
