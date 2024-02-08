@@ -8,13 +8,13 @@ title: "NCEAS Learning Hub Data Science Curriculum"
 
 NCEAS is a leading expert on interdisciplinary data science and works collaboratively to answer the world's largest and most complex questions. The NCEAS approach leverages existing data and employs a team science philosophy to squeeze out all potential insights and solutions efficiently - this is called [synthesis science](https://www.nceas.ucsb.edu/our-approach).
 
-With over 25 years of experience working with working groups and environmental professionals, NCEAS wants to teach and share skills, workflows, mindsets for successfully doing synthesis science.
+With over 25 years of experience working with working groups and environmental professionals, NCEAS wants to teach and share skills, workflows, and mindsets for successfully doing synthesis science.
 
 ## {{< fa location-dot >}} This Site
 
-Here you can find the description and requirement to all of our curriculum currently available. We offer variety of data science training, from technical to non-technical skills, beginners and intermediate users.
+Here you can find the description and requirements for all of our curricula currently available. We offer a variety of data science training, from technical to non-technical skills, for beginners and intermediate users.
 
-The idea is for your team to decide which skills would be more helpful to learn to advance you science. Then we work together to schedule one or more workshops and make sure you can successfully apply these new skills to your project.
+The idea is for your team to decide which skills would be more helpful to learn to advance your science. Then we work together to schedule one or more workshops and make sure you can successfully apply these new skills to your project.
 
 ## {{< fa lightbulb >}} Why learn this tools?
 
